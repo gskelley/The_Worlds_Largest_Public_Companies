@@ -1,1 +1,26 @@
-# The_Worlds_Largest_Public_Companies
+## THE WORLD'S LARGEST PUBLIC COMPANIES
+The Forbes Global 2000 releases the annual ranking of the top 2000 public companies in the world, distributed by Forbes magazine. "The Global 2000" annual ranking is determined by a weighted evaluation of four key criteria: sales, profit, assets, and market value.
+
+## OBJECTIVE 
+Construct an interactive dashboard that showcases visually captivating and meticulously curated results obtained from an advanced exploratory analysis conducted in Python. 
+
+## DATA
+The is an open sources dataset that can be accessed [here](https://www.kaggle.com/datasets/arjunprasadsarkhel/forbes-top-200020172021). The dataset contains the following information: 
+ * World's Largest Public Companies in 2017, 2018, 2019, 2020, and 2021
+ * Click [here](https://www.forbes.com/sites/isabelcontreras/2022/05/12/inside-the-global-2000-sales-and-profits-of-the-worlds-largest-companies-recovered-as-economies-reopened/?sh=5dca7ea41141) for Forbes' Global 2000 methodology
+
+## LIMITATIONS
+* Data only contains records from 2017 – 2021.
+* The global largest public companies are limited to the top 2000 performers from various industry types.
+
+## TOOLS
+For this achievement, the following python libraries were used:
+  * pandas - for data analysis
+  * seaborn - for exploratory visual analysis
+  * folium - geospatial analysis
+  * Scikit-learn - for machine learning model (linear regression and k-means clustering) and time series
+  * tableau - for data dashboard (storybroard)
+  * excel
+ 
+ ## DELIVERABLES
+  For full access on [Final Report](https://github.com/gskelley/Instacart_Analysis/blob/main/05%20Sent%20to%20client/Instacart%20Final%20Report.xlsx)
