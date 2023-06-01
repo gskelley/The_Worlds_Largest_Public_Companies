@@ -1,0 +1,6 @@
+,Year,Year,Sales,Sales,Assets,Assets,Profits,Profits,Market Value,Market Value,Sales Growth,Sales Growth,Assets Growth,Assets Growth,Profits Growth,Profits Growth,Market Value Growth,Market Value Growth
+clusters,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median
+dark purple,2012,2012,805119,813954,785216.33,789820,54402.33,51588,726718,723217,30.12,6.49,16.76,7.74,27.57,37.66,17.9,7.11
+light purple,2021.5,2021.5,588705.5,588705.5,909296,909296,42200,42200,2063723,2063723,-9.46,-9.46,-8.42,-8.42,26.39,26.39,46.8,46.8
+pink,2017,2017,848567.57,885250,994493.86,980230,47272.43,51753,1091651.57,1091369,-2.55,-0.77,2.59,4.48,-6.62,-5.02,5.24,-0.73
+purple,2009.5,2009.5,543800,543800,599860,599860,3380,3380,385920,385920,-24.72,-24.72,-20.37,-20.37,-101.71,-101.71,13.52,13.52

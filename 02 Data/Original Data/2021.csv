@@ -1,0 +1,2000 @@
+﻿Year,Rank_nr,Company,Industry,Country,Sales,Profits,Assets,Market_Value
+2021,1,ICBC,Banking,China,190467,45769,4914670,249532
+2021,2,JPMorgan Chase,Diversified Financials,United States of America,136187,40371,3689336,464822
+2021,3,Berkshire Hathaway,Diversified Financials,United States of America,245510,42521,873729,624408
+2021,4,China Construction Bank,Banking,China,173478,39299,4301700,210435
+2021,5,Saudi Arabian Oil Company (Saudi Aramco),Oil & Gas Operations,Saudi Arabia,229747,49283,510252,1897165
+2021,6,Apple,Technology Hardware & Equipment,United States of America,293971,63930,354054,2252292
+2021,7,Bank of America,Banking,United States of America,98841,17894,2832182,336288
+2021,8,Ping An Insurance Group,Insurance,China,169127,20755,1453814,211166
+2021,9,Agricultural Bank of China,Banking,China,153920,31300,4159920,140084
+2021,10,Amazon,Retailing,United States of America,386064,21331,321195,1711839
+2021,11,Samsung Electronics,Technology Hardware & Equipment,South Korea,200703,22113,348187,510507
+2021,12,Toyota Motor,Consumer Durables,Japan,249370,14342,561870,219175
+2021,13,Alphabet,IT Software & Services,United States of America,182350,40269,319616,1538884
+2021,14,Bank of China,Banking,China,134016,27946,3731408,116688
+2021,15,Microsoft,IT Software & Services,United States of America,153284,51310,304137,1966559
+2021,16,Citigroup,Diversified Financials,United States of America,84370,17068,2314266,151181
+2021,17,Volkswagen Group,Consumer Durables,Germany,254081,9501,646384,147159
+2021,18,Walmart,Retailing,United States of America,559151,13510,252496,396108
+2021,19,Wells Fargo,Banking,United States of America,85902,7390,1959543,181546
+2021,20,Verizon Communications,Telecommunications Services,United States of America,128292,17801,316481,241279
+2021,21,UnitedHealth Group,Insurance,United States of America,262916,16883,205171,369629
+2021,22,China Merchants Bank,Banking,China,60414,14092,1278548,192801
+2021,23,Alibaba Group,Retailing,China,93828,23298,250056,657522
+2021,24,Allianz,Insurance,Germany,129859,7760,1357537,107977
+2021,25,Comcast,Media,United States of America,103564,10534,273869,252440
+2021,26,Goldman Sachs Group,Diversified Financials,United States of America,61843,15082,1302000,116459
+2021,27,Softbank,Telecommunications Services,Japan,70291,14935,366689,163120
+2021,28,Postal Savings Bank Of China (PSBC),Banking,China,67249,9281,1736173,112358
+2021,29,Tencent Holdings,IT Software & Services,China,69990,23327,203894,773802
+2021,30,BNP Paribas,Banking,France,102681,7554,3044793,79094
+2021,31,Morgan Stanley,Diversified Financials,United States of America,56690,13418,1158772,123918
+2021,32,China Mobile,Telecommunications Services,Hong Kong,111262,15617,264210,134923
+2021,33,Facebook,IT Software & Services,United States of America,85966,29145,159316,870476
+2021,34,Johnson & Johnson,Drugs & Biotechnology,United States of America,82572,14714,174894,427131
+2021,35,Sony,Consumer Durables,Japan,79871,10091,250677,137257
+2021,36,Intel,Semiconductors,United States of America,77867,20899,153091,263685
+2021,37,CVS Health,Retailing,United States of America,268654,7179,238489,99594
+2021,38,RBC,Banking,Canada,42870,8794,1308193,135040
+2021,39,Nestlé,"Food, Drink & Tobacco",Switzerland,89859,13032,140311,333156
+2021,40,HSBC Holdings,Banking,United Kingdom,60626,3975,2984164,120323
+2021,41,Daimler,Consumer Durables,Germany,175908,4135,349614,99184
+2021,42,TD Bank Group,Banking,Canada,38796,9100,1358640,120591
+2021,43,Nippon Telegraph & Tel,Telecommunications Services,Japan,110283,8332,231120,96726
+2021,44,Deutsche Telekom,Telecommunications Services,Germany,115136,4739,345416,91623
+2021,45,General Electric,Conglomerates,United States of America,79857,5581,255050,117626
+2021,46,Procter & Gamble,Consumer Durables,United States of America,73975,13848,120112,337975
+2021,47,General Motors,Consumer Durables,United States of America,122485,6427,235194,84596
+2021,48,Sinopec,Oil & Gas Operations,China,271077,4770,265116,82596
+2021,49,China Life Insurance,Insurance,China,113848,7255,651916,57257
+2021,50,Industrial Bank ,Banking,China,53806,9653,1207231,66531
+2021,51,Sberbank,Banking,Russia,47260,10447,486937,85651
+2021,52,Mitsubishi UFJ Financial,Banking,Japan,56018,5160,3406542,69680
+2021,53,Cigna,Insurance,United States of America,160550,8458,151543,87738
+2021,54,AXA Group,Insurance,France,129497,3405,951453,67752
+2021,55,AIA Group,Insurance,Hong Kong,42617,5778,321561,153663
+2021,56,Reliance Industries,Oil & Gas Operations,India,61195,5700,166258,164908
+2021,57,Bank of Communications,Banking,China,67589,11145,1635771,47884
+2021,58,Pfizer,Drugs & Biotechnology,United States of America,47644,9615,154229,215150
+2021,59,IBM,IT Software & Services,United States of America,73621,5589,155971,119375
+2021,60,Roche Holding,Drugs & Biotechnology,Switzerland,62137,15230,97447,287052
+2021,61,BMW Group,Consumer Durables,Germany,112846,4303,282007,69844
+2021,62,MetLife,Insurance,United States of America,67842,5407,795146,55779
+2021,63,PetroChina,Oil & Gas Operations,China,280663,2864,380459,66661
+2021,64,LVMH Moët Hennessy Louis Vuitton,Consumer Durables,France,50901,5360,132964,380294
+2021,65,Novartis,Drugs & Biotechnology,Switzerland,48631,8074,132189,198606
+2021,66,Taiwan Semiconductor,Semiconductors,Taiwan,48057,18676,98253,558145
+2021,67,Home Depot,Retailing,United States of America,132110,12866,70581,352758
+2021,68,Shanghai Pudong Development,Banking,China,52256,8450,1215667,47428
+2021,69,Siemens,Conglomerates,Germany,58017,4933,148579,139762
+2021,70,PepsiCo,"Food, Drink & Tobacco",United States of America,71312,7496,91224,199176
+2021,71,Oracle,IT Software & Services,United States of America,39692,12830,118109,227655
+2021,72,Sanofi ,Drugs & Biotechnology,France,41086,14038,140132,127367
+2021,73,Enel,Utilities,Italy,71389,2975,199993,105433
+2021,74,AbbVie,Drugs & Biotechnology,United States of America,45804,4551,150565,190443
+2021,75,Cisco Systems,Technology Hardware & Equipment,United States of America,48022,10129,95601,222910
+2021,76,Zurich Insurance Group,Insurance,Switzerland,58351,3793,413776,61664
+2021,77,Bank of Nova Scotia,Banking,Canada,30656,5079,911229,75271
+2021,78,Commonwealth Bank,Banking,Australia,22381,5748,816200,120650
+2021,79,BHP Group,Materials,Australia,46061,6930,103233,186136
+2021,80,UBS,Banking,Switzerland,32242,6537,1125765,57257
+2021,81,British American Tobacco,"Food, Drink & Tobacco",United States of America,33054,8207,188215,91649
+2021,82,Honda Motor,Consumer Durables,Japan,121803,3883,201271,52776
+2021,83,Intesa Sanpaolo,Banking,Italy,45811,3736,1226748,53316
+2021,84,Merck & Co.,Drugs & Biotechnology,United States of America,47823,7068,91588,196024
+2021,85,Sumitomo Mitsui Financial,Banking,Japan,38587,4936,2256817,48928
+2021,86,Rio Tinto,Materials,Australia,44514,9714,97390,135250
+2021,87,Japan Post Holdings,Insurance,Japan,106586,4231,2878968,34821
+2021,88,US Bancorp,Banking,United States of America,23145,6052,553375,86939
+2021,89,Anthem,Drugs & Biotechnology,United States of America,121885,4572,88276,91992
+2021,90,Charter Communications,Media,United States of America,48097,3222,146099,124834
+2021,91,Unilever,Consumer Durables,United Kingdom,57833,6346,82784,151051
+2021,92,Dell Technologies,Technology Hardware & Equipment,United States of America,94329,3250,123415,77350
+2021,93,Manulife,Insurance,Canada,57212,4377,655034,41905
+2021,94,Hon Hai Precision ,Technology Hardware & Equipment,Taiwan,181970,3457,130766,60407
+2021,95,American Express,Diversified Financials,United States of America,38185,3114,191367,120505
+2021,96,China Vanke,Construction,China,62581,6095,285825,42240
+2021,97,GlaxoSmithKline,Drugs & Biotechnology,United Kingdom,43727,7372,109945,92929
+2021,98,Truist Financial,Banking,United States of America,24334,4899,517537,77763
+2021,99,Rosneft,Oil & Gas Operations,Russia,70790,2032,207532,77657
+2021,100,China State Construction Engineering,Construction,China,215338,6142,322991,33001
+2021,101,JD.com,Retailing,China,108331,7234,64572,119365
+2021,102,Coca-Cola,"Food, Drink & Tobacco",United States of America,33029,7747,87296,231324
+2021,103,Iberdrola,Utilities,Spain,37784,4116,149907,86359
+2021,104,CITIC,Trading Companies,Hong Kong,71293,7301,1256257,29540
+2021,105,Prudential,Insurance,United Kingdom,54751,2099,469502,55742
+2021,106,KDDI,Telecommunications Services,Japan,49251,6159,98412,72138
+2021,107,Bank of Montreal,Banking,Canada,24516,4125,761839,59436
+2021,108,Costco Wholesale,Retailing,United States of America,178626,4344,54918,164056
+2021,109,Itaú Unibanco Holding,Banking,Brazil,37248,3663,389721,48539
+2021,110,State Bank of India,Banking,India,50560,3129,638128,40801
+2021,111,Chubb,Insurance,Switzerland,36052,3533,172207,73264
+2021,112,Mitsubishi,Trading Companies,Japan,116708,3102,179691,41600
+2021,113,Vale,Materials,Brazil,40427,5179,92051,99168
+2021,114,Capital One,Business Services & Supplies,United States of America,31600,2674,421602,62412
+2021,115,PNC Financial Services,Banking,United States of America,17354,8410,474414,75840
+2021,116,HDFC Bank,Banking,India,20677,4139,233578,105918
+2021,117,Credit Agricole,Banking,France,43523,2644,2399458,41003
+2021,118,Itochu,Trading Companies,Japan,96597,4111,107761,47565
+2021,119,FedEx,Transportation,United States of America,78652,3023,82793,76310
+2021,120,Vodafone,Telecommunications Services,United Kingdom,49742,2826,183944,52581
+2021,121,Abbott Laboratories,Health Care Equipment & Services,United States of America,34608,4452,72548,220290
+2021,122,Visa,Business Services & Supplies,United States of America,21479,10359,80426,483900
+2021,123,SAP,IT Software & Services,Germany,31656,6291,71543,164227
+2021,124,Thermo Fisher Scientific,Health Care Equipment & Services,United States of America,32218,6375,69052,193726
+2021,125,China Pacific Insurance,Insurance,China,61183,3552,266566,36340
+2021,126,Lowe's,Retailing,United States of America,89597,5811,48290,149352
+2021,127,BlackRock,Diversified Financials,United States of America,18086,5325,176982,123855
+2021,128,China Citic Bank,Banking,China,50383,7101,1148531,26451
+2021,129,Mizuho Financial,Banking,Japan,30318,3737,2110528,36276
+2021,130,Deutsche Post,Transportation,Germany,76157,3396,70485,72116
+2021,131,Medtronic,Health Care Equipment & Services,Ireland,27927,2892,97270,169736
+2021,132,Caterpillar,Capital Goods,United States of America,41746,2998,78324,127252
+2021,133,Hitachi,Conglomerates,Japan,78694,3188,105975,45945
+2021,134,Lockheed Martin,Aerospace & Defense,United States of America,65398,6833,50710,109202
+2021,135,Generali Group,Insurance,Italy,89998,1988,668014,32297
+2021,136,Target,Retailing,United States of America,93561,4368,51248,103986
+2021,137,Deere & Company,Capital Goods,United States of America,37038,3458,75480,120069
+2021,138,Honeywell International,Conglomerates,United States of America,32640,4779,64586,161209
+2021,139,SAIC Motor,Consumer Durables,China,106686,2960,140592,36369
+2021,140,Country Garden Holdings,Construction,China,67312,5093,308237,27172
+2021,141,ANZ,Banking,Australia,20339,2423,747058,63446
+2021,142,Charles Schwab,Diversified Financials,United States of America,13824,3988,563500,116914
+2021,143,Barclays,Banking,United Kingdom,27912,1957,1844718,44859
+2021,144,Broadcom,Semiconductors,United States of America,24685,3953,76972,195491
+2021,145,Munich Re,Insurance,Germany,73867,1381,368749,43452
+2021,146,Enbridge,Oil & Gas Operations,Canada,28161,2507,125805,75571
+2021,147,ING Group,Diversified Financials,Netherlands,20106,2832,1146803,49342
+2021,148,China Minsheng Bank,Banking,China,49023,4912,1062759,24455
+2021,149,Linde,Chemicals,United Kingdom,27243,2501,88229,151602
+2021,150,Amgen,Drugs & Biotechnology,United States of America,25246,7264,62948,147238
+2021,151,Allstate,Insurance,United States of America,44791,5572,117932,36702
+2021,152,PayPal,Business Services & Supplies,United States of America,21434,4202,70379,316898
+2021,153,Orange,Telecommunications Services,France,48187,5498,135781,32966
+2021,154,Banco Bradesco,Banking,Brazil,26676,3208,306311,40862
+2021,155,Hyundai Motor,Consumer Durables,South Korea,88142,1207,192713,53970
+2021,156,Danaher,Conglomerates,United States of America,22284,3647,76161,173318
+2021,157,Westpac Banking Group,Banking,Australia,21921,1550,654631,71773
+2021,158,L'Oréal,Consumer Durables,France,31910,4062,53355,225724
+2021,159,Petrobras,Oil & Gas Operations,Brazil,52745,1378,190100,53254
+2021,160,NextEra Energy,Utilities,United States of America,17228,2920,127684,158760
+2021,161,AstraZeneca,Drugs & Biotechnology,United Kingdom,27656,3190,66729,133888
+2021,162,China Everbright Bank,Banking,China,37127,5480,820837,23852
+2021,163,Salesforce.com,IT Software & Services,United States of America,21252,4072,66301,213589
+2021,164,Oversea-Chinese Banking,Banking,Singapore,24479,2600,394503,40087
+2021,165,Aviva,Insurance,Venezuela,58956,3553,637708,22331
+2021,166,United Parcel Service,Transportation,United States of America,84432,1427,62408,155998
+2021,167,Progressive,Insurance,United States of America,42638,5698,60757,57790
+2021,168,NAB - National Australia Bank,Banking,Australia,18403,1733,621321,68073
+2021,169,Accenture,IT Software & Services,Ireland,45677,5457,39985,190861
+2021,170,Southern Company,Utilities,United States of America,20241,3134,122935,68690
+2021,171,Canadian Imperial Bank,Banking,Canada,17572,3142,612868,44720
+2021,172,China Shenhua Energy,Materials,China,33890,5154,86074,42403
+2021,173,SK Hynix,Semiconductors,South Korea,27037,4030,65520,84248
+2021,174,Philip Morris International,"Food, Drink & Tobacco",United States of America,28697,8036,44815,144801
+2021,175,VINCI,Construction,France,50079,1415,111545,61362
+2021,176,Mondelez International,"Food, Drink & Tobacco",United States of America,26581,3572,67810,82578
+2021,177,Lloyds Banking Group,Banking,United Kingdom,43436,1109,1190981,42540
+2021,178,Mitsui,Trading Companies,Japan,59850,2392,114695,34983
+2021,179,Union Pacific,Transportation,United States of America,19533,5349,63466,148482
+2021,180,3M,Conglomerates,United States of America,32184,5384,47344,115061
+2021,181,CK Hutchison,Conglomerates,Hong Kong,34347,3758,161803,31638
+2021,182,ICICI Bank,Banking,India,21294,1990,207938,52712
+2021,183,Midea Group,Consumer Durables,China,39071,3555,51456,85514
+2021,184,Exelon,Utilities,United States of America,33431,1964,129317,45087
+2021,185,Credit Suisse Group,Banking,Switzerland,32583,2844,911615,25922
+2021,186,Eli Lilly,Drugs & Biotechnology,United States of America,24540,6194,46633,181382
+2021,187,CNOOC,Oil & Gas Operations,Hong Kong,22519,3627,110290,48440
+2021,188,Legal & General Group,Insurance,United Kingdom,64414,2053,770449,22889
+2021,189,Aflac,Insurance,United States of America,22147,4779,164086,36752
+2021,190,China Resources Land,Construction,Hong Kong,27084,4337,132885,34508
+2021,191,BBVA-Banco Bilbao Vizcaya,Banking,Spain,32934,1488,900748,34772
+2021,192,HCA Healthcare,Health Care Equipment & Services,United States of America,51533,3754,47490,66353
+2021,193,Duke Energy,Utilities,United States of America,23868,1377,167282,77437
+2021,194,América Móvil,Telecommunications Services,Mexico,47294,2179,75616,48326
+2021,195,Takeda Pharmaceutical,Drugs & Biotechnology,Japan,29964,1693,119000,53265
+2021,196,DBS,Banking,Singapore,13194,3423,491909,55443
+2021,197,Bank of New York Mellon,Banking,United States of America,15896,3561,469633,40401
+2021,198,Longfor Group Holdings,Construction,China,27039,2918,117000,39417
+2021,199,Schneider Electric,Capital Goods,France,28681,2424,60544,91308
+2021,200,Travelers,Insurance,United States of America,31995,2675,109133,39215
+2021,201,McDonald's,"Hotels, Restaurants & Leisure",United States of America,19208,4731,52627,173778
+2021,202,Poly Developments & Holdings Group,Construction,China,34315,3446,189418,26589
+2021,203,Tokio Marine Holdings,Insurance,Japan,49650,1366,247607,34716
+2021,204,China Telecom,Telecommunications Services,China,57043,3003,109345,27707
+2021,205,Nike,Consumer Durables,United States of America,38456,3428,36185,212204
+2021,206,Qualcomm,Semiconductors,United States of America,26690,6728,37479,157007
+2021,207,Centene,Drugs & Biotechnology,United States of America,111115,1808,69843,37780
+2021,208,Micron Technology,Semiconductors,United States of America,23503,3197,54135,101668
+2021,209,Cathay Financial,Insurance,Taiwan,37886,2533,389437,23165
+2021,210,EDF ,Utilities,France,78694,741,374273,44418
+2021,211,Fubon Financial,Insurance,Taiwan,35197,3066,328415,21666
+2021,212,Sun Life Financial,Diversified Financials,Canada,26973,1862,250524,30611
+2021,213,General Dynamics,Aerospace & Defense,United States of America,37925,3167,51308,52307
+2021,214,Møller-Maersk,Transportation,Denmark,39649,2790,56117,47836
+2021,215,Volvo Group,Consumer Durables,Sweden,36769,2099,62200,52150
+2021,216,Altria Group,"Food, Drink & Tobacco",United States of America,20841,4459,47414,96888
+2021,217,Humana,Drugs & Biotechnology,United States of America,77085,3367,35077,56156
+2021,218,Anglo American,Materials,United Kingdom,30801,2069,62534,54570
+2021,219,Netflix,Media,United States of America,24996,2761,39280,242060
+2021,220,HDFC,Business Services & Supplies,India,16181,2362,104967,62444
+2021,221,Qatar National Bank,Banking,Qatar,13115,2951,286316,45374
+2021,222,Xiaomi  ,Technology Hardware & Equipment,China,35734,2976,38790,84502
+2021,223,Air Liquide,Chemicals,France,23353,2776,51361,79873
+2021,224,Nordea Bank,Banking,Finland,12658,2534,676136,42046
+2021,225,Northrop Grumman,Aerospace & Defense,United States of America,36799,3189,44469,55762
+2021,226,ABB,Conglomerates,Switzerland,26043,5079,41088,67823
+2021,227,China Evergrande Group,Construction,China,74001,1157,351870,23930
+2021,228,Seven & I Holdings,Food Markets,Japan,54423,1692,65204,36896
+2021,229,KB Financial Group,Banking,South Korea,30784,2909,564394,18394
+2021,230,Sunac China Holdings,Construction,China,34127,5201,169486,18640
+2021,231,Kroger,Food Markets,United States of America,132498,2585,51649,28254
+2021,232,EMD Group,Drugs & Biotechnology,Germany,19988,2265,51639,77553
+2021,233,E.ON,Utilities,Germany,69475,1031,123302,30738
+2021,234,PTT ,Oil & Gas Operations,Thailand,51627,1202,84919,36364
+2021,235,Telefónica,Telecommunications Services,Spain,49106,1518,128535,24398
+2021,236,National Grid,Utilities,United Kingdom,18840,1865,85034,44258
+2021,237,HP,Technology Hardware & Equipment,United States of America,57663,3234,34737,42561
+2021,238,Danone,"Food, Drink & Tobacco",France,26885,2213,52339,46371
+2021,239,Panasonic,Consumer Durables,Japan,61893,1664,64630,30149
+2021,240,Power Corp of Canada,Diversified Financials,Canada,43856,1525,476439,18675
+2021,241,Mastercard,Business Services & Supplies,United States of America,15301,6411,33584,383607
+2021,242,Baidu,IT Software & Services,China,15549,3266,50874,75363
+2021,243,PICC,Insurance,China,82443,2890,191972,14457
+2021,244,Fortum,Utilities,Finland,55876,2083,70733,24007
+2021,245,Fresenius,Health Care Equipment & Services,Germany,41355,1946,81545,25422
+2021,246,Dow,Chemicals,United States of America,38542,1216,61470,48201
+2021,247,Archer Daniels Midland,"Food, Drink & Tobacco",United States of America,64395,1772,49719,33203
+2021,248,Shinhan Financial Group,Diversified Financials,South Korea,22942,2822,557152,17630
+2021,249,ASML Holding,Semiconductors,Netherlands,15935,4051,33363,267644
+2021,250,American Electric,Utilities,United States of America,14908,2200,84017,43979
+2021,251,Becton Dickinson,Health Care Equipment & Services,United States of America,18207,1600,54748,75819
+2021,252,Gree Electric Appliances,Consumer Durables,China,24314,2323,40264,55267
+2021,253,LafargeHolcim,Construction,Switzerland,24656,1789,60212,38901
+2021,254,China Railway Group,Construction,China,141613,3437,183488,12523
+2021,255,Automatic Data Processing,Business Services & Supplies,United States of America,14591,2482,49326,82567
+2021,256,NVIDIA,Semiconductors,United States of America,16675,4332,28791,396147
+2021,257,KBC Group,Banking,Belgium,13639,1585,392445,31297
+2021,258,Royal Ahold Delhaize N.V.,Food Markets,Netherlands,85198,1593,49789,28612
+2021,259,Sun Hung Kai Properties,Construction,Hong Kong,11719,2795,100529,44493
+2021,260,Novo Nordisk,Drugs & Biotechnology,Denmark,19413,6444,23822,167333
+2021,261,Investor AB,Diversified Financials,Sweden,9574,5735,69533,66301
+2021,262,Tesla,Consumer Durables,United States of America,31536,690,52148,710081
+2021,263,Huaxia Bank,Banking,China,22937,2966,489185,14814
+2021,264,Kweichow Moutai,"Food, Drink & Tobacco",China,12185,6766,32630,395754
+2021,265,Citic Securities,Diversified Financials,China,12377,2152,161008,32076
+2021,266,KIA,Consumer Durables,South Korea,50147,1261,55685,31210
+2021,267,Japan Tobacco,"Food, Drink & Tobacco",Japan,19599,2906,52122,34061
+2021,268,Dollar General,Retailing,United States of America,33747,2655,28468,51858
+2021,269,Posco,Materials,South Korea,48982,1352,72804,23390
+2021,270,State Street,Diversified Financials,United States of America,11384,2305,316885,28031
+2021,271,Tesco,Food Markets,United Kingdom,74835,1136,64002,24595
+2021,272,Banco do Brasil,Banking,Brazil,23972,2298,314014,15110
+2021,273,Baoshan Iron & Steel,Materials,China,39139,1628,52318,28017
+2021,274,Orix,Business Services & Supplies,Japan,21236,1877,129057,19982
+2021,275,Fiserv,Business Services & Supplies,United States of America,14852,958,74619,83386
+2021,276,China Unicom,Telecommunications Services,Hong Kong,44034,1803,90481,17564
+2021,277,Wilmar International,"Food, Drink & Tobacco",Singapore,50463,1530,51020,25903
+2021,278,Sempra Energy,Oil & Gas Operations,United States of America,11351,3943,66623,41800
+2021,279,LG Electronics,Consumer Durables,South Korea,53617,1668,44375,27179
+2021,280,NN Group,Insurance,Netherlands,21148,2103,321396,15791
+2021,281,Mitsubishi Electric,Capital Goods,Japan,38897,1591,43084,33111
+2021,282,Kering,Consumer Durables,France,14934,2451,34266,95029
+2021,283,Diageo,"Food, Drink & Tobacco",United Kingdom,14652,1441,44841,104352
+2021,284,Reckitt Benckiser Group,Consumer Durables,United Kingdom,17944,1522,42775,65651
+2021,285,Bank of Beijing,Banking,China,17924,2844,421203,15364
+2021,286,Poste Italiane,Insurance,Italy,27631,1319,333242,16791
+2021,287,ViacomCBS,Media,United States of America,25934,2422,52663,25419
+2021,288,Nomura,Diversified Financials,Japan,16475,2567,431907,16363
+2021,289,BT Group,Telecommunications Services,United Kingdom,28102,1939,69174,21139
+2021,290,Henkel,Consumer Durables,Germany,21945,1605,37729,51463
+2021,291,Dai-ichi Life Insurance,Insurance,Japan,57919,658,615564,20732
+2021,292,Korea Electric Power,Utilities,South Korea,49640,1688,187004,13773
+2021,293,Ericsson,Technology Hardware & Equipment,Sweden,25247,1899,33063,46891
+2021,294,United Overseas Bank,Banking,Singapore,9478,2047,326723,32784
+2021,295,TC Energy,Oil & Gas Operations,Canada,9568,3441,78728,46633
+2021,296,Bank Of Shanghai,Banking,China,14039,2710,358848,18077
+2021,297,Adobe,IT Software & Services,United States of America,13697,5566,24985,250988
+2021,298,Fannie Mae,Business Services & Supplies,United States of America,109639,11805,3986057,2768
+2021,299,CNP Assurances,Insurance,France,37534,1491,515674,13632
+2021,300,Inditex,Retailing,Spain,23427,1270,32095,106050
+2021,301,Applied Materials,Semiconductors,United States of America,18200,3857,23305,122719
+2021,302,BCE,Telecommunications Services,Canada,17090,1807,47618,42058
+2021,303,Couche Tard,Food Markets,Canada,43059,2718,27518,35944
+2021,304,Saudi Telecom,Telecommunications Services,Saudi Arabia,15710,2954,32512,64313
+2021,305,Bank of Ningbo,Banking,China,9316,2037,226386,34779
+2021,306,CaixaBank,Banking,Spain,11584,1574,552457,24688
+2021,307,Macquarie Group,Diversified Financials,Australia,9769,1480,165379,41834
+2021,308,IntercontinentalExchange,Diversified Financials,United States of America,7642,2089,126200,67936
+2021,309,Surgutneftegas,Oil & Gas Operations,Russia,18755,8377,79427,16691
+2021,310,Deutsche Bank,Banking,Germany,35446,567,1621521,25836
+2021,311,AT&T,Telecommunications Services,United States of America,171760,-5176,525761,213797
+2021,312,Tyson Foods,"Food, Drink & Tobacco",United States of America,42830,1971,35458,28232
+2021,313,Marsh & McLennan,Insurance,United States of America,17198,2016,33049,64928
+2021,314,Ameriprise Financial,Diversified Financials,United States of America,12066,1534,165883,29006
+2021,315,First Abu Dhabi Bank,Banking,United Arab Emirates,7384,2758,250210,43250
+2021,316,Hartford Financial Services,Insurance,United States of America,20523,1737,69198,23670
+2021,317,ExxonMobil,Oil & Gas Operations,United States of America,178170,-22440,332750,239869
+2021,318,Freddie Mac,Business Services & Supplies,United States of America,68693,7326,2627415,1534
+2021,319,Vivendi,Telecommunications Services,France,18342,1642,46644,37324
+2021,320,Saudi National Bank,Banking,Saudi Arabia,6581,3049,159784,65280
+2021,321,CRH,Construction,United States of America,27536,1117,44944,38177
+2021,322,Tata Consultancy Services,IT Software & Services,India,22116,4369,17884,158878
+2021,323,Philips,Health Care Equipment & Services,Netherlands,22269,1365,34168,54800
+2021,324,Royal Dutch Shell,Oil & Gas Operations,Netherlands,170189,-22166,379268,151972
+2021,325,Stryker,Health Care Equipment & Services,United States of America,14351,1599,34330,96764
+2021,326,Etisalat,Telecommunications Services,United Arab Emirates,14077,2457,36214,51852
+2021,327,Mitsui Fudosan,Construction,Japan,19465,1691,73577,22202
+2021,328,Daiwa House Industry,Construction,Japan,39534,1809,48317,20630
+2021,329,Shin-Etsu Chemical,Chemicals,Japan,13674,2627,31513,72520
+2021,330,Daikin Industries,Capital Goods,Japan,22859,1419,29524,60954
+2021,331,CSX,Transportation,United States of America,10583,2765,40271,74917
+2021,332,Lennar,Construction,United States of America,23288,3032,30552,33181
+2021,333,LyondellBasell Industries,Chemicals,United Kingdom,27749,1424,35403,35955
+2021,334,Swiss Life Holding,Insurance,Switzerland,23883,1114,268999,16376
+2021,335,Chevron,Oil & Gas Operations,United States of America,94402,-5543,239790,198513
+2021,336,General Mills,"Food, Drink & Tobacco",United States of America,18626,2549,32649,37391
+2021,337,Newmont Mining,Materials,United States of America,11417,2829,41369,52400
+2021,338,Barrick Gold,Materials,Canada,12521,2324,46506,39533
+2021,339,China Railway Construction,Construction,China,131860,3258,190035,8931
+2021,340,Haier Smart Home,Consumer Durables,China,30330,1292,31111,41845
+2021,341,Anhui Conch Cement,Construction,China,22673,4898,25911,32976
+2021,342,Discover Financial Services,Business Services & Supplies,United States of America,12954,1129,113267,31330
+2021,343,Texas Instruments,Semiconductors,United States of America,14461,5568,19351,177153
+2021,344,DNB,Banking,Norway,7486,1988,340920,34502
+2021,345,Total,Oil & Gas Operations,France,119715,-7579,266132,118449
+2021,346,Nintendo,Consumer Durables,Japan,15832,4111,22549,71212
+2021,347,Fortescue Metals Group,Materials,Australia,15534,6283,24473,49568
+2021,348,China Yangtze Power,Utilities,China,8261,3798,50002,71368
+2021,349,Cardinal Health,Drugs & Biotechnology,United States of America,156452,1382,44719,18005
+2021,350,Canadian National Railway,Transportation,Canada,10303,2656,35622,84494
+2021,351,BP,Oil & Gas Operations,United Kingdom,180022,-20913,267654,84505
+2021,352,Walt Disney,Media,United States of America,60409,-4954,201888,339926
+2021,353,Hyundai Mobis,Capital Goods,South Korea,31042,1296,44645,25289
+2021,354,Eaton,Capital Goods,Ireland,17858,1410,31824,56229
+2021,355,Principal Financial Group,Diversified Financials,United States of America,14742,1396,296628,17225
+2021,356,New China Life Insurance,Insurance,China,29851,2066,153056,11864
+2021,357,Johnson Controls International,Business Services & Supplies,Ireland,22082,923,41424,45010
+2021,358,Woolworths,Food Markets,Australia,46201,973,30468,41181
+2021,359,RWE Group,Utilities,Germany,15604,1134,80989,27721
+2021,360,Bank Of Jiangsu,Banking,China,14892,2097,332665,14016
+2021,361,Santander,Banking,Spain,73588,-9999,1845419,59604
+2021,362,Bank Rakyat Indonesia (BRI),Banking,Indonesia,9973,1283,107602,36530
+2021,363,Fujitsu,Technology Hardware & Equipment,Japan,34017,1635,29353,30257
+2021,364,Maybank,Banking,Malaysia,10512,1542,213017,22900
+2021,365,Toyota Industries,Consumer Durables,Japan,19392,1184,58158,27221
+2021,366,Larsen & Toubro,Construction,India,17827,2053,42025,25687
+2021,367,Gazprom,Oil & Gas Operations,Russia,90453,-921,294924,73474
+2021,368,Norfolk Southern,Transportation,United States of America,9789,2010,38414,73510
+2021,369,Synchrony Financial,Business Services & Supplies,United States of America,12827,1385,95948,24070
+2021,370,Keurig Dr Pepper,"Food, Drink & Tobacco",United States of America,11618,1325,49779,50676
+2021,371,L3Harris Technologies,Aerospace & Defense,United States of America,18194,1119,36960,43317
+2021,372,Greenland Holdings Group,Construction,China,68662,1314,206295,10409
+2021,373,BAE Systems,Aerospace & Defense,United States of America,24720,1666,38198,23204
+2021,374,Waste Management,Business Services & Supplies,United States of America,15218,1496,29668,56997
+2021,375,Brookfield Asset Management,Diversified Financials,Canada,63400,-176,343696,69674
+2021,376,Xcel Energy,Utilities,United States of America,11526,1473,56274,37864
+2021,377,Anheuser-Busch InBev,"Food, Drink & Tobacco",Belgium,46752,-742,229952,134128
+2021,378,Raytheon Technologies,Aerospace & Defense,United States of America,63519,-3519,162153,118584
+2021,379,Emerson Electric,Capital Goods,United States of America,16797,2084,23678,55323
+2021,380,Al Rajhi Bank,Banking,Saudi Arabia,5646,2824,124967,62782
+2021,381,Boeing,Aerospace & Defense,United States of America,58161,-11873,152136,144848
+2021,382,Sherwin-Williams,Chemicals,United States of America,18362,2030,20402,71435
+2021,383,VMware,IT Software & Services,United States of America,11767,2058,29016,68757
+2021,384,Ally Financial,Banking,United States of America,10475,2201,181879,17809
+2021,385,China Merchants Shekou Industrial Zone Holdings,Construction,China,17468,1775,112719,14451
+2021,386,Imperial Brands,"Food, Drink & Tobacco",United Kingdom,21177,1905,41770,20692
+2021,387,American Tower,Diversified Financials,United States of America,8042,1691,47234,110578
+2021,388,Norilsk Nickel,Materials,Russia,15724,3509,20706,53229
+2021,389,China National Building,Construction,China,37023,1824,69785,12918
+2021,390,Samsung Life Insurance,Insurance,South Korea,24299,1073,309720,12997
+2021,391,Emirates NBD,Banking,United Arab Emirates,9745,1718,190051,20550
+2021,392,Ford Motor,Consumer Durables,United States of America,127144,-1279,267261,48812
+2021,393,Starbucks,"Hotels, Restaurants & Leisure",United States of America,23168,665,29968,139322
+2021,394,China Communications Construction,Construction,China,90841,2275,199420,7823
+2021,395,CTBC Financial,Banking,Taiwan,13386,1455,235485,15308
+2021,396,AIRBUS,Aerospace & Defense,Netherlands,56898,-1292,134707,97573
+2021,397,Telecom Italia,Telecommunications Services,Italy,18017,8235,89605,11312
+2021,398,Zijin Mining Group,Materials,China,26591,1186,29043,34882
+2021,399,National Bank of Canada,Banking,Canada,8081,1649,269002,23692
+2021,400,SEB AB,Banking,Sweden,6955,1711,370218,27749
+2021,401,Sompo,Insurance,Japan,34382,932,123332,13691
+2021,402,Aon,Insurance,Ireland,11069,1969,32114,54037
+2021,403,Weichai Power,Capital Goods,China,28499,1332,41400,20054
+2021,404,Carrier Global,Capital Goods,United States of America,17456,1982,25093,38144
+2021,405,Saint-Gobain,Construction,France,43465,520,59496,33793
+2021,406,Murata Manufacturing,Technology Hardware & Equipment,Japan,14832,1991,23259,52877
+2021,407,Hengli Petrochemical,Capital Goods,China,17821,1870,28391,31500
+2021,408,Recruit Holdings ,Business Services & Supplies,Japan,21036,1226,20406,77264
+2021,409,Cosco Shipping,Transportation,China,24876,1459,41580,19060
+2021,410,Bristol Myers Squibb,Drugs & Biotechnology,United States of America,42518,-9015,118481,146233
+2021,411,Danske Bank,Banking,Denmark,20911,618,675472,16984
+2021,412,Cummins,Capital Goods,United States of America,19811,1789,22624,38739
+2021,413,OMV Group,Oil & Gas Operations,Austria,18867,1434,63444,16777
+2021,414,Saudi Electricity,Utilities,Saudi Arabia,18311,559,129398,27192
+2021,415,Glencore International,Materials,Switzerland,142360,-1963,118000,55159
+2021,416,D.R. Horton,Construction,United States of America,22224,2734,19780,35050
+2021,417,Best Buy,Retailing,United States of America,47262,1798,19067,29973
+2021,418,Prudential Financial,Diversified Financials,United States of America,57033,-408,940722,39099
+2021,419,Stellantis,Consumer Durables,Netherlands,98808,33,122025,57042
+2021,420,Suzuki Motor,Consumer Durables,Japan,28453,1226,37068,21035
+2021,421,BASF,Chemicals,Germany,67428,-1208,100860,79716
+2021,422,Canon,Business Services & Supplies,Japan,29599,780,44802,24882
+2021,423,Fast Retailing,Retailing,Japan,18905,904,23483,84687
+2021,424,Fifth Third Bank,Banking,United States of America,7404,1432,204680,27162
+2021,425,CME Group,Diversified Financials,United States of America,4884,2105,124744,74533
+2021,426,EnBW-Energie Baden,Utilities,Germany,22451,680,59998,26542
+2021,427,Samsung C&T,Trading Companies,South Korea,25609,908,50016,20536
+2021,428,CRRC,Capital Goods,China,32925,1655,60045,12521
+2021,429,Bayer ,Drugs & Biotechnology,Germany,47195,-11964,150313,63552
+2021,430,Toyota Tsusho,Trading Companies,Japan,56954,1015,47048,15520
+2021,431,Public Service Enterprise Group,Utilities,United States of America,9298,1905,50050,31998
+2021,432,Phoenix Group Holdings,Insurance,United Kingdom,27877,994,443641,10481
+2021,433,Consolidated Edison,Utilities,United States of America,12238,1101,62895,26802
+2021,434,Kimberly-Clark,Consumer Durables,United States of America,19140,2352,17523,47057
+2021,435,Wesfarmers,Food Markets,Australia,22888,1292,19691,48807
+2021,436,Bank Central Asia,Banking,Indonesia,5950,1866,76553,53110
+2021,437,Kraft Heinz Company,"Food, Drink & Tobacco",United States of America,26184,356,99830,50148
+2021,438,Paccar,Capital Goods,United States of America,18724,1298,28260,32950
+2021,439,American International Group,Insurance,United States of America,43736,-5944,512940,40616
+2021,440,Mitsubishi Estate,Construction,Japan,11734,1410,59838,23446
+2021,441,Equinor,Oil & Gas Operations,Norway,45428,-5370,121972,63665
+2021,442,DTE Energy,Utilities,United States of America,12280,1366,45496,27254
+2021,443,Lenovo Group,Technology Hardware & Equipment,Hong Kong,55683,961,38645,16769
+2021,444,Fujifilm Holdings,Consumer Durables,Japan,20232,1225,32640,25167
+2021,445,Colgate-Palmolive,Consumer Durables,United States of America,16471,2695,15920,68479
+2021,446,Hana Financial Group,Banking,South Korea,12550,2189,423744,10708
+2021,447,Kotak Mahindra Bank,Diversified Financials,India,7453,1256,65322,47063
+2021,448,Telstra,Telecommunications Services,Australia,15017,1224,33461,31536
+2021,449,Biogen,Drugs & Biotechnology,United States of America,10608,4001,24619,40697
+2021,450,Talanx,Insurance,Germany,45657,767,216412,11011
+2021,451,Carrefour,Food Markets,France,82249,731,58226,14658
+2021,452,Standard Chartered,Banking,United Kingdom,20956,426,789050,21252
+2021,453,Svenska Handelsbanken,Banking,Sweden,6514,1693,381768,22761
+2021,454,Sumitomo Mitsui Trust,Banking,Japan,12061,1271,587903,12997
+2021,455,DISH Network,Media,United States of America,15493,1763,38350,20001
+2021,456,Meituan,IT Software & Services,China,16723,660,25471,218625
+2021,457,Walgreens,Retailing,United States of America,138463,-616,90920,46072
+2021,458,BYD,Consumer Durables,China,22336,585,30943,64882
+2021,459,Fosun International,Insurance,China,19824,1172,117386,12106
+2021,460,ENGIE ,Oil & Gas Operations,France,63555,-1751,187426,35907
+2021,461,Eni,Oil & Gas Operations,Italy,50144,-9762,137900,44295
+2021,462,Kubota,Capital Goods,Japan,17357,1204,30891,28607
+2021,463,Shimao Property Holdings,Construction,Hong Kong,19781,1835,90179,10689
+2021,464,CK Asset Holdings,Construction,Hong Kong,8357,2106,67154,22912
+2021,465,Bank of Nanjing,Banking,China,9540,1806,219526,14191
+2021,466,Edp-energias De Portugal,Utilities,Portugal,14355,914,52548,23835
+2021,467,LukOil,Oil & Gas Operations,Russia,71800,210,81467,52252
+2021,468,Sany Heavy Industry,Capital Goods,China,14386,2217,19306,41152
+2021,469,Grupo Mexico,Materials,Mexico,10325,1851,28416,40528
+2021,470,Michelin Group,Consumer Durables,France,23334,716,38709,26598
+2021,471,Komatsu,Capital Goods,Japan,19928,791,34801,29278
+2021,472,NetEase,IT Software & Services,China,10689,1730,21694,73372
+2021,473,Asahi Group Holdings,"Food, Drink & Tobacco",Japan,18992,869,42998,22198
+2021,474,SK Telecom,Telecommunications Services,South Korea,15785,1263,44101,19296
+2021,475,Air Products & Chemicals,Chemicals,United States of America,8977,1897,26088,63613
+2021,476,Athene Holding,Insurance,Bermuda,14764,1541,197923,10634
+2021,477,eBay,Business Services & Supplies,United States of America,10697,5667,19310,44181
+2021,478,Freeport-McMoRan,Materials,United States of America,13873,590,42144,55626
+2021,479,Power Construction Corporation of China,Construction,China,53283,1037,132884,9149
+2021,480,LG Chem,Chemicals,South Korea,25819,435,38101,62513
+2021,481,Saudi Basic Industries,Chemicals,Saudi Arabia,31337,37,79966,93254
+2021,482,Bouygues,Construction,France,39550,793,49704,15877
+2021,483,Citizens Bank (Rhode IsIand),Banking,United States of America,7371,1634,187217,19058
+2021,484,Capgemini,IT Software & Services,France,18066,1091,26862,30560
+2021,485,Edison International,Utilities,United States of America,13578,739,69372,23276
+2021,486,Magna International,Consumer Durables,Canada,32451,713,28605,28791
+2021,487,Dollar Tree,Retailing,United States of America,25509,1342,20696,27394
+2021,488,Telenor,Telecommunications Services,Norway,13046,1670,29962,25713
+2021,489,China Zheshang Bank,Banking,China,14196,1780,313228,9553
+2021,490,Entergy,Utilities,United States of America,9965,1407,58239,21442
+2021,491,Lam Research,Semiconductors,United States of America,11926,2964,15370,91991
+2021,492,Infosys,IT Software & Services,India,13534,2607,14824,77511
+2021,493,The Estée Lauder Companies,Consumer Durables,United States of America,14178,928,19595,113286
+2021,494,China Tower Corp.,Telecommunications Services,China,11755,933,51589,25873
+2021,495,Corteva,Chemicals,United States of America,14217,681,42649,35180
+2021,496,CSL,Drugs & Biotechnology,Australia,9882,2620,17691,94741
+2021,497,Safran,Aerospace & Defense,France,18959,401,48368,66778
+2021,498,Banorte,Banking,Mexico,9415,1419,89729,17617
+2021,499,KeyCorp,Banking,United States of America,7341,1336,170336,20035
+2021,500,Lufax Holding,IT Software & Services,China,8296,1790,38058,33980
+2021,501,Swedbank,Banking,Sweden,6366,1405,315936,21055
+2021,502,Constellation Brands,"Food, Drink & Tobacco",United States of America,8614,1998,27105,45761
+2021,503,Nidec,Capital Goods,Japan,14613,877,20470,75117
+2021,504,Naspers,Media,South Africa,4783,3104,45660,106127
+2021,505,Vonovia,Construction,Germany,4781,3680,76371,39779
+2021,506,Activision Blizzard,Consumer Durables,United States of America,8090,2197,23109,74748
+2021,507,Bank Mandiri,Banking,Indonesia,8567,1177,101734,20170
+2021,508,Marathon Petroleum,Oil & Gas Operations,United States of America,74991,-9920,85158,35376
+2021,509,Illinois Tool Works,Capital Goods,United States of America,12574,2109,15612,70901
+2021,510,Eversource Energy,Utilities,United States of America,8904,1205,46100,30792
+2021,511,Parker-Hannifin,Capital Goods,United States of America,13505,1432,19827,41449
+2021,512,S.F. Holding,Business Services & Supplies,China,22255,1061,16997,44396
+2021,513,NTPC,Utilities,India,15060,1556,53802,13355
+2021,514,Transneft,Oil & Gas Operations,Russia,14263,2100,44095,13934
+2021,515,Stanley Black & Decker,Consumer Durables,United States of America,14535,1234,23566,33072
+2021,516,Rongsheng Petrochemical,Consumer Durables,China,14028,858,34137,28469
+2021,517,Denso,Consumer Durables,Japan,44648,-234,66136,51171
+2021,518,Gilead Sciences,Drugs & Biotechnology,United States of America,24642,123,68407,84029
+2021,519,Swiss Re ,Insurance,Switzerland,42695,-918,183015,28503
+2021,520,Swisscom,Telecommunications Services,Switzerland,11826,1630,27447,27018
+2021,521,Nutrien,Chemicals,Canada,21005,479,47192,31960
+2021,522,M&G,Diversified Financials,United Kingdom,19011,1459,296580,7948
+2021,523,Cognizant,IT Software & Services,United States of America,16652,1392,16923,42778
+2021,524,Vestas Wind Systems,Capital Goods,Denmark,16886,871,22220,40127
+2021,525,JBS,"Food, Drink & Tobacco",Brazil,52384,892,31536,14848
+2021,526,Société Générale,Banking,France,41447,-991,1788771,20917
+2021,527,Ageas,Insurance,Belgium,12500,1300,135445,11445
+2021,528,NEC,Technology Hardware & Equipment,Japan,27762,986,32388,16252
+2021,529,Adidas,Consumer Durables,Germany,22622,494,25759,64939
+2021,530,Novatek,Oil & Gas Operations,Russia,9646,938,27934,58417
+2021,531,PPG ,Chemicals,United States of America,14338,1194,20139,39667
+2021,532,NatWest Group,Banking,United Kingdom,18050,-477,1092864,33406
+2021,533,Wanhua Chemical Group,Chemicals,China,10541,1455,20452,49843
+2021,534,FirstRand,Diversified Financials,South Africa,7802,923,132739,20541
+2021,535,Aptiv,Consumer Durables,Ireland,13066,1804,17522,38149
+2021,536,Subaru,Consumer Durables,Japan,27484,1078,31969,15187
+2021,537,Erste Group Bank,Banking,Austria,10578,762,340412,14281
+2021,538,Aeon,Food Markets,Japan,81199,-670,107765,24710
+2021,539,T&D Holdings,Insurance,Japan,18872,1473,169140,7357
+2021,540,ArcelorMittal,Materials,Luxembourg,53223,-838,82052,31842
+2021,541,Northern Trust,Banking,United States of America,6083,1197,170004,22228
+2021,542,Metallurgical Corp of China,Construction,China,57912,1149,77432,5468
+2021,543,MediaTek,Semiconductors,Taiwan,10941,1390,19002,54443
+2021,544,Orsted,Oil & Gas Operations,Denmark,5674,2311,32336,66834
+2021,545,Toshiba,Consumer Durables,Japan,28387,699,32626,19186
+2021,546,McKesson,Drugs & Biotechnology,United States of America,237621,-4184,61845,30716
+2021,547,Willis Towers Watson,Insurance,United Kingdom,9369,996,38531,31005
+2021,548,UniCredit,Banking,Italy,26620,-3314,1139683,22896
+2021,549,SingTel,Telecommunications Services,Singapore,12058,783,34382,31493
+2021,550,Shenzhen Overseas,Business Services & Supplies,China,10688,1811,69817,12564
+2021,551,Nissan Motor,Consumer Durables,Japan,72016,-10099,155294,20717
+2021,552,CLP Holdings,Utilities,Hong Kong,10262,1477,30209,24793
+2021,553,TELUS,Telecommunications Services,Canada,11437,900,34013,28124
+2021,554,Chubu Electric Power,Utilities,Japan,27141,1568,54343,9180
+2021,555,Prologis,Diversified Financials,United States of America,4439,1482,56065,84233
+2021,556,Regeneron Pharmaceuticals,Drugs & Biotechnology,United States of America,8497,3513,17163,53845
+2021,557,M&T Bank,Banking,United States of America,6087,1347,142601,19794
+2021,558,Dominion Energy,Utilities,United States of America,15182,-401,95905,66189
+2021,559,LabCorp,Health Care Equipment & Services,United States of America,13978,1556,20072,25601
+2021,560,China Taiping Insurance,Insurance,Hong Kong,35676,844,148729,6938
+2021,561,Standard Bank Group,Banking,South Africa,10541,799,172441,13689
+2021,562,Otsuka Holding,Drugs & Biotechnology,Japan,13326,1387,25452,21551
+2021,563,Baxter International,Health Care Equipment & Services,United States of America,11673,1102,20019,43780
+2021,564,Regions Financial,Banking,United States of America,6352,1094,147389,20366
+2021,565,Crown Castle International,Diversified Financials,United States of America,5840,1056,38768,77629
+2021,566,Phillips 66,Oil & Gas Operations,United States of America,63693,-3982,54721,34456
+2021,567,George Weston,Food Markets,Canada,40785,718,37735,13778
+2021,568,PPL,Utilities,United States of America,7607,1467,48116,22421
+2021,569,RELX,Business Services & Supplies,United Kingdom,9118,1570,19336,51523
+2021,570,Deutsche Boerse,Diversified Financials,Germany,4282,1240,187036,32450
+2021,571,FirstEnergy,Utilities,United States of America,10790,1003,44464,19416
+2021,572,Seazen Group,Construction,China,21454,1492,83258,7633
+2021,573,Hong Kong Exchanges,Diversified Financials,Hong Kong,2474,1483,51472,76082
+2021,574,ConocoPhillips,Oil & Gas Operations,United States of America,18765,-2701,62618,69081
+2021,575,Kansai Electric Power,Utilities,Japan,28166,1023,75686,8860
+2021,576,Lincoln National,Insurance,United States of America,17429,499,352423,12479
+2021,577,Thales,Aerospace & Defense,France,19367,551,38918,21946
+2021,578,Sumitomo Realty,Construction,Japan,8910,1466,53523,16355
+2021,579,Fox,Media,United States of America,12662,1530,22754,22408
+2021,580,Sinopharm Group,Drugs & Biotechnology,China,66263,1045,47591,8890
+2021,581,Rogers Communications,Telecommunications Services,Canada,10375,1187,30498,24475
+2021,582,Atlas Copco,Capital Goods,Sweden,10841,1606,14216,80390
+2021,583,Tokyo Electron,Semiconductors,Japan,12019,2017,12305,70196
+2021,584,EssilorLuxottica,Health Care Equipment & Services,France,16449,97,64014,72811
+2021,585,Astellas Pharma,Drugs & Biotechnology,Japan,11738,1295,22247,28132
+2021,586,Axis Bank,Banking,India,10875,404,130060,27583
+2021,587,Fidelity National Information,Business Services & Supplies,United States of America,12553,157,83842,94948
+2021,588,First Republic Bank,Banking,United States of America,4607,1180,155798,31611
+2021,589,Koç Holding,Oil & Gas Operations,Turkey,20537,1319,84776,5713
+2021,590,DuPont de Nemours,Chemicals,United States of America,20397,-2951,70904,41169
+2021,591,Valero Energy,Oil & Gas Operations,United States of America,64878,-1428,52371,29635
+2021,592,WEC Energy Group,Utilities,United States of America,7242,1201,37927,30585
+2021,593,Great Wall Motor ,Consumer Durables,China,14625,787,23550,28778
+2021,594,Advanced Micro Devices,Semiconductors,United States of America,9763,2490,8962,99780
+2021,595,Aluminum Corp of China,Materials,China,26997,15073,29802,8303
+2021,596,Sekisui House,Construction,Japan,23014,1162,25081,14649
+2021,597,VTB Bank,Banking,Russia,17129,901,245283,8119
+2021,598,Global Payments,Business Services & Supplies,United States of America,7424,585,44202,64271
+2021,599,Indian Oil,Oil & Gas Operations,India,48867,652,44756,11415
+2021,600,CBRE Group,Construction,United States of America,23826,752,18039,27516
+2021,601,Discovery,Media,United States of America,10640,1219,34087,18197
+2021,602,MS&AD Insurance,Insurance,Japan,42778,217,232450,16788
+2021,603,Kyocera,Technology Hardware & Equipment,Japan,14074,659,31276,23852
+2021,604,Fidelity National Financial,Insurance,United States of America,10791,1427,48395,12995
+2021,605,AutoZone,Retailing,United States of America,13390,1872,14160,32964
+2021,606,Porsche Automobil Holding,Consumer Durables,Germany,122,2990,44503,36159
+2021,607,Republic Services,Business Services & Supplies,United States of America,10154,967,23434,33278
+2021,608,TJX Cos,Retailing,United States of America,32137,91,30814,84406
+2021,609,Hikvision,Technology Hardware & Equipment,China,9148,1922,13560,81690
+2021,610,AmerisourceBergen,Drugs & Biotechnology,United States of America,194546,-3222,45847,24501
+2021,611,London Stock Exchange,Diversified Financials,United Kingdom,3134,540,1160733,49304
+2021,612,Trane Technologies,Conglomerates,Ireland,12455,855,18157,41000
+2021,613,Wuliangye Yibin,"Food, Drink & Tobacco",China,6832,2769,14680,155790
+2021,614,SVB Financial Group,Banking,United States of America,3953,1208,115511,28011
+2021,615,Nan Ya Plastics,Chemicals,Taiwan,10278,1463,20810,25159
+2021,616,Shaanxi Coal Industry,Materials,China,13336,1564,22779,16870
+2021,617,CGN Power,Utilities,China,10164,1376,59925,11829
+2021,618,Huatai Securities,Diversified Financials,China,6739,1563,109598,13119
+2021,619,Nucor,Materials,United States of America,20140,717,20125,23746
+2021,620,Xiamen C&D,Trading Companies,China,55595,808,57060,3837
+2021,621,Bunge,"Food, Drink & Tobacco",United States of America,41417,1155,23655,11786
+2021,622,Intuit,IT Software & Services,United States of America,7717,1747,14598,113868
+2021,623,Continental,Consumer Durables,Germany,42924,-1097,50896,28172
+2021,624,CarMax,Retailing,United States of America,18950,747,21542,21125
+2021,625,Asahi Kasei,Chemicals,Japan,19667,750,27810,15977
+2021,626,DSV Panalpina,Transportation,Denmark,17729,650,15821,47716
+2021,627,Ferguson,Trading Companies,United Kingdom,21174,1313,12479,28860
+2021,628,China Cinda Asset Management,Diversified Financials,China,10486,1404,232130,7810
+2021,629,Legend Holding,Technology Hardware & Equipment,China,60631,567,99656,4142
+2021,630,Kao ,Consumer Durables,Japan,12944,1182,16133,32000
+2021,631,International Paper,Materials,United States of America,20580,482,31718,22537
+2021,632,Quanta Computer,Technology Hardware & Equipment,Taiwan,37048,860,23626,13316
+2021,633,Ecopetrol,Oil & Gas Operations,Colombia,13751,457,40759,26284
+2021,634,SSE,Utilities,United Kingdom,8365,1658,26310,21307
+2021,635,Muyuan Foodstuff,"Food, Drink & Tobacco",China,6794,3670,15241,57559
+2021,636,Omnicom Group,Media,United States of America,13171,945,27647,17129
+2021,637,Raymond James Financial,Diversified Financials,United States of America,8403,861,53657,17869
+2021,638,China Fortune Land Development,Construction,China,12953,1733,74415,3930
+2021,639,Essity Ab,Consumer Durables,Sweden,13227,1111,18830,23321
+2021,640,Jardine Matheson,Conglomerates,Bermuda,32647,-394,93526,19034
+2021,641,Natixis,Diversified Financials,France,23172,-22,606049,15339
+2021,642,Resona Holdings,Banking,Japan,7448,1343,682504,9527
+2021,643,Kellogg,"Food, Drink & Tobacco",United States of America,13770,1251,17996,21561
+2021,644,Rocket Companies,Business Services & Supplies,United States of America,16252,3757,37535,2999
+2021,645,Bank Of Hangzhou,Banking,China,6766,981,163137,13682
+2021,646,China Hongqiao Group,Materials,China,12499,1534,27758,13805
+2021,647,Suncor Energy,Oil & Gas Operations,Canada,18387,-3220,66418,31899
+2021,648,East Japan Railway,Transportation,Japan,18603,-3256,86281,26244
+2021,649,China Energy Engineering,Construction,China,39326,686,72793,3027
+2021,650,PG&E,Utilities,United States of America,18469,-1304,106929,22988
+2021,651,Albertsons,Food Markets,United States of America,69355,1062,26319,9311
+2021,652,Arch Capital Group,Insurance,Bermuda,8309,1406,37547,16163
+2021,653,Kuehne & Nagel International,Transportation,Switzerland,21715,840,11144,36918
+2021,654,Siemens Energy,Capital Goods,Germany,30734,-1798,52583,25679
+2021,655,Schlumberger,Oil & Gas Operations,United States of America,23601,-10518,42434,36761
+2021,656,Corning,Technology Hardware & Equipment,United States of America,11310,512,30775,35228
+2021,657,China Reinsurance Group,Insurance,China,24047,830,66340,4483
+2021,658,CNPC Capital,Capital Goods,China,4365,21906,135186,12229
+2021,659,SK Holdings ,Oil & Gas Operations,South Korea,69389,161,126704,13401
+2021,660,Associated British Foods,"Food, Drink & Tobacco",Australia,17730,580,21550,26513
+2021,661,TCL,Technology Hardware & Equipment,China,11088,636,39437,19333
+2021,662,Woori Financial Group,Diversified Financials,South Korea,10129,1067,367376,6632
+2021,663,Sumitomo,Trading Companies,Japan,43624,-1440,75341,17800
+2021,664,Analog Devices,Semiconductors,United States of America,5858,1405,21440,58842
+2021,665,Oil & Natural Gas,Oil & Gas Operations,India,47340,123,68792,18156
+2021,666,Whirlpool,Consumer Durables,United States of America,19449,1081,20350,14739
+2021,667,Grupo ACS,Construction,Spain,39827,654,45680,9582
+2021,668,O'Reilly Automotive,Retailing,United States of America,11604,1752,12273,37246
+2021,669,Infineon Technologies,Semiconductors,Germany,10580,473,26219,55298
+2021,670,Occidental Petroleum,Oil & Gas Operations,United States of America,19659,-14831,84353,22758
+2021,671,ASE Technology Holding,Semiconductors,Taiwan,16199,937,20752,17057
+2021,672,Industrial Bank of Korea,Banking,South Korea,8995,1302,332888,6054
+2021,673,Isbank,Banking,Turkey,13696,1039,94039,2738
+2021,674,S&P Global,Business Services & Supplies,United States of America,7442,2340,12537,91072
+2021,675,Siam Cement,Chemicals,Thailand,12780,1091,25013,15758
+2021,676,Heineken,"Food, Drink & Tobacco",Netherlands,22475,-116,54323,27284
+2021,677,Dongfeng Motor Group,Consumer Durables,China,15662,1576,48399,8095
+2021,678,Hermès International,Consumer Durables,France,7284,1589,13521,128626
+2021,679,Tenaga Nasional,Utilities,Malaysia,10465,855,45105,13933
+2021,680,Banco Btg Pactual,Diversified Financials,Brazil,3091,1020,44924,46115
+2021,681,Conagra Brands,"Food, Drink & Tobacco",United States of America,11733,1191,22105,18022
+2021,682,Nippon Steel ,Materials,Japan,45850,-1854,70442,16581
+2021,683,Repsol ,Oil & Gas Operations,Spain,37941,-3749,60323,19201
+2021,684,Publicis Groupe,Media,France,12298,657,36903,16275
+2021,685,Bridgestone,Consumer Durables,Japan,28047,-218,40577,28698
+2021,686,ENEOS Holdings,Oil & Gas Operations,Japan,72791,-2299,77721,14234
+2021,687,Formosa Petrochemical,Oil & Gas Operations,Taiwan,14097,956,13557,34286
+2021,688,Fortis (Canada),Utilities,Canada,6661,950,44561,20557
+2021,689,Guotai Junan Securities,Diversified Financials,China,5767,1546,107480,12454
+2021,690,Unipol Gruppo,Insurance,Italy,15155,806,96136,4141
+2021,691,Renault,Consumer Durables,France,49559,-9129,141610,12603
+2021,692,Canadian Pacific Railway,Transportation,Canada,5748,1822,18695,49249
+2021,693,China Bohai Bank,Banking,China,9594,1079,213168,7749
+2021,694,Public Bank,Banking,Malaysia,4542,1159,112183,19754
+2021,695,Geely Automobile Holdings,Consumer Durables,Hong Kong,13396,795,16945,27552
+2021,696,HCL Technologies,IT Software & Services,India,10031,1783,10649,36958
+2021,697,BOE Technology Group,Technology Hardware & Equipment,China,18705,364,53324,17734
+2021,698,Guangzhou R&F,Construction,China,12548,1309,67614,4829
+2021,699,Richemont,Consumer Durables,Switzerland,13798,249,38438,59163
+2021,700,Daiichi Sankyo,Drugs & Biotechnology,Japan,9025,661,19867,48434
+2021,701,Kinder Morgan,Oil & Gas Operations,United States of America,11473,106,73506,37456
+2021,702,Inner Mongolia Yili ,"Food, Drink & Tobacco",China,13524,1046,11205,36307
+2021,703,Haitong Securities,Diversified Financials,China,6511,1347,96344,11686
+2021,704,Markel,Insurance,United States of America,9739,787,34935,16733
+2021,705,Kasikornbank,Banking,Thailand,8190,917,122123,10310
+2021,706,Riyad Bank,Banking,Saudi Arabia,3635,1257,82655,19994
+2021,707,China International Capital,Diversified Financials,China,5257,1033,79761,17982
+2021,708,Huishang Bank,Banking,China,8434,1312,194505,4576
+2021,709,Hewlett Packard Enterprise,Technology Hardware & Equipment,United States of America,26918,-432,53451,20753
+2021,710,Daqin Railway,Transportation,China,10349,1496,21931,15749
+2021,711,Keyence,Technology Hardware & Equipment,Japan,4845,1711,18469,115452
+2021,712,Nokia,Technology Hardware & Equipment,Finland,24930,-2769,46522,23735
+2021,713,Canadian Natural Resources,Oil & Gas Operations,Canada,12594,-324,59086,36559
+2021,714,Kone,Construction,Finland,11330,1071,10757,44638
+2021,715,Delta Air Lines,Transportation,United States of America,12653,-13028,73083,29763
+2021,716,Neste,Oil & Gas Operations,Finland,13396,813,12009,45688
+2021,717,STMicroelectronics,Semiconductors,Switzerland,10162,1084,14454,35392
+2021,718,CNH Industrial,Capital Goods,United Kingdom,26032,-493,48719,21622
+2021,719,Simon Property Group,Diversified Financials,United States of America,4608,1228,34787,38438
+2021,720,Kirin Holdings,"Food, Drink & Tobacco",Japan,17323,674,23821,15931
+2021,721,Marubeni,Trading Companies,Japan,57997,-1717,62818,14614
+2021,722,Uber,IT Software & Services,United States of America,12084,-6768,33252,112695
+2021,723,Sysco,Food Markets,United States of America,45902,-338,22490,41119
+2021,724,Zoetis,Drugs & Biotechnology,United States of America,6675,1638,13609,79628
+2021,725,Bharti Airtel,Telecommunications Services,India,13486,-2844,45772,39914
+2021,726,Henderson Land,Construction,Hong Kong,3254,1314,59466,21902
+2021,727,Coca-Cola European Partners,"Food, Drink & Tobacco",United Kingdom,12137,578,23537,24992
+2021,728,Samsung Fire & Marine,Insurance,South Korea,17972,640,84377,7273
+2021,729,Mapfre,Insurance,Spain,20997,600,78031,6467
+2021,730,Power Finance,Business Services & Supplies,India,9051,1254,103556,3874
+2021,731,Femsa,"Food, Drink & Tobacco",Mexico,22958,-90,34370,28688
+2021,732,Coles Group,Food Markets,Australia,27060,722,16533,16058
+2021,733,WH Group ,"Food, Drink & Tobacco",Hong Kong,25589,828,18715,12848
+2021,734,Intact Financial,Insurance,Canada,9345,807,26363,18703
+2021,735,Carlsberg,"Food, Drink & Tobacco",Denmark,8952,922,19770,24214
+2021,736,Huntington Bank,Banking,United States of America,4984,817,123038,16542
+2021,737,Roper Technologies,Conglomerates,United States of America,5527,950,24025,44420
+2021,738,Luxshare Precision Industry,Technology Hardware & Equipment,China,11980,929,9658,35698
+2021,739,Contemporary Amperex Technology,Capital Goods,China,6309,636,20229,117730
+2021,740,Veolia Environnement,Utilities,France,29651,101,55505,16511
+2021,741,Naturgy Energy Group,Oil & Gas Operations,Spain,17493,-396,48385,24082
+2021,742,CDW,IT Software & Services,United States of America,18468,789,9345,25858
+2021,743,Cincinnati Financial,Insurance,United States of America,7536,1216,27216,17136
+2021,744,Vertex Pharmaceuticals,Drugs & Biotechnology,United States of America,6209,2712,11752,56783
+2021,745,Sandvik,Capital Goods,Sweden,9387,949,14506,36168
+2021,746,Evonik,Chemicals,Germany,13908,547,27138,17093
+2021,747,Agile Group Holdings,Construction,China,11871,1371,47978,6201
+2021,748,Logan Property Holdings,Construction,China,10363,1864,37236,8881
+2021,749,Jinke Property Group,Construction,China,12273,1019,58283,5869
+2021,750,Ball,Materials,United States of America,11759,585,18252,29857
+2021,751,Tatneft,Oil & Gas Operations,Russia,10213,1430,17082,17294
+2021,752,China Coal Energy,Materials,China,20473,775,43055,6843
+2021,753,Assa Abloy,Capital Goods,Sweden,9522,996,14299,33645
+2021,754,Otis Worldwide,Construction,United States of America,12756,906,10710,30334
+2021,755,Rakuten,Business Services & Supplies,Japan,13633,-1070,121308,17016
+2021,756,Thomson Reuters,Business Services & Supplies,Canada,5979,1109,17881,45855
+2021,757,China National Nuclear Power,Utilities,China,6931,833,52835,14264
+2021,758,Chunghwa Telecom,Telecommunications Services,Taiwan,7051,1135,18022,31206
+2021,759,Central Japan Railway,Transportation,Japan,9363,-953,91922,28789
+2021,760,SK Innovation ,Oil & Gas Operations,South Korea,28956,-1842,35440,20702
+2021,761,Chongqing Rural Bank,Banking,China,7205,1208,173786,4911
+2021,762,Telkom Indonesia,Telecommunications Services,Indonesia,9182,1305,15751,22853
+2021,763,Pernod Ricard,"Food, Drink & Tobacco",France,9073,300,38875,53384
+2021,764,Sampo,Insurance,Finland,11002,43,66938,27070
+2021,765,Amphenol,Technology Hardware & Equipment,United States of America,8599,1203,12327,41044
+2021,766,CIFI Holdings Group,Construction,China,10494,1167,57999,7461
+2021,767,Unum,Insurance,United States of America,13162,793,60684,5929
+2021,768,Raiffeisen Bank International,Banking,Austria,8293,831,203059,7125
+2021,769,Wipro,IT Software & Services,India,8344,1454,11372,35907
+2021,770,Coal India,Materials,India,12263,1720,20993,10670
+2021,771,Shin Kong Financial,Insurance,Taiwan,17146,456,155062,4361
+2021,772,Aegon,Insurance,Netherlands,26394,-166,519891,9610
+2021,773,Samsung SDI,Technology Hardware & Equipment,South Korea,9573,487,19823,41573
+2021,774,Altice USA,Media,United States of America,9895,436,33990,22673
+2021,775,Equitable Holdings,Diversified Financials,United States of America,12416,-635,275397,14431
+2021,776,National Bank of Kuwait ,Banking,Kuwait,3814,719,97690,19801
+2021,777,Mega Financial Holding,Diversified Financials,Taiwan,2794,850,137247,15380
+2021,778,United Rentals,Business Services & Supplies,United States of America,8530,890,18411,23734
+2021,779,United Airlines Holdings,Transportation,United States of America,15355,-7069,66027,18078
+2021,780,Beijing-Shanghai High-Speed Railway,Transportation,China,3572,609,45154,43740
+2021,781,Deutsche Wohnen,Construction,Germany,3190,1713,38141,18586
+2021,782,Gallagher,Insurance,United States of America,6854,819,22331,26701
+2021,783,Ameren,Utilities,United States of America,5794,871,32030,21516
+2021,784,Amcor,Materials,United Kingdom,12484,778,16718,18666
+2021,785,Tata Motors,Consumer Durables,India,30175,-2124,41767,16065
+2021,786,T Rowe Price,Diversified Financials,United States of America,6207,2307,10902,40533
+2021,787,HeidelbergCement,Construction,Germany,20070,-2439,40709,19120
+2021,788,Formosa Plastics,Chemicals,Taiwan,7061,1221,17057,24484
+2021,789,Schindler Holding,Capital Goods,Switzerland,11336,769,12305,33424
+2021,790,DSM,Materials,Netherlands,9773,578,17575,30885
+2021,791,Siam Commercial Bank,Banking,Thailand,5603,870,109425,11377
+2021,792,Bharat Petroleum,Oil & Gas Operations,India,30015,542,20611,12078
+2021,793,Compass Group,"Hotels, Restaurants & Leisure",United Kingdom,25407,170,19048,39158
+2021,794,Uni-President,"Food, Drink & Tobacco",Taiwan,15192,732,17629,14676
+2021,795,Hershey,"Food, Drink & Tobacco",United States of America,8150,1279,9132,33311
+2021,796,Power Grid of India,Utilities,India,5299,1595,35039,14770
+2021,797,Oneok,Oil & Gas Operations,United States of America,8561,613,23079,22990
+2021,798,Zhongsheng Group Holdings,Retailing,China,21580,805,10474,16600
+2021,799,TDK,Technology Hardware & Equipment,Japan,12992,529,21390,18133
+2021,800,Jiangsu Zhangjiagang Rural Commercial Bank,Banking,China,5531,1457,219865,1538
+2021,801,Boston Scientific,Health Care Equipment & Services,United States of America,9913,-139,30777,58113
+2021,802,MTN Group,Telecommunications Services,South Africa,10894,1034,23756,11654
+2021,803,Bajaj Finserv ,Conglomerates,India,7759,497,35386,21024
+2021,804,VakifBank,Banking,Turkey,7866,1060,80401,1684
+2021,805,Fortive,Technology Hardware & Equipment,United States of America,6512,1613,16052,24470
+2021,806,Lumen Technologies,Telecommunications Services,United States of America,20712,-1232,59394,14052
+2021,807,Sika,Chemicals,Switzerland,8393,878,11410,41758
+2021,808,Gemdale,Construction,China,8150,1376,55764,8305
+2021,809,RiseSun Real Estate Development,Construction,China,10453,1233,40335,4333
+2021,810,Tohoku Electric Power,Utilities,Japan,20092,602,42553,4683
+2021,811,EOG Resources,Oil & Gas Operations,United States of America,9934,-605,35805,41153
+2021,812,H&M - Hennes & Mauritz,Retailing,Sweden,19120,-195,20247,40907
+2021,813,Pegatron,Technology Hardware & Equipment,Taiwan,47524,686,24356,6905
+2021,814,Moody's,Business Services & Supplies,United States of America,5371,1778,12409,60262
+2021,815,Grupo Aval,Diversified Financials,Colombia,10289,636,94400,7255
+2021,816,CMS Energy,Utilities,United States of America,6680,755,29666,18546
+2021,817,China Gas Holdings,Utilities,Hong Kong,7560,1205,16066,22238
+2021,818,Abu Dhabi Commercial Bank,Banking,United Arab Emirates,4819,961,111936,11869
+2021,819,American Financial Group,Insurance,United States of America,7788,732,63919,10175
+2021,820,KLA,Semiconductors,United States of America,6070,1368,9815,51307
+2021,821,TAQA,Utilities,United Arab Emirates,7749,99,50890,41935
+2021,822,Techtronic Industries,Consumer Durables,Hong Kong,9811,801,9390,32397
+2021,823,Jefferies Financial ,Conglomerates,United States of America,8104,1238,56869,8036
+2021,824,Akzo Nobel,Chemicals,Netherlands,9724,718,16123,23157
+2021,825,Fairfax Financial,Insurance,Canada,19253,202,74054,12296
+2021,826,Reinsurance Group of America,Insurance,United States of America,14595,415,83673,8979
+2021,827,Yango Group,Construction,China,11737,724,52920,4005
+2021,828,Weyerhaeuser,Materials,United States of America,7532,797,16311,29441
+2021,829,Shanghai Construction ,Construction,China,33395,446,45358,4047
+2021,830,Julius Baer Group,Banking,Switzerland,4323,744,123465,14068
+2021,831,Eiffage,Construction,France,18991,428,41259,10170
+2021,832,Hanwha,Trading Companies,South Korea,43162,181,175990,1961
+2021,833,ITC,"Food, Drink & Tobacco",India,6302,1789,9948,34428
+2021,834,GF Securities,Diversified Financials,China,4734,1451,69951,11417
+2021,835,American Airlines Group,Transportation,United States of America,17338,-8885,62008,14092
+2021,836,Stora Enso,Materials,Finland,9751,715,21328,15843
+2021,837,UPM-Kymmene,Materials,Finland,9781,638,18180,20579
+2021,838,China Merchants Securities,Diversified Financials,China,4518,1261,76413,12066
+2021,839,Longi Green Energy Technology,Semiconductors,China,6251,1163,11977,50590
+2021,840,Asr Nederland,Insurance,Netherlands,8878,693,93807,6466
+2021,841,CP All,Food Markets,Thailand,16804,483,17468,18414
+2021,842,Jiangsu Zhongnan Construction Group,Construction,China,10668,797,50012,4172
+2021,843,Quest Diagnostics,Health Care Equipment & Services,United States of America,9437,1425,14026,17074
+2021,844,Suncorp Group,Insurance,Australia,8878,529,73217,10372
+2021,845,Kyushu Electric Power,Utilities,Japan,19266,501,49558,4438
+2021,846,Skanska,Construction,Sweden,17420,1073,15297,11336
+2021,847,Tokyo Electric Power,Utilities,Japan,53455,-2376,115909,4741
+2021,848,WPP,Media,United Kingdom,15392,-3816,49470,16325
+2021,849,China Aoyuan Group,Construction,China,9853,859,49799,2856
+2021,850,Secom,Business Services & Supplies,Japan,9808,706,17779,18488
+2021,851,Delta Electronics,Technology Hardware & Equipment,Taiwan,9598,866,11973,27177
+2021,852,China Life Insurance (Taiwan),Insurance,Taiwan,12086,528,78996,4307
+2021,853,St. James's Place,Insurance,United Kingdom,12206,336,177415,9927
+2021,854,China Gezhouba,Construction,China,16148,620,39666,5203
+2021,855,Hormel Foods,"Food, Drink & Tobacco",United States of America,9685,888,9958,25301
+2021,856,Loews,Insurance,United States of America,12583,-931,75779,14524
+2021,857,Baker Hughes Company,Oil & Gas Operations,United States of America,20705,-9928,38007,15403
+2021,858,Southwest Airlines,Transportation,United States of America,9048,-3074,36573,36891
+2021,859,Charoen Pokphand Foods,"Food, Drink & Tobacco",Thailand,18844,812,25425,7949
+2021,860,ENN Energy Holdings,Oil & Gas Operations,China,10400,912,13768,19272
+2021,861,Novolipetsk Steel,Materials,Russia,9233,1250,9862,20908
+2021,862,ZTE,Technology Hardware & Equipment,China,14719,619,23034,11559
+2021,863,Naver,IT Software & Services,South Korea,5516,849,15663,51713
+2021,864,Pinduoduo,Retailing,China,8717,-1038,24299,116498
+2021,865,Yanzhou Coal Mining,Materials,China,10012,908,41746,6748
+2021,866,China Development Financial,Banking,Taiwan,12375,430,122237,5894
+2021,867,Guosen Securities,Diversified Financials,China,3053,959,46294,16343
+2021,868,Marriott International,"Hotels, Restaurants & Leisure",United States of America,10593,-267,24701,48389
+2021,869,Shanghai Electric Group,Capital Goods,China,18406,536,40399,5474
+2021,870,Snam,Oil & Gas Operations,Italy,3118,1255,32528,18346
+2021,871,Garanti Bank,Banking,Turkey,7222,947,72920,3789
+2021,872,OTP Bank,Banking,Hungary,4952,842,78726,12067
+2021,873,IQVIA,Drugs & Biotechnology,United States of America,11358,279,24564,41337
+2021,874,Viatris,Drugs & Biotechnology,United States of America,11944,-670,61553,16175
+2021,875,Cintas,Business Services & Supplies,United States of America,6900,981,8347,36823
+2021,876,Kajima,Construction,Japan,18378,1034,20252,7217
+2021,877,SM Investments,Retailing,Philippines,7604,472,25498,24348
+2021,878,Formosa Chemicals,Chemicals,Taiwan,8602,664,18927,18988
+2021,879,Mitsubishi Chemical,Chemicals,Japan,30020,-656,49607,11035
+2021,880,Pgnig Group,Oil & Gas Operations,Poland,9783,1883,16874,10620
+2021,881,PKN Orlen,Oil & Gas Operations,Poland,22108,755,22612,7568
+2021,882,Ecolab,Chemicals,United States of America,12351,-1205,18126,63838
+2021,883,L Brands,Retailing,United States of America,11846,845,11571,18642
+2021,884,Motorola Solutions,Aerospace & Defense,United States of America,7414,949,10876,31943
+2021,885,Atlantia,Transportation,Italy,8986,-1342,107496,16082
+2021,886,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Banking,Vietnam,3724,794,57456,15483
+2021,887,Grasim Industries,Construction,India,9836,546,33864,11977
+2021,888,Equinix,Diversified Financials,United States of America,5976,370,27007,63431
+2021,889,TE Connectivity,Technology Hardware & Equipment,Switzerland,12526,114,20266,44138
+2021,890,Seagate Technology,Technology Hardware & Equipment,Ireland,10172,989,8986,19002
+2021,891,Sabanci Holding,Diversified Financials,Turkey,8841,678,67441,2071
+2021,892,NASDAQ,Diversified Financials,United States of America,5628,932,17979,26395
+2021,893,Clorox,Consumer Durables,United States of America,7524,1225,6855,23992
+2021,894,Lonza Group,Drugs & Biotechnology,Switzerland,4803,926,16545,45138
+2021,895,Liberty Global,Media,United Kingdom,11980,-1628,59093,15284
+2021,896,Mitsubishi Heavy Industries,Capital Goods,Japan,35481,-103,48134,10400
+2021,897,PulteGroup,Construction,United States of America,11036,1395,12205,14340
+2021,898,WW Grainger,Trading Companies,United States of America,11797,695,6295,21297
+2021,899,KT ,Telecommunications Services,South Korea,20270,558,30988,6163
+2021,900,Japan Exchange Group,Diversified Financials,Japan,1254,484,575264,13732
+2021,901,Legrand,Capital Goods,France,6953,777,15793,26663
+2021,902,Rockwell Automation,Capital Goods,United States of America,6211,1305,8171,30880
+2021,903,Zoomlion Heavy Industry,Capital Goods,China,9454,1055,17775,12409
+2021,904,Obayashi,Construction,Japan,17342,866,21544,6886
+2021,905,Western Digital,Technology Hardware & Equipment,United States of America,16327,167,25552,21087
+2021,906,Alexion Pharmaceuticals,Drugs & Biotechnology,United States of America,6065,603,18103,36160
+2021,907,Grupa PZU,Insurance,Poland,9824,491,96182,7381
+2021,908,Severstal,Materials,Russia,7313,1667,7492,19561
+2021,909,Bank of Baroda,Banking,India,11899,371,167402,4681
+2021,910,Tractor Supply,Retailing,United States of America,10620,749,7049,21042
+2021,911,Db Insurance,Insurance,South Korea,13850,474,54584,2445
+2021,912,Molina Healthcare,Drugs & Biotechnology,United States of America,19295,673,9561,14613
+2021,913,CGI,IT Software & Services,Canada,9043,873,11987,21973
+2021,914,DaVita,Health Care Equipment & Services,United States of America,11551,783,17762,12374
+2021,915,Electronic Arts,Consumer Durables,United States of America,5668,1179,12420,40570
+2021,916,Williams,Oil & Gas Operations,United States of America,7719,211,46217,28693
+2021,917,New Hope Liuhe,"Food, Drink & Tobacco",China,15894,636,16829,12022
+2021,918,Yuanta Financial Holding,Diversified Financials,Taiwan,4726,819,98201,10600
+2021,919,Align Technology,Health Care Equipment & Services,United States of America,2472,1776,4830,47982
+2021,920,Kuwait Finance House,Banking,Kuwait,3502,484,70685,20044
+2021,921,Guangzhou Rural Commercial Bank,Banking,China,5902,733,157268,4443
+2021,922,Tokyo Century,Business Services & Supplies,Japan,11456,525,53895,8336
+2021,923,Towngas,Oil & Gas Operations,Hong Kong,5277,775,19381,28315
+2021,924,American Water Works,Utilities,United States of America,3777,709,25830,29056
+2021,925,Hydro One,Utilities,Canada,5435,1333,23779,14636
+2021,926,Givaudan,Consumer Durables,Switzerland,6735,792,12057,38655
+2021,927,Invesco,Diversified Financials,United States of America,6157,762,36504,12256
+2021,928,iA Financial Corporation,Insurance,Canada,11634,472,66315,5892
+2021,929,JSW Steel,Materials,India,9520,532,17371,20125
+2021,930,Kingfisher,Retailing,United Kingdom,15876,761,16848,10327
+2021,931,Yara International,Chemicals,Norway,11589,684,16605,13881
+2021,932,Wens Foodstuff Group,"Food, Drink & Tobacco",China,10849,1067,12285,15174
+2021,933,Tokyo Gas,Oil & Gas Operations,Japan,16828,516,26468,9417
+2021,934,Industrivarden,Diversified Financials,Sweden,3255,5087,16978,17694
+2021,935,Semiconductor Manufacturing International,Semiconductors,China,3945,634,31286,26181
+2021,936,Teva Pharmaceutical,Drugs & Biotechnology,Israel,16614,-3962,50640,11936
+2021,937,China Resources Power,Utilities,Hong Kong,8967,978,33484,6290
+2021,938,Intuitive Surgical,Health Care Equipment & Services,United States of America,4358,1061,11169,96190
+2021,939,Tata Steel,Materials,India,18187,-86,33128,14318
+2021,940,Yum China Holdings,"Hotels, Restaurants & Leisure",China,8263,784,10875,25266
+2021,941,Monster Beverage,"Food, Drink & Tobacco",United States of America,4599,1410,6265,51847
+2021,942,Kaisa Group Holdings,Construction,China,8121,789,47387,3411
+2021,943,Autodesk,IT Software & Services,United States of America,3791,1208,7280,65913
+2021,944,Rosseti,Utilities,Russia,13842,547,35189,3801
+2021,945,JM Smucker,"Food, Drink & Tobacco",United States of America,8174,951,16429,14435
+2021,946,WR Berkley,Insurance,United States of America,8036,531,27959,14173
+2021,947,Bâloise Group,Insurance,Switzerland,9154,463,99199,7922
+2021,948,Bank Hapoalim,Banking,Israel,4725,598,168058,10757
+2021,949,Everest Re Group,Insurance,Bermuda,9598,508,30382,11811
+2021,950,Equity Residential,Diversified Financials,United States of America,2539,879,20287,27063
+2021,951,Commerzbank,Banking,Germany,13008,-3252,620237,7455
+2021,952,Crown Holdings,Materials,United States of America,11561,579,16670,14718
+2021,953,Sumitomo Electric,Capital Goods,Japan,26691,216,31170,12120
+2021,954,CJ Cheiljedang,"Food, Drink & Tobacco",South Korea,20549,581,23577,6021
+2021,955,Sibanye Stillwater,Materials,South Africa,7737,1780,9130,15045
+2021,956,SMC,Capital Goods,Japan,4889,987,14187,40252
+2021,957,China International Travel Service,Business Services & Supplies,China,6665,513,5747,85563
+2021,958,Hoya,Technology Hardware & Equipment,Japan,4979,1071,7880,46504
+2021,959,Eletrobrás,Utilities,Brazil,5638,1229,34455,10140
+2021,960,Public Storage,Diversified Financials,United States of America,2905,1354,11817,46634
+2021,961,Toppan Printing,Business Services & Supplies,Japan,13732,814,21872,6108
+2021,962,China International Marine,Capital Goods,China,13597,801,22357,6487
+2021,963,Daiwa Securities,Diversified Financials,Japan,5447,647,254104,8170
+2021,964,Shanghai Pharmaceuticals,Drugs & Biotechnology,China,27013,592,19672,5867
+2021,965,E.Sun Financial,Banking,Taiwan,2336,612,105764,11951
+2021,966,Qurate Retail Group,Retailing,United States of America,14177,1204,16999,5095
+2021,967,Foshan Haitian Flavouring and Food,"Food, Drink & Tobacco",China,3271,928,4518,82962
+2021,968,Bank Leumi,Banking,Israel,4743,611,173176,10130
+2021,969,Csc Financial,Diversified Financials,China,4542,1325,56764,9683
+2021,970,PKO Bank Polski,Banking,Poland,4371,679,102467,10917
+2021,971,Halkbank,Banking,Turkey,7663,524,93672,1358
+2021,972,Aisin Seiki,Consumer Durables,Japan,32006,154,37378,10031
+2021,973,Expeditors International,Transportation,United States of America,10116,696,4928,18764
+2021,974,NXP Semiconductors,Semiconductors,Netherlands,8612,52,19847,54978
+2021,975,Universal Health Services,Health Care Equipment & Services,United States of America,11559,941,13477,12441
+2021,976,HAL Trust,Diversified Financials,Monaco,6056,717,24800,15064
+2021,977,WestRock,Materials,United States of America,17557,-678,28836,14396
+2021,978,China Jinmao,Construction,Hong Kong,8817,553,59292,4947
+2021,979,BBMG,Construction,China,15429,407,44551,2199
+2021,980,LG ,Chemicals,South Korea,4601,1242,22353,17320
+2021,981,Shenzhen Mindray Bio-Medical Electronics,Health Care Equipment & Services,China,2858,909,4520,74959
+2021,982,Arrow Electronics,Trading Companies,United States of America,28673,584,17054,8731
+2021,983,Cheniere Energy,Oil & Gas Operations,United States of America,9388,-85,38747,18752
+2021,984,Yum! Brands,"Hotels, Restaurants & Leisure",United States of America,5652,904,5852,35253
+2021,985,Huaneng Power International,Utilities,China,24322,65,68795,5516
+2021,986,Alexandria Real Estate Equities,Diversified Financials,United States of America,1876,759,22828,24010
+2021,987,Booking Holdings,Business Services & Supplies,United States of America,6796,59,21874,101679
+2021,988,First Horizon,Banking,United States of America,3413,845,84680,9739
+2021,989,Taisei,Construction,Japan,14534,1036,16954,8041
+2021,990,Financiere de l'Odet,Transportation,France,27483,244,62290,5161
+2021,991,Shanghai International Port,Transportation,China,3713,1204,23842,16449
+2021,992,Dassault Systemes,IT Software & Services,France,5076,560,15862,59675
+2021,993,Metro Group,Food Markets,Germany,27838,676,16542,3900
+2021,994,Rolls-Royce Holdings,Aerospace & Defense,United Kingdom,15084,-4065,40348,12091
+2021,995,Agilent Technologies,Drugs & Biotechnology,United States of America,5530,810,9674,41006
+2021,996,Norsk Hydro,Materials,Norway,14587,398,19202,13881
+2021,997,AES,Utilities,United States of America,9661,43,34603,19128
+2021,998,Mosaic,Chemicals,United States of America,8682,666,19790,12704
+2021,999,Asustek Computer,Technology Hardware & Equipment,Taiwan,14018,902,14112,10169
+2021,1000,United Microelectronics,Semiconductors,Taiwan,6005,991,13436,23670
+2021,1001,Polyus,Materials,Russia,5034,1647,7286,26681
+2021,1002,Qatar Islamic Bank,Banking,Qatar,1774,859,49496,11809
+2021,1003,AvalonBay Communities,Diversified Financials,United States of America,2297,826,19199,26498
+2021,1004,EN+ Group International ,Materials,Russia,10356,1016,22065,5927
+2021,1005,Suning.com,Retailing,China,37350,-477,32584,10047
+2021,1006,Akbank,Banking,Turkey,5734,870,64355,3202
+2021,1007,Grifols,Drugs & Biotechnology,Spain,6088,705,18689,18771
+2021,1008,Guangzhou Automobile Group,Consumer Durables,China,9183,868,21845,9552
+2021,1009,Sinotruk Hong Kong,Capital Goods,China,14262,995,16974,7604
+2021,1010,Shenwan Hongyuan Group,Diversified Financials,China,4900,1121,75098,6993
+2021,1011,China Mengniu Dairy,"Food, Drink & Tobacco",Hong Kong,11020,514,12255,22775
+2021,1012,Mitsubishi UFJ Lease,Business Services & Supplies,Japan,8367,507,58374,8627
+2021,1013,China Huarong Asset Management,Diversified Financials,China,12434,-127,244768,5129
+2021,1014,UCB,Drugs & Biotechnology,Belgium,6095,835,16296,18623
+2021,1015,Beiersdorf,Consumer Durables,Germany,8008,638,12637,24868
+2021,1016,Ashtead Group,Business Services & Supplies,United Kingdom,6284,788,12643,28939
+2021,1017,Digital Realty Trust,Diversified Financials,United States of America,3907,356,36076,41032
+2021,1018,Anta Sports Products,Consumer Durables,China,5162,753,7931,48741
+2021,1019,New World Development,Construction,Hong Kong,7951,141,79508,13806
+2021,1020,Jiangsu Hengrui Medicine,Drugs & Biotechnology,China,3640,835,4777,65777
+2021,1021,Impala Platinum Holdings,Materials,South Africa,6071,2292,8166,15556
+2021,1022,Celanese,Chemicals,United States of America,5655,1985,10909,18031
+2021,1023,China Southern Airlines,Transportation,China,13451,-1557,49907,11029
+2021,1024,ThyssenKrupp Group,Conglomerates,Germany,32594,-5926,43256,8539
+2021,1025,Huadian Power International,Construction,China,12812,469,36192,3059
+2021,1026,Franklin Resources,Diversified Financials,United States of America,5818,768,21230,15187
+2021,1027,East Money Information  ,IT Software & Services,China,1745,693,16870,37725
+2021,1028,SG Holdings,Transportation,Japan,11801,679,7479,14606
+2021,1029,Pan Pacific International Holdings,Retailing,Japan,15698,506,13192,14621
+2021,1030,Signature Bank,Banking,United States of America,2018,527,74097,13113
+2021,1031,Covestro,Chemicals,Germany,12205,523,16055,13537
+2021,1032,Coupang,Retailing,South Korea,11967,-475,5067,78780
+2021,1033,Zhongliang Holdings ,Construction,China,9603,546,41413,2526
+2021,1034,Fanuc,Capital Goods,Japan,4655,676,14982,48045
+2021,1035,Luzhou Lao Jiao,"Food, Drink & Tobacco",China,2234,874,5355,53154
+2021,1036,Boston Properties,Diversified Financials,United States of America,2767,877,22858,18150
+2021,1037,Nippon Paint,Chemicals,Japan,7316,418,15646,35255
+2021,1038,Segro,Diversified Financials,United Kingdom,554,1830,17314,16226
+2021,1039,Fastenal,Trading Companies,United States of America,5697,867,4074,29031
+2021,1040,Nitori Holdings,Retailing,Japan,6766,869,8701,21354
+2021,1041,Alcon,Health Care Equipment & Services,Switzerland,6815,-545,27600,36966
+2021,1042,First Financial Holding,Banking,Taiwan,2854,571,126361,10282
+2021,1043,Punjab National Bank,Banking,India,12012,140,174665,4911
+2021,1044,NVR,Construction,United States of America,7367,901,5777,18325
+2021,1045,Vistra Energy,Utilities,United States of America,11062,636,25208,8570
+2021,1046,China Molybdenum,Materials,China,16294,339,18722,14450
+2021,1047,Ross Stores,Retailing,United States of America,12532,85,13703,46327
+2021,1048,Halliburton,Oil & Gas Operations,United States of America,14445,-2945,20680,18385
+2021,1049,Sodexo,Business Services & Supplies,France,18781,-764,21916,14762
+2021,1050,Edwards Lifesciences,Health Care Equipment & Services,United States of America,4386,823,7237,55374
+2021,1051,Kerry Group,"Food, Drink & Tobacco",Ireland,7927,632,11554,23158
+2021,1052,Taiwan Cooperative Financial,Banking,Taiwan,3885,563,147592,9975
+2021,1053,Meritz Financial Group,Insurance,South Korea,9848,403,63653,1999
+2021,1054,Investec,Diversified Financials,United Kingdom,3635,1259,65499,3194
+2021,1055,Leidos,Aerospace & Defense,United States of America,12297,628,12511,14372
+2021,1056,Bio-Rad Laboratories,Health Care Equipment & Services,United States of America,2546,3806,12973,18686
+2021,1057,JFE Holdings,Materials,Japan,30502,-2757,44377,7551
+2021,1058,Swire Pacific,Conglomerates,Hong Kong,10319,-1418,55857,11914
+2021,1059,Zoom Video Communications,IT Software & Services,United States of America,2651,672,5298,96911
+2021,1060,Idemitsu Kosan,Oil & Gas Operations,Japan,43988,-893,37495,7352
+2021,1061,Shimizu,Construction,Japan,13956,753,18002,6380
+2021,1062,Jiangsu Yanghe Brewery,"Food, Drink & Tobacco",China,2650,1083,8230,36659
+2021,1063,Midea Real Estate Holding,Construction,China,7691,628,43389,2943
+2021,1064,SDIC Power Holdings,Utilities,China,5556,804,32572,10658
+2021,1065,Nongfu Spring,"Food, Drink & Tobacco",China,3314,764,3954,57825
+2021,1066,Campbell Soup,"Food, Drink & Tobacco",United States of America,8965,806,12498,14969
+2021,1067,Mediobanca,Banking,Italy,3455,619,101965,9688
+2021,1068,Terna,Utilities,Italy,2807,896,25323,14783
+2021,1069,Canara Bank,Banking,India,11491,-204,156303,2971
+2021,1070,Assurant,Insurance,United States of America,10084,442,34810,9229
+2021,1071,ATOS,IT Software & Services,France,12746,627,22179,7997
+2021,1072,MTR,Transportation,Hong Kong,5485,-620,37475,35093
+2021,1073,Hopson Development Holdings,Construction,Hong Kong,4798,1758,38803,7530
+2021,1074,JDE Peet's,"Food, Drink & Tobacco",Netherlands,7582,351,25819,19036
+2021,1075,Kinnevik,Diversified Financials,Sweden,575,4375,14094,15545
+2021,1076,Jacobs,Telecommunications Services,United States of America,13505,444,12768,17403
+2021,1077,Paychex,Business Services & Supplies,United States of America,3943,1055,9666,35135
+2021,1078,Hunan Valin Steel,Materials,China,16786,927,13875,7263
+2021,1079,J.B. Hunt Transport Services,Transportation,United States of America,9974,548,6163,18198
+2021,1080,China Galaxy Securities,Diversified Financials,China,3828,1050,68157,6223
+2021,1081,Zimmer Biomet,Health Care Equipment & Services,United States of America,7024,-139,24418,35806
+2021,1082,Eisai,Drugs & Biotechnology,Japan,6630,877,9962,19083
+2021,1083,Finatis,Trading Companies,France,36397,-545,36306,253
+2021,1084,Bank Of Chengdu,Banking,China,3568,820,93838,5831
+2021,1085,Wuchan Zhongda Group,Trading Companies,China,56611,405,17975,3803
+2021,1086,Zions Bancorp,Banking,United States of America,2947,708,81479,9183
+2021,1087,Evraz Group,Materials,United Kingdom,9760,851,8710,12738
+2021,1088,Brenntag,Trading Companies,Germany,13424,532,10157,14207
+2021,1089,Square,IT Software & Services,United States of America,9498,213,9870,116427
+2021,1090,C.H. Robinson,Transportation,United States of America,16207,506,5144,13214
+2021,1091,LKQ,Consumer Durables,United States of America,11629,638,12361,13512
+2021,1092,Dubai Islamic Bank,Banking,United Arab Emirates,3558,746,78831,8854
+2021,1093,Nippon Yusen,Transportation,Japan,14621,607,18989,5975
+2021,1094,Telia,Telecommunications Services,Sweden,9690,-2460,27602,17683
+2021,1095,Osaka Gas,Oil & Gas Operations,Japan,12710,605,21366,7837
+2021,1096,Bank Of Guiyang,Banking,China,4281,822,84609,3932
+2021,1097,Tenet Healthcare,Health Care Equipment & Services,United States of America,17640,399,27106,5794
+2021,1098,China Steel,Materials,Taiwan,10691,30,22638,19118
+2021,1099,International Holding Company,"Food, Drink & Tobacco",United Arab Emirates,1918,781,3815,44629
+2021,1100,J Sainsbury,Food Markets,United Kingdom,36735,-6,34218,7621
+2021,1101,Cooper Companies,Health Care Equipment & Services,United States of America,2465,2249,8922,19637
+2021,1102,LG Household & Health Care,Consumer Durables,South Korea,6649,676,6261,23415
+2021,1103,Skyworks Solutions,Semiconductors,United States of America,3970,1067,5420,31327
+2021,1104,Terumo,Health Care Equipment & Services,Japan,5689,720,12183,28238
+2021,1105,QBE Insurance Group,Insurance,Australia,12143,-1513,40857,11150
+2021,1106,Scor,Insurance,France,17389,267,54370,6492
+2021,1107,Brown-Forman,"Food, Drink & Tobacco",United States of America,3336,911,6495,35548
+2021,1108,Partners Group Holding,Diversified Financials,Switzerland,1709,857,4561,37882
+2021,1109,Absa Group,Banking,South Africa,8247,357,104238,7397
+2021,1110,Bank of Changsha,Banking,China,4516,739,100468,5956
+2021,1111,McCormick,"Food, Drink & Tobacco",United States of America,5871,765,12685,23710
+2021,1112,IHS Markit,Business Services & Supplies,United Kingdom,4327,535,16670,41423
+2021,1113,Bangkok Bank,Banking,Thailand,5207,549,127602,7459
+2021,1114,Carnival,"Hotels, Restaurants & Leisure",United States of America,831,-11427,57226,30595
+2021,1115,CJ Corporation,"Food, Drink & Tobacco",South Korea,27120,73,36845,2558
+2021,1116,Sumitomo Chemical,Chemicals,Japan,20771,143,37679,8715
+2021,1117,Hindalco Industries,Materials,India,16297,300,25004,11185
+2021,1118,Beijing Enterprises,Conglomerates,Hong Kong,8820,682,26413,4288
+2021,1119,Illumina,Drugs & Biotechnology,United States of America,3239,656,7585,58214
+2021,1120,Bank of Tianjin,Banking,China,4953,622,105165,2578
+2021,1121,Alstom,Capital Goods,France,8483,441,15179,20011
+2021,1122,Goodman Group,Construction,Australia,1305,1194,11928,27070
+2021,1123,Wayfair,Retailing,United States of America,14145,185,4570,33359
+2021,1124,Union Bank of India,Banking,India,9954,-151,142818,2969
+2021,1125,Kuaishou Technology,IT Software & Services,China,8516,-16898,7974,129533
+2021,1126,Metro,Food Markets,Canada,13603,608,10569,11700
+2021,1127,GD Power Development,Utilities,China,15965,144,53158,6778
+2021,1128,International Airlines,Transportation,United Kingdom,8921,-7882,37030,14308
+2021,1129,Thai Beverage,"Food, Drink & Tobacco",Thailand,8127,730,13701,14030
+2021,1130,Evergy,Utilities,United States of America,4913,618,27115,14366
+2021,1131,Mirae Asset Daewoo,Diversified Financials,South Korea,2150,648,114247,5694
+2021,1132,Cenovus Energy,Oil & Gas Operations,Canada,9861,-1774,26438,16094
+2021,1133,Dover,Conglomerates,United States of America,6684,684,9152,20222
+2021,1134,CEZ Group,Utilities,Czech Republic,9116,234,32728,14755
+2021,1135,Experian,Business Services & Supplies,Ireland,5170,658,9130,34284
+2021,1136,Jiangxi Copper,Materials,China,46107,325,21542,7870
+2021,1137,Wolters Kluwer,Media,Netherlands,5247,822,10257,24164
+2021,1138,China Feihe,"Food, Drink & Tobacco",China,2697,1083,4331,25754
+2021,1139,Synopsys,IT Software & Services,United States of America,3820,723,8013,39734
+2021,1140,Eastman Chemical,Chemicals,United States of America,8464,478,16083,15691
+2021,1141,Sunny Optical Technology Group,Technology Hardware & Equipment,China,5507,710,5419,26049
+2021,1142,Brighthouse Financial,Insurance,United States of America,8503,-1061,249561,4142
+2021,1143,Hexagon ,Conglomerates,Sweden,4285,701,13096,37769
+2021,1144,Yuexiu Property ,Construction,Hong Kong,6698,616,40245,3633
+2021,1145,Ametek,Conglomerates,United States of America,4540,872,10357,30662
+2021,1146,Garmin,Technology Hardware & Equipment,Switzerland,4187,992,7031,26935
+2021,1147,Verbund,Utilities,Austria,3687,720,14749,27468
+2021,1148,Pioneer Natural Resources,Oil & Gas Operations,United States of America,7024,-128,20884,32143
+2021,1149,Deutsche Lufthansa,Transportation,Germany,15491,-7666,49030,7612
+2021,1150,Mohawk Industries,Consumer Durables,United States of America,9552,516,14328,14295
+2021,1151,Randstad N.V.,Business Services & Supplies,Netherlands,23618,347,11730,14126
+2021,1152,Cerner,Health Care Equipment & Services,United States of America,5506,780,7521,22762
+2021,1153,Helvetia Holding,Insurance,Switzerland,10874,282,79542,6353
+2021,1154,Restaurant Brands International,"Hotels, Restaurants & Leisure",Canada,4958,486,22777,20228
+2021,1155,Inter Rao,Utilities,Russia,13631,1036,12325,4836
+2021,1156,Flex,Technology Hardware & Equipment,Singapore,23343,421,15668,9265
+2021,1157,Toray Industries,Consumer Durables,Japan,17771,163,26860,10237
+2021,1158,Berry Global Group,Materials,United States of America,12029,642,17176,8415
+2021,1159,BDO Unibank,Banking,Philippines,4309,570,70288,9498
+2021,1160,Smurfit Kappa Group,Materials,Ireland,9730,621,13126,12816
+2021,1161,Krung Thai Bank,Banking,Thailand,4852,535,111264,5105
+2021,1162,Bank of Chongqing,Banking,China,1885,641,85881,1103
+2021,1163,Shenzhou International Group Holdings,Consumer Durables,Hong Kong,3344,740,5635,34166
+2021,1164,Vipshop Holdings,Retailing,China,14843,863,9013,3390
+2021,1165,Ferrari,Consumer Durables,Italy,3944,693,7662,37207
+2021,1166,Ferrovial,Transportation,Spain,7229,-467,28298,19553
+2021,1167,Hologic,Health Care Equipment & Services,United States of America,4536,1384,7551,19752
+2021,1168,Sharp,Consumer Durables,Japan,21820,93,18769,11820
+2021,1169,East West Bancorp,Banking,United States of America,1785,568,52261,10568
+2021,1170,BorgWarner,Consumer Durables,United States of America,10165,500,16029,11702
+2021,1171,Spotify Technology,IT Software & Services,Luxembourg,9009,-658,7740,54722
+2021,1172,Korea Investment Holdings,Diversified Financials,South Korea,2315,732,64842,5545
+2021,1173,PennyMac Financial Services,Business Services & Supplies,United States of America,3184,1647,31598,3963
+2021,1174,Bunzl,Trading Companies,United Kingdom,12966,551,9447,11564
+2021,1175,CIMB Group Holdings,Banking,Malaysia,6136,284,149746,10315
+2021,1176,Schroders,Diversified Financials,United States of America,3294,611,29626,13685
+2021,1177,BAIC Motor,Consumer Durables,China,25699,278,29619,2744
+2021,1178,Cemex,Construction,Mexico,12945,-1536,27425,11433
+2021,1179,China National Chemical,Construction,China,15311,484,18578,4984
+2021,1180,Flutter Entertainment,"Hotels, Restaurants & Leisure",Ireland,5660,49,23227,37998
+2021,1181,VICI Properties,Diversified Financials,United States of America,1226,892,17064,16078
+2021,1182,Knorr-Bremse,Consumer Durables,Germany,7019,565,9622,19919
+2021,1183,Top Frontier Investment Holdings,Oil & Gas Operations,Philippines,15769,-45,40987,935
+2021,1184,Antofagasta,Materials,United Kingdom,5115,495,16604,25512
+2021,1185,XPO Logistics,Transportation,United States of America,16252,91,16169,15313
+2021,1186,Vienna Insurance Group,Insurance,Austria,11803,264,60536,3504
+2021,1187,Comerica,Banking,United States of America,3070,472,88129,9787
+2021,1188,Unibail-Rodamco,Construction,France,3016,-8222,70082,19240
+2021,1189,IDEXX Laboratories,Health Care Equipment & Services,United States of America,2707,582,2295,45812
+2021,1190,Mazda Motor,Consumer Durables,Japan,26538,-923,28453,5151
+2021,1191,Sino-Ocean Group Holding,Construction,China,8581,416,39709,1693
+2021,1192,Westinghouse Air Brake Technologies,Capital Goods,United States of America,7556,414,18454,15227
+2021,1193,Royalty Pharma,Drugs & Biotechnology,United States of America,2122,975,16020,16251
+2021,1194,Sumitomo Metal Mining,Materials,Japan,8429,511,17199,11987
+2021,1195,Isuzu Motors,Consumer Durables,Japan,17513,396,20466,7063
+2021,1196,Unicharm,Consumer Durables,Japan,6814,490,8653,24307
+2021,1197,Globe Life,Insurance,United States of America,4738,732,29047,10793
+2021,1198,Mahindra & Mahindra,Consumer Durables,India,11022,-80,24316,13747
+2021,1199,Western Alliance Bancorp.,Banking,United States of America,1345,615,43397,10366
+2021,1200,Masco,Construction,United States of America,7188,631,5777,16400
+2021,1201,Lululemon Athletica,Retailing,Canada,4402,589,4185,42252
+2021,1202,LG Display,Trading Companies,South Korea,20536,-76,32285,7917
+2021,1203,American Equity Investment,Insurance,United States of America,3716,672,68048,3047
+2021,1204,Liberty Broadband,Telecommunications Services,United States of America,51,398,21707,29370
+2021,1205,Zhongyuan Bank,Banking,China,4953,477,115827,2790
+2021,1206,Voya Financial,Insurance,United States of America,7649,33,178182,8305
+2021,1207,Emaar Properties,Construction,United Arab Emirates,6093,713,31699,7563
+2021,1208,Penske Automotive,Retailing,United States of America,20444,544,13979,7032
+2021,1209,X5 Retail Group,Food Markets,Russia,27360,393,15863,8550
+2021,1210,Cadence Design,IT Software & Services,United States of America,2683,591,3951,41096
+2021,1211,Eurofins Scientific Societe Europeenne,Health Care Equipment & Services,Luxembourg,6200,615,10493,20156
+2021,1212,TransDigm Group,Aerospace & Defense,United States of America,4749,394,18557,33770
+2021,1213,Renesas Electronics,Semiconductors,Japan,6703,427,15584,20381
+2021,1214,Daito Trust Construction,Construction,Japan,14514,780,8296,7944
+2021,1215,Yamaha Motor,Consumer Durables,Japan,13780,497,15893,9130
+2021,1216,Canadian Tire,Retailing,Canada,11087,561,15995,9458
+2021,1217,Verisk Analytics,Insurance,United States of America,2785,713,7562,30111
+2021,1218,Electric Power Development,Utilities,Japan,7905,558,27381,3025
+2021,1219,Itaúsa,Conglomerates,Brazil,1140,1368,13977,15411
+2021,1220,Suntory Beverage & Food,"Food, Drink & Tobacco",Japan,11034,489,15248,10961
+2021,1221,Banco de Sabadell,Banking,Spain,7087,2,288468,3109
+2021,1222,MSCI,Business Services & Supplies,United States of America,1695,602,4199,39184
+2021,1223,Coloplast,Health Care Equipment & Services,Denmark,2840,649,2454,34065
+2021,1224,Kesko,Food Markets,Finland,12163,494,8127,12186
+2021,1225,ResMed,Health Care Equipment & Services,United States of America,3092,699,4573,30195
+2021,1226,Chugoku Electric Power,Utilities,Japan,12050,347,32797,4238
+2021,1227,AGC,Chemicals,Japan,13228,306,24548,10123
+2021,1228,Datang International Power,Utilities,China,13679,263,42887,2834
+2021,1229,Copart,Business Services & Supplies,United States of America,2286,707,3934,29180
+2021,1230,Newcrest Mining,Materials,Australia,4304,958,14391,17493
+2021,1231,Ventas,Diversified Financials,United States of America,3795,439,23929,20782
+2021,1232,Genuine Parts,Trading Companies,United States of America,17004,184,13440,17331
+2021,1233,Korea Gas,Oil & Gas Operations,South Korea,17656,-146,33057,2556
+2021,1234,Iida Group Holdings,Construction,Japan,14394,640,13835,7354
+2021,1235,Church & Dwight,Consumer Durables,United States of America,4896,786,7414,21553
+2021,1236,Microchip Technology,Semiconductors,United States of America,5298,333,16576,42621
+2021,1237,Falabella,Retailing,Chile,11525,-36,24264,12355
+2021,1238,Genworth Financial,Insurance,United States of America,8658,178,89920,1834
+2021,1239,RSA Insurance Group,Insurance,United Kingdom,8451,422,25105,9771
+2021,1240,VeriSign,IT Software & Services,United States of America,1265,815,1767,23470
+2021,1241,LEG Immobilien AG,Construction,Germany,1007,1552,18844,10239
+2021,1242,Advanced Info Service,Telecommunications Services,Thailand,5525,877,11700,15998
+2021,1243,Tongwei,"Food, Drink & Tobacco",China,6391,512,9825,21856
+2021,1244,Yunnan Baiyao Group,Drugs & Biotechnology,China,4720,799,8444,21774
+2021,1245,Old Dominion Freight Line,Transportation,United States of America,4015,673,4369,29394
+2021,1246,Welltower,Diversified Financials,United States of America,4599,-110,32484,31592
+2021,1247,MGM Resorts,"Hotels, Restaurants & Leisure",United States of America,5162,-997,39129,19929
+2021,1248,Empire,Food Markets,Canada,21184,528,11713,8444
+2021,1249,Grupo Bimbo,"Food, Drink & Tobacco",Mexico,15413,422,15440,9423
+2021,1250,Lens Technology,Technology Hardware & Equipment,China,5330,707,12135,19679
+2021,1251,Chiba Bank,Banking,Japan,1953,445,170681,4731
+2021,1252,Powerlong Real Estate ,Construction,China,5172,887,29838,4484
+2021,1253,Storebrand,Insurance,Norway,8555,249,84990,4706
+2021,1254,Aroundtown ,Construction,Luxembourg,2184,743,37956,8944
+2021,1255,VF,Consumer Durables,United States of America,8759,-165,13744,33194
+2021,1256,Sojitz,Trading Companies,Japan,14947,375,21342,3438
+2021,1257,Singapore Airlines,Transportation,Singapore,11645,-155,23677,12004
+2021,1258,Hyundai Marine & Fire,Insurance,South Korea,12278,267,44338,1690
+2021,1259,Maxim Integrated Products,Semiconductors,United States of America,2355,722,3883,25499
+2021,1260,KWG Group Holdings,Construction,Hong Kong,4317,932,35505,5384
+2021,1261,Mondi,Materials,United Kingdom,7594,662,10237,13248
+2021,1262,Xilinx,Semiconductors,United States of America,3053,621,5749,31615
+2021,1263,CenterPoint Energy,Utilities,United States of America,7418,-773,34375,13271
+2021,1264,HBIS,Materials,China,15322,277,32842,4231
+2021,1265,Wingtech Technology,Technology Hardware & Equipment,China,8308,426,8960,18387
+2021,1266,Quanta Services,Construction,United States of America,11203,446,8398,13242
+2021,1267,Leonardo,Aerospace & Defense,Italy,15287,275,33125,4851
+2021,1268,Realty Income,Diversified Financials,United States of America,1661,396,20740,25032
+2021,1269,Emera,Utilities,Canada,3954,733,24516,11435
+2021,1270,Avery Dennison,Materials,United States of America,6972,556,6084,16488
+2021,1271,Times Property Holdings,Construction,China,5668,721,29283,2870
+2021,1272,China Longyuan Power,Utilities,China,4154,680,26803,11170
+2021,1273,Chipotle Mexican Grill,"Hotels, Restaurants & Leisure",United States of America,5985,356,6886,43261
+2021,1274,Saudi British Bank,Banking,Saudi Arabia,2661,-1088,73689,15585
+2021,1275,Ajinomoto,"Food, Drink & Tobacco",Japan,9958,546,13335,11132
+2021,1276,Saputo,"Food, Drink & Tobacco",Canada,10866,456,10495,13031
+2021,1277,KPN,Telecommunications Services,Netherlands,6022,640,14780,13807
+2021,1278,SGS,Business Services & Supplies,Switzerland,5971,511,7815,21986
+2021,1279,Logitech International,Technology Hardware & Equipment,Switzerland,4382,925,3813,19092
+2021,1280,Martin Marietta Materials,Construction,United States of America,4730,720,10883,21924
+2021,1281,Mizrahi Tefahot Bank,Banking,Israel,3093,468,112165,6917
+2021,1282,Advance Auto Parts,Retailing,United States of America,10106,493,11840,12623
+2021,1283,SS&C Technologies,IT Software & Services,United States of America,4668,625,15924,18642
+2021,1284,SYNNEX,Trading Companies,United States of America,24350,489,7726,6428
+2021,1285,Sichuan Language Development,Drugs & Biotechnology,China,6423,480,39332,1887
+2021,1286,NARI Technology Development,Capital Goods,China,5015,677,9047,21220
+2021,1287,Evergreen Marine Corp. (Taiwan),Transportation,Taiwan,7033,828,11895,11663
+2021,1288,Hyundai Steel,Materials,South Korea,15276,-365,32077,5774
+2021,1289,FleetCor Technologies ,Business Services & Supplies,United States of America,2389,704,11195,24313
+2021,1290,Teradyne,Semiconductors,United States of America,3121,784,3652,21567
+2021,1291,Melrose Industries ,Diversified Financials,United Kingdom,11246,-677,22801,12008
+2021,1292,Solvay,Chemicals,Belgium,11074,-1256,20546,13031
+2021,1293,Wuxi Apptec,Drugs & Biotechnology,China,2402,425,7078,63476
+2021,1294,Mettler-Toledo International,Conglomerates,United States of America,3085,603,2815,29905
+2021,1295,People's United Bank,Banking,United States of America,2216,573,63092,7615
+2021,1296,Vedanta Limited,Materials,India,10735,-994,24744,11589
+2021,1297,CapitaLand,Construction,Singapore,4878,-1141,63837,14644
+2021,1298,Jeronimo Martins,Food Markets,Portugal,21994,356,11536,10795
+2021,1299,Molson Coors Brewing,"Food, Drink & Tobacco",United States of America,9654,-949,27331,11598
+2021,1300,Genmab,Drugs & Biotechnology,Denmark,1546,728,3475,22998
+2021,1301,Aristocrat Leisure,Consumer Durables,Australia,2803,933,5646,18304
+2021,1302,Banque Saudi Fransi,Banking,Saudi Arabia,2273,412,51731,11354
+2021,1303,SBI Holdings,Diversified Financials,Japan,4115,570,62630,7221
+2021,1304,Air France-KLM,Transportation,France,12640,-8069,36965,2550
+2021,1305,Bank of Guizhou,Banking,China,3073,531,69788,4881
+2021,1306,Keysight Technologies,Technology Hardware & Equipment,United States of America,4306,636,7494,27057
+2021,1307,Yamato Holdings,Transportation,Japan,15624,448,11037,10065
+2021,1308,Vietin Bank,Banking,Vietnam,4187,589,58115,6779
+2021,1309,West Japan Railway,Transportation,Japan,9381,-1776,34098,10253
+2021,1310,Chongqing Zhifei Biological Products,Drugs & Biotechnology,China,2194,478,2327,43046
+2021,1311,Bandai Namco Holdings,Consumer Durables,Japan,6883,519,6961,17016
+2021,1312,Epiroc,Capital Goods,Sweden,3924,587,5344,29628
+2021,1313,Umicore,Materials,Belgium,23609,149,10344,13686
+2021,1314,Compal Electronics,Technology Hardware & Equipment,Taiwan,35624,318,16618,4174
+2021,1315,Geberit,Construction,Switzerland,3181,684,4243,23788
+2021,1316,Old Mutual,Diversified Financials,South Africa,8900,-310,62978,4418
+2021,1317,Enstar Group,Insurance,Bermuda,1397,1755,21647,5685
+2021,1318,Far East Horizon,Business Services & Supplies,Hong Kong,4418,664,45862,4738
+2021,1319,Williams-Sonoma,Retailing,United States of America,6783,681,4661,13281
+2021,1320,Greentown China Holdings,Construction,China,9573,167,53093,3103
+2021,1321,Wuestenrot & Wuerttembergische,Diversified Financials,Germany,7481,239,93246,2077
+2021,1322,B3,Diversified Financials,Brazil,1625,805,9161,19878
+2021,1323,Shionogi,Drugs & Biotechnology,Japan,2865,1091,9160,16139
+2021,1324,DexCom,Health Care Equipment & Services,United States of America,1927,494,4383,38686
+2021,1325,Lithia Motors,Retailing,United States of America,13124,470,8098,10412
+2021,1326,China Overseas Grand Oceans Group,Construction,Hong Kong,6322,635,25599,2212
+2021,1327,Cellnex Telecom,Telecommunications Services,Spain,1829,-152,29450,28529
+2021,1328,Taishin Financial Holdings,Diversified Financials,Taiwan,2018,492,78157,5276
+2021,1329,Tingyi Holding,"Food, Drink & Tobacco",China,9802,587,9409,10512
+2021,1330,China Grand Automotive Services,Retailing,China,22906,187,22463,3941
+2021,1331,Concordia Financial Group,Banking,Japan,2667,386,200729,4701
+2021,1332,Shengjing Bank,Banking,China,6513,163,158790,7755
+2021,1333,Xiamen International Trade Group,Trading Companies,China,40003,248,18550,2013
+2021,1334,AntarChile,Diversified Financials,Chile,18017,125,25557,5730
+2021,1335,Las Vegas Sands,"Hotels, Restaurants & Leisure",United States of America,3612,-1685,20807,46596
+2021,1336,Magnit,Food Markets,Russia,21474,456,13001,6884
+2021,1337,China Communications Services,Telecommunications Services,China,17811,446,14448,3156
+2021,1338,HNA Technology,Transportation,China,45822,101,17834,929
+2021,1339,Jabil Circuit,Technology Hardware & Equipment,United States of America,28297,369,14494,8101
+2021,1340,Sasol,Chemicals,South Africa,11125,-4900,27063,10112
+2021,1341,Seagen,Drugs & Biotechnology,United States of America,2176,614,4001,26380
+2021,1342,Iliad,Telecommunications Services,France,6693,494,19192,11139
+2021,1343,Jones Lang LaSalle,Construction,United States of America,16681,403,14316,9158
+2021,1344,Marfrig Global Foods,"Food, Drink & Tobacco",Brazil,13082,640,7606,2383
+2021,1345,Olympus,Technology Hardware & Equipment,Japan,6759,363,10705,27339
+2021,1346,Banca Mediolanum,Insurance,Italy,2717,495,72142,6891
+2021,1347,RenaissanceRe Holdings,Insurance,Bermuda,5161,752,27210,8452
+2021,1348,Zalando,Retailing,Germany,9099,258,7947,28388
+2021,1349,3i Group,Diversified Financials,United Kingdom,157,903,12808,16749
+2021,1350,Arista Networks,Technology Hardware & Equipment,United States of America,2318,635,4739,24172
+2021,1351,Steel Dynamics,Materials,United States of America,9601,551,9326,10878
+2021,1352,Inpex,Oil & Gas Operations,Japan,7222,-1046,44889,10413
+2021,1353,Community Health Systems,Health Care Equipment & Services,United States of America,11789,511,16006,1331
+2021,1354,SLM,Business Services & Supplies,United States of America,2286,881,30770,7008
+2021,1355,Olam International,"Food, Drink & Tobacco",Singapore,25968,137,20204,4145
+2021,1356,Textron,Conglomerates,United States of America,11651,309,15443,13284
+2021,1357,Vulcan Materials,Construction,United States of America,4857,585,11886,23305
+2021,1358,Popular,Banking,United States of America,2591,507,65926,6143
+2021,1359,Transurban Group,Transportation,Australia,1931,-495,26865,29403
+2021,1360,China Resources Gas Group,Oil & Gas Operations,Hong Kong,7203,664,12106,12013
+2021,1361,Lotte Shopping,Retailing,South Korea,13717,-664,30221,3128
+2021,1362,Zhejiang Zheneng Electric Power,Utilities,China,7301,838,16301,7756
+2021,1363,ZTO Express (Cayman),Transportation,China,3669,627,9053,24069
+2021,1364,Meiji Holdings,"Food, Drink & Tobacco",Japan,11260,602,10622,9214
+2021,1365,Interpublic Group,Media,United States of America,9061,351,18043,11955
+2021,1366,Shiseido,Consumer Durables,Japan,8625,-109,11664,29390
+2021,1367,Quinenco,Conglomerates,Chile,6557,313,74435,3762
+2021,1368,Shizuoka Bank,Banking,Japan,2017,391,134417,4500
+2021,1369,Alinma Bank,Banking,Saudi Arabia,1838,524,41816,9385
+2021,1370,All Nippon Airways,Transportation,Japan,8614,-3450,31898,10631
+2021,1371,Doosan,Trading Companies,South Korea,14387,-474,27725,790
+2021,1372,Bank of Ireland,Banking,Ireland,6059,-846,163655,5626
+2021,1373,Fastighets Balder,Construction,Sweden,884,722,21967,10779
+2021,1374,ICA Gruppen,Food Markets,Sweden,13719,451,12711,9729
+2021,1375,NEXON,IT Software & Services,Japan,2744,527,8351,29593
+2021,1376,Arab National Bank,Banking,Saudi Arabia,1807,553,48085,8518
+2021,1377,GAIL India,Oil & Gas Operations,India,8035,1130,10270,8338
+2021,1378,BNK Financial Group,Banking,South Korea,3756,412,105088,1924
+2021,1379,DXC Technology,Business Services & Supplies,United States of America,18159,-2846,23634,8058
+2021,1380,Valeo,Consumer Durables,France,18737,-1241,23060,8067
+2021,1381,Alliant Energy,Utilities,United States of America,3416,625,18345,14047
+2021,1382,Kansas City Southern,Transportation,United States of America,2607,618,10207,23417
+2021,1383,NetApp,Technology Hardware & Equipment,United States of America,5580,592,8686,17298
+2021,1384,Annaly Capital Management,Diversified Financials,United States of America,1484,-891,88455,12391
+2021,1385,Sofina,Diversified Financials,Belgium,97,1572,11126,12412
+2021,1386,Shanghai Commercial & Savings Bank,Banking,Taiwan,1819,457,75227,6696
+2021,1387,Chongqing Changan Auto,Consumer Durables,China,11178,497,16365,4467
+2021,1388,Fortinet,Technology Hardware & Equipment,United States of America,2592,486,4044,33619
+2021,1389,Hengyi Petrochemical ,Chemicals,China,11213,577,14365,7343
+2021,1390,Mitsui OSK Lines,Transportation,Japan,9552,455,19917,4193
+2021,1391,Caesars Entertainment,"Hotels, Restaurants & Leisure",United States of America,3474,-1757,36385,19503
+2021,1392,Bank of India,Banking,India,6633,-216,98590,3072
+2021,1393,Goertek,Technology Hardware & Equipment,China,8337,413,7511,15331
+2021,1394,Masraf Al Rayan,Banking,Qatar,1068,598,33264,9333
+2021,1395,E-mart ,Retailing,South Korea,18674,289,20566,4106
+2021,1396,Sanlam,Diversified Financials,South Africa,7822,174,63218,8203
+2021,1397,Hyundai Heavy Industries Holdings,Capital Goods,South Korea,16256,-516,24449,3741
+2021,1398,Royal Caribbean Group,"Hotels, Restaurants & Leisure",United States of America,2209,-5798,32465,21737
+2021,1399,SKF Group,Materials,Sweden,8132,467,11027,13820
+2021,1400,Kobe Steel,Materials,Japan,15848,-669,24605,2530
+2021,1401,RHB Bank,Banking,Malaysia,2647,471,67408,5150
+2021,1402,Check Point Software,IT Software & Services,Israel,2065,847,5839,16298
+2021,1403,Shopify,IT Software & Services,Canada,2929,320,7763,149648
+2021,1404,Hong Leong Financial,Business Services & Supplies,Malaysia,2026,471,65493,4599
+2021,1405,New York Community Bancorp,Banking,United States of America,1769,505,56404,5837
+2021,1406,Shimano,Consumer Durables,Japan,3541,595,5719,23023
+2021,1407,International Flavors & Fragrances,Consumer Durables,United States of America,5084,364,13556,35550
+2021,1408,Celltrion,Drugs & Biotechnology,South Korea,1567,433,4647,37658
+2021,1409,Navient,Diversified Financials,United States of America,3662,411,87412,2685
+2021,1410,Bausch Health Companies,Drugs & Biotechnology,Canada,8027,-560,31199,10680
+2021,1411,Bank of Zhengzhou,Banking,China,3915,425,78611,2928
+2021,1412,Acciona,Construction,Spain,7378,434,22352,9183
+2021,1413,Lixil Group,Construction,Japan,12489,388,17649,8371
+2021,1414,Teleperformance,Business Services & Supplies,France,6534,369,8594,23355
+2021,1415,Guangdong Haid Group,"Food, Drink & Tobacco",China,8756,323,4248,19083
+2021,1416,Trip.com Group,Business Services & Supplies,China,2654,-470,28632,23100
+2021,1417,NH Investment & Securities,Diversified Financials,South Korea,2028,489,57754,3220
+2021,1418,Chewy,Retailing,United States of America,7146,-93,1741,34944
+2021,1419,Centrica,Oil & Gas Operations,United Kingdom,15708,65,23401,4537
+2021,1420,Credicorp,Banking,Peru,5158,92,65763,11208
+2021,1421,NRG Energy,Utilities,United States of America,8934,510,14902,9465
+2021,1422,Shanxi Xinghuacun Fen Wine Factory,"Food, Drink & Tobacco",China,1560,386,2550,46592
+2021,1423,Zebra Technologies,Technology Hardware & Equipment,United States of America,4454,504,5375,27471
+2021,1424,SinoPac Financial,Banking,Taiwan,1818,416,76281,5170
+2021,1425,Booz Allen Hamilton Holding,Business Services & Supplies,United States of America,7849,547,5368,11660
+2021,1426,Hyundai Glovis,Transportation,South Korea,14001,514,10033,6198
+2021,1427,Chow Tai Fook Jewellery,Consumer Durables,Hong Kong,6674,463,8564,16216
+2021,1428,Medipal Holdings,Drugs & Biotechnology,Japan,30049,250,16895,4181
+2021,1429,Wharf Real Estate ,Construction,Hong Kong,2000,-1201,35842,18034
+2021,1430,First Citizens Bank (NC),Banking,United States of America,1961,492,49958,8413
+2021,1431,AVIC Capita,Diversified Financials,China,3038,474,58044,5320
+2021,1432,KION Group,Capital Goods,Germany,9509,244,18442,13009
+2021,1433,China Everbright International,Business Services & Supplies,Hong Kong,5535,776,20401,4032
+2021,1434,Bank of East Asia,Banking,Hong Kong,3526,364,114062,6251
+2021,1435,Bankinter,Banking,Spain,2474,362,117769,6244
+2021,1436,BCI-Banco Credito,Banking,Chile,3529,401,80445,8261
+2021,1437,Adecco,Business Services & Supplies,Switzerland,22312,-109,11981,11426
+2021,1438,Zhongtai Securities,Diversified Financials,China,1500,394,26679,14017
+2021,1439,Teck Resources,Materials,Canada,6671,-644,32400,11826
+2021,1440,Fortune Brands Home & Security,Construction,United States of America,6090,553,7359,14289
+2021,1441,Wistron,Technology Hardware & Equipment,Taiwan,28698,295,15262,3308
+2021,1442,Ronshine China Holdings,Construction,China,7115,353,35666,1185
+2021,1443,Ternium,Materials,Luxembourg,8624,768,12851,7782
+2021,1444,China Eastern Airlines,Transportation,China,8532,-1701,43526,7673
+2021,1445,LARGAN Precision,Technology Hardware & Equipment,Taiwan,1900,833,6096,14863
+2021,1446,Ansys,IT Software & Services,United States of America,1681,434,5941,32583
+2021,1447,Huntington Ingalls Industries,Aerospace & Defense,United States of America,9361,696,8741,8385
+2021,1448,Quilter,Diversified Financials,United Kingdom,6041,114,92094,3860
+2021,1449,Top Glove,Health Care Equipment & Services,Malaysia,3561,1643,3066,10803
+2021,1450,CSN,Materials,Brazil,5828,736,12129,11784
+2021,1451,Constellation Software,IT Software & Services,Canada,3964,434,4375,32184
+2021,1452,Veeva Systems,IT Software & Services,United States of America,1465,380,3046,41568
+2021,1453,BioMarin Pharmaceutical,Drugs & Biotechnology,United States of America,1842,859,5848,14437
+2021,1454,Huafa Industrial,Construction,China,5598,401,43711,2077
+2021,1455,Korea Shipbuilding & Offshore Engineering,Capital Goods,South Korea,12729,-707,23239,8678
+2021,1456,Nitto Denko,Chemicals,Japan,6898,558,8878,12209
+2021,1457,Banco BPM,Banking,Italy,5140,151,224748,4299
+2021,1458,Boliden,Materials,Sweden,6119,739,8827,11032
+2021,1459,Halyk Bank,Banking,Kazakhstan,2520,852,24666,4316
+2021,1460,Old Republic International,Insurance,United States of America,7166,559,18806,7226
+2021,1461,Samsung Electro-Mechanics,Technology Hardware & Equipment,South Korea,6957,512,8493,13095
+2021,1462,Ningxia Baofeng Energy Group,Materials,China,2277,670,5827,17628
+2021,1463,Oji Holdings,Materials,Japan,12896,346,18358,6471
+2021,1464,Samsung SDS,IT Software & Services,South Korea,9338,376,8428,13303
+2021,1465,Nine Dragons Paper Holdings,Materials,Hong Kong,7823,859,12765,6872
+2021,1466,WEG,Capital Goods,Brazil,3387,454,3837,28753
+2021,1467,Atmos Energy,Oil & Gas Operations,United States of America,2860,640,16476,13049
+2021,1468,Kiwoom Securities,Diversified Financials,South Korea,1479,596,34605,3293
+2021,1469,Macy's,Retailing,United States of America,18098,-3943,19096,5231
+2021,1471,Nomura Research Institute,IT Software & Services,Japan,5084,548,5341,17705
+2021,1472,SDIC Capital,Consumer Durables,China,2471,601,33448,8353
+2021,1473,Equifax,Business Services & Supplies,United States of America,4128,507,9612,23380
+2021,1474,StoneX Group,Diversified Financials,United States of America,52145,169,13975,1297
+2021,1475,STRABAG,Construction,Austria,16595,398,13421,3835
+2021,1476,Industries Qatar,Chemicals,Qatar,2032,542,9901,21264
+2021,1477,Samsung Securities,Diversified Financials,South Korea,1393,430,58796,3328
+2021,1478,Dentsu,Media,Japan,8797,-1495,32742,8868
+2021,1479,Alleghany,Insurance,United States of America,8897,102,28062,9476
+2021,1480,Gap,Retailing,United States of America,13800,-665,13769,12256
+2021,1481,AutoNation,Retailing,United States of America,20390,382,10115,8012
+2021,1482,LG Uplus,Telecommunications Services,South Korea,11372,396,16892,5143
+2021,1483,Saudi Arabian Mining,Materials,Saudi Arabia,4952,-56,25786,18700
+2021,1484,Essex Property Trust,Diversified Financials,United States of America,1512,569,12936,18815
+2021,1485,Bank of Jinzhou,Banking,China,5408,58,118963,3779
+2021,1486,Expedia Group,Business Services & Supplies,United States of America,5199,-2612,18690,25019
+2021,1487,AGCO,Capital Goods,United States of America,9150,427,8504,11436
+2021,1488,Persimmon,Construction,United Kingdom,4268,819,6320,14105
+2021,1489,Adani Ports & Special Economic Zone,Transportation,India,1600,545,9686,20642
+2021,1490,Nedbank,Banking,South Africa,5857,222,83611,5081
+2021,1491,China Development Bank Financial Leasing,Banking,China,2663,476,46382,1855
+2021,1492,Lanxess,Chemicals,Germany,6958,1009,11194,6533
+2021,1493,Sonic Healthcare,Health Care Equipment & Services,Australia,5397,655,8995,13201
+2021,1494,CSPC Pharmaceutical Group,Drugs & Biotechnology,Hong Kong,3613,749,4598,14755
+2021,1495,OneMain Holdings,Business Services & Supplies,United States of America,4941,730,22471,7527
+2021,1496,Latour Ab Investment,Consumer Durables,Sweden,1633,578,5125,18882
+2021,1497,News Corp,Media,United States of America,8720,-862,15094,15772
+2021,1498,Qingdao Rural Commercial Bank,Banking,China,2404,420,57589,3696
+2021,1499,BJ's Wholesale Club,Retailing,United States of America,15430,421,5412,6203
+2021,1500,PerkinElmer,Health Care Equipment & Services,United States of America,3783,728,7960,14922
+2021,1501,Electrolux Group,Consumer Durables,Sweden,12598,457,12128,8545
+2021,1502,Bancolombia,Banking,Colombia,5963,75,74717,8107
+2021,1503,Changchun High & New Technology,Drugs & Biotechnology,China,1226,441,2576,27014
+2021,1504,Xiamen Xiangyu,Transportation,China,52145,188,13359,2218
+2021,1505,China Industrial Securities,Diversified Financials,China,2999,580,27680,8911
+2021,1506,Colruyt,Food Markets,Belgium,11025,540,5933,7825
+2021,1507,Link REIT,Diversified Financials,Hong Kong,1386,-3596,26218,20149
+2021,1508,GS Holdings,Conglomerates,South Korea,12961,-206,22532,3532
+2021,1509,Lear,Consumer Durables,United States of America,17045,159,13199,10959
+2021,1510,Xinyi Glass Holdings,Consumer Durables,Hong Kong,2400,828,5813,13493
+2021,1511,DCC,Conglomerates,United States of America,17042,365,9902,8783
+2021,1512,Standard Life,Insurance,United Kingdom,2245,1087,14323,10294
+2021,1513,Wharf (Holdings),Conglomerates,Hong Kong,2707,498,32770,9039
+2021,1514,Indian Railway Finance,Business Services & Supplies,India,1982,524,36474,3823
+2021,1515,Aurubis,Materials,Germany,15290,414,7269,3854
+2021,1516,Ceconomy,Retailing,Germany,24480,-284,15677,2088
+2021,1517,Lundbergs,Diversified Financials,Sweden,1975,390,21919,14466
+2021,1518,FinecoBank,Banking,Italy,1254,369,38854,10479
+2021,1519,Coca-Cola HBC,"Food, Drink & Tobacco",Switzerland,7002,476,9266,12638
+2021,1520,Cosmo Energy Holdings,Oil & Gas Operations,Japan,21266,-295,16200,1903
+2021,1521,Smoore International Holdings,"Food, Drink & Tobacco",Hong Kong,1456,354,2259,39358
+2021,1522,Kawasaki Heavy Industries,Conglomerates,Japan,14409,-1,19775,4057
+2021,1523,Yamada Denki,Retailing,Japan,15704,398,12760,4317
+2021,1524,Commercial International Bank,Banking,Egypt,2955,647,27199,5122
+2021,1525,ServiceNow,IT Software & Services,United States of America,4519,119,8715,109210
+2021,1526,Broadridge Financial,Business Services & Supplies,United States of America,4827,519,4858,18180
+2021,1527,Mebuki Financial Group,Banking,Japan,2061,285,221686,2633
+2021,1528,Suzano Papel e Celulose,Materials,Brazil,5905,-2079,19599,17070
+2021,1529,AirBnB,Business Services & Supplies,United States of America,3378,-4585,10491,107077
+2021,1530,Kerry Properties,Construction,Hong Kong,1976,697,25248,4724
+2021,1531,Qorvo,Semiconductors,United States of America,3730,485,7041,21777
+2021,1532,Hotai Motor,Consumer Durables,Taiwan,7797,470,10330,11448
+2021,1533,Inner Mongolia Baotou Steel,Materials,China,8443,-51,21044,10972
+2021,1534,China Shipbuilding Industry,Capital Goods,China,5472,-119,25701,14682
+2021,1535,Jointown Pharmaceutical Group,Health Care Equipment & Services,China,15153,407,11558,4978
+2021,1536,Asian Paints,Chemicals,India,2657,371,2354,34393
+2021,1537,Hua Nan Financial,Diversified Financials,Taiwan,2286,294,110367,8732
+2021,1538,Chailease Holding,Business Services & Supplies,Taiwan,2013,573,21116,10236
+2021,1539,Prosperity Bancshares,Banking,United States of America,1281,529,34059,7105
+2021,1540,FAW Jiefang Group,Consumer Durables,China,16370,387,9823,7971
+2021,1541,Hilton,"Hotels, Restaurants & Leisure",United States of America,4336,-715,16755,35665
+2021,1542,Fukuoka Financial Group,Banking,Japan,2610,5,263251,3403
+2021,1543,Kohl's,Retailing,United States of America,15955,-163,15337,9363
+2021,1544,Snap,IT Software & Services,United States of America,2507,-945,5024,92384
+2021,1545,Shenzhen Transsion Holding,Telecommunications Services,China,5465,380,3990,21328
+2021,1546,UGI,Oil & Gas Operations,United States of America,6474,623,14725,9181
+2021,1547,Banque Cantonale Vaudoise,Banking,Switzerland,1146,352,60169,8886
+2021,1548,Packaging Corp of America,Materials,United States of America,6658,457,7651,13334
+2021,1549,BOK Financial,Banking,United States of America,1927,433,46671,6355
+2021,1550,Teladoc Health,Health Care Equipment & Services,United States of America,1094,-485,18293,29330
+2021,1551,Indian Bank,Banking,India,5567,156,79541,1566
+2021,1552,Country Garden Services Holdings,Construction,China,2269,389,4771,29639
+2021,1553,Ricoh,Business Services & Supplies,Japan,15995,-229,17888,7882
+2021,1554,Attijariwafa Bank,Banking,Morocco,4226,318,63803,9395
+2021,1555,Migdal Insurance,Insurance,Israel,6368,103,56282,1253
+2021,1556,Mitsui Chemicals,Chemicals,Japan,11215,410,14809,6429
+2021,1557,Take-Two Interactive Software,Consumer Durables,United States of America,3294,493,5966,20594
+2021,1558,Beijing Oriental Yuhong Waterproof Technology,Chemicals,China,3139,492,4276,20539
+2021,1559,Henry Schein,Health Care Equipment & Services,United States of America,10119,402,7773,10125
+2021,1560,Meritz Securities,Diversified Financials,South Korea,1772,464,40465,2644
+2021,1561,Alfresa Holdings,Drugs & Biotechnology,Japan,24550,294,13776,3972
+2021,1562,Minebea,Materials,Japan,9032,410,9247,10824
+2021,1563,MercadoLibre,IT Software & Services,Argentina,3973,-1,6526,79387
+2021,1564,Wm Morrison Supermarkets,Food Markets,United Kingdom,22635,124,15155,5988
+2021,1565,Akamai Technologies,IT Software & Services,United States of America,3198,557,7764,17295
+2021,1566,Safaricom,Telecommunications Services,Kenya,2451,683,2098,14306
+2021,1567,Waters,Health Care Equipment & Services,United States of America,2365,522,2840,18612
+2021,1568,Waste Connections,Business Services & Supplies,Canada,5444,193,14104,30640
+2021,1569,Healthpeak Properties,Diversified Financials,United States of America,2203,411,15920,17918
+2021,1570,Power Assets Holdings,Utilities,Hong Kong,164,791,12065,12855
+2021,1571,Banca MPS,Banking,Italy,4568,-1925,184065,1358
+2021,1572,EMS-Chemie Holding,Chemicals,Switzerland,1920,463,2350,21430
+2021,1573,Wheaton Precious Metals,Materials,Canada,1095,506,5969,19079
+2021,1574,Nippon Express,Transportation,Japan,18848,283,15712,6969
+2021,1575,Adyen,IT Software & Services,Netherlands,4151,275,5088,73510
+2021,1576,Commercial Bank For Investment & Development Of Vietnam,Banking,Vietnam,5229,305,65707,7323
+2021,1577,Mercuries & Associates,Insurance,Taiwan,6646,48,48583,661
+2021,1578,Technipfmc,Oil & Gas Operations,United Kingdom,13117,-3288,19693,3276
+2021,1579,M3,Health Care Equipment & Services,Japan,1484,298,2404,52394
+2021,1580,Mitsubishi Materials,Materials,Japan,13781,-673,18889,3032
+2021,1581,PGE Polska Grupa Energetyczna,Utilities,Poland,11741,28,21899,4187
+2021,1582,First Quantum Minerals,Materials,Canada,5211,-186,24236,15736
+2021,1583,Twitter,IT Software & Services,United States of America,3716,-1136,13379,56003
+2021,1584,Flagstar Bancorp,Banking,United States of America,1974,538,31114,2308
+2021,1585,Sparebanken Nord-Norge,Banking,Norway,481,1956,13700,1006
+2021,1586,Steel Authority of India,Materials,India,8365,449,16617,5077
+2021,1587,Aena,Transportation,Spain,2486,-145,19165,24914
+2021,1588,Beijing Shougang,Materials,China,11515,209,22057,4152
+2021,1589,Starwood Property Trust,Diversified Financials,United States of America,1136,326,80874,7290
+2021,1590,Moderna,Drugs & Biotechnology,United States of America,803,-747,7337,68355
+2021,1591,Moscow Exchange,Diversified Financials,Russia,699,348,66689,5224
+2021,1592,Dick's Sporting Goods,Retailing,United States of America,9584,530,7753,7531
+2021,1593,Snowflake,IT Software & Services,United States of America,592,-539,5922,67192
+2021,1594,Ubiquiti,Telecommunications Services,United States of America,1606,513,781,18049
+2021,1595,China SCE Group Holdings,Construction,China,4810,550,26089,1945
+2021,1596,Synovus Financial,Banking,United States of America,2303,374,54631,6994
+2021,1597,Hokuhoku Financial Group,Banking,Japan,1603,193,156475,1175
+2021,1598,Amerco,Business Services & Supplies,United States of America,4304,659,14447,12010
+2021,1599,Twilio,IT Software & Services,United States of America,1762,-491,9487,65675
+2021,1600,AB Sagax,Construction,Sweden,320,403,5677,24496
+2021,1601,Commerce Bank,Banking,United States of America,1427,430,33270,9031
+2021,1602,Gerdau (Cosigua),Materials,Brazil,8494,459,12153,9844
+2021,1603,AGNC Investment,Diversified Financials,United States of America,341,-266,81817,9284
+2021,1604,Grupo Inbursa,Banking,Mexico,3243,589,26239,6276
+2021,1605,Magnitogorsk Iron & Steel,Materials,Russia,6397,612,7552,10103
+2021,1606,Shinsun Holdings (Group),Diversified Financials,China,6757,383,24426,2530
+2021,1607,Galp Energia,Oil & Gas Operations,Portugal,12983,-628,15285,9666
+2021,1608,Mitsubishi Motors,Consumer Durables,Japan,14575,-2416,17342,4278
+2021,1609,Workday,IT Software & Services,United States of America,4299,-282,8718,62293
+2021,1610,Woodside Petroleum,Oil & Gas Operations,Australia,3612,-4228,24623,17911
+2021,1611,Advantest,Semiconductors,Japan,2720,481,3513,18988
+2021,1612,AIB Group,Banking,Ireland,3198,-914,135115,7576
+2021,1613,Atlassian,IT Software & Services,Australia,1803,-1187,3561,58705
+2021,1614,MOL Hungarian Oil,Oil & Gas Operations,Hungary,13024,-52,18579,4444
+2021,1615,Xinyi Solar Holdings,Semiconductors,China,1588,588,5600,14988
+2021,1616,Extra Space Storage,Diversified Financials,United States of America,1338,473,9396,19065
+2021,1617,Hansoh Pharmaceutical Group ,Drugs & Biotechnology,China,1261,373,3179,27272
+2021,1618,ENN Natural Gas,Chemicals,China,12681,305,16747,7486
+2021,1619,Bank of Suzhou,Banking,China,2622,359,56771,3700
+2021,1620,Bajaj Auto,Consumer Durables,India,3502,629,3985,14150
+2021,1621,Kinross Gold,Materials,Canada,4208,1325,10933,9465
+2021,1622,XCMG Construction Machinery,Capital Goods,China,9558,433,12915,8983
+2021,1623,First American Financial,Insurance,United States of America,7087,696,12796,6753
+2021,1624,Wuxi Biologics,Drugs & Biotechnology,China,818,245,4429,56379
+2021,1625,Bombardier,Aerospace & Defense,Canada,10158,-867,23090,1735
+2021,1626,Rajesh Exports,Consumer Durables,India,32560,111,4062,1990
+2021,1627,Polymetal International ,Materials,Cyprus,2855,1080,4440,10156
+2021,1628,Bank of Qingdao,Banking,China,2813,334,65522,2873
+2021,1629,Ahli United Bank,Banking,Bahrain,1726,419,40071,7195
+2021,1630,Zhenro Properties Group,Diversified Financials,China,5256,387,33852,2991
+2021,1631,Admiral Group ,Insurance,United Kingdom,1667,678,7872,13135
+2021,1632,ONO Pharmaceutical,Drugs & Biotechnology,Japan,2829,697,6964,12910
+2021,1633,Citrix Systems,IT Software & Services,United States of America,3237,504,4890,17276
+2021,1634,New Oriental Education & Technology Group,Business Services & Supplies,China,3596,380,9478,25239
+2021,1635,Evolution Gaming Group AB,"Hotels, Restaurants & Leisure",Sweden,638,324,3878,35454
+2021,1636,OMRON,Technology Hardware & Equipment,Japan,6081,363,7431,16476
+2021,1637,Taiwan Cement,Construction,Taiwan,3884,852,13862,10174
+2021,1638,China Merchants Port Holdings,Transportation,Hong Kong,1153,664,21933,6041
+2021,1639,Nishi-nippon Financial Holdings,Banking,Japan,1279,209,121897,967
+2021,1640,RMB Holdings,Diversified Financials,South Africa,2,2033,330,191
+2021,1641,BPER Banca,Banking,Italy,3561,280,113852,3201
+2021,1642,Tech Mahindra,IT Software & Services,India,5075,560,5184,13161
+2021,1643,Schaeffler,Consumer Durables,Germany,14363,-483,16881,6558
+2021,1644,Tokyu Fudosan,Construction,Japan,8940,267,26039,4118
+2021,1645,Grupo Elektra,Retailing,Mexico,5754,-89,18614,15728
+2021,1646,Radiance Holdings (Group),Construction,China,5055,453,28389,2395
+2021,1647,Virgin Money UK,Banking,United Kingdom,2978,-280,116687,3860
+2021,1648,Kyushu Financial Group,Banking,Japan,1650,159,116505,1819
+2021,1649,Xinjiang Goldwind Science & Technology,Capital Goods,China,8181,413,16688,7450
+2021,1650,Vingroup,Construction,Vietnam,4747,213,18304,20968
+2021,1651,Hachijuni Bank,Banking,Japan,1314,173,112291,1714
+2021,1652,NCSOFT,Consumer Durables,South Korea,2048,498,3757,16835
+2021,1653,Jiangxi Zhengbang Technology,"Food, Drink & Tobacco",China,5641,1003,7457,6367
+2021,1654,North Pacific Bank,Banking,Japan,1284,88,111812,1045
+2021,1655,Pembina Pipeline,Oil & Gas Operations,Canada,4624,-236,24659,16246
+2021,1656,Pinnacle West,Utilities,United States of America,3587,551,20020,9572
+2021,1657,Sinotrans Ltd.,Transportation,China,12239,399,9604,3162
+2021,1658,Jyske Bank,Banking,Denmark,1942,220,110569,3504
+2021,1659,Bawag Group,Banking,Austria,1749,324,65005,4692
+2021,1660,FMC,Chemicals,United States of America,4642,550,10186,14717
+2021,1661,Kingspan Group PLC,Construction,Ireland,5217,426,6536,16209
+2021,1662,Pinterest,IT Software & Services,United States of America,1693,-128,2609,48927
+2021,1663,Orient Securities,Diversified Financials,China,2593,381,44515,4518
+2021,1664,Yamaguchi Financial,Banking,Japan,1469,211,109063,1563
+2021,1665,Bank of Kyoto,Banking,Japan,1002,184,107938,4419
+2021,1666,Hyundai Engineering,Construction,South Korea,14383,104,16514,4707
+2021,1667,US Foods,Food Markets,United States of America,22885,-226,12423,8580
+2021,1668,Bank of Xi'an,Banking,China,1971,379,44541,3400
+2021,1669,Roku,Consumer Durables,United States of America,1778,-18,2271,48353
+2021,1670,Red Eléctrica,Utilities,Spain,2264,708,15842,9698
+2021,1671,CrowdStrike,IT Software & Services,United States of America,874,-93,2733,48178
+2021,1672,Tokyu,Transportation,Japan,9199,-283,24428,7883
+2021,1673,United Natural Foods,Food Markets,United States of America,26983,198,7490,2026
+2021,1674,DoorDash,IT Software & Services,United States of America,2886,-461,6353,48056
+2021,1675,Ooredoo Q.P.S.C,Telecommunications Services,Qatar,7928,309,24097,6262
+2021,1676,Banco Comercial Portugues,Banking,Portugal,3309,166,105634,2120
+2021,1677,China Nuclear Engineering Corporation,Construction,China,10265,181,21224,3355
+2021,1678,Cannae Holdings,Diversified Financials,United States of America,586,1786,4616,3835
+2021,1679,Etsy,Business Services & Supplies,United States of America,1726,349,2404,27730
+2021,1680,Hess,Oil & Gas Operations,United States of America,4248,-3093,18821,21286
+2021,1681,Performance Food Group,Food Markets,United States of America,26667,-175,7678,7656
+2021,1682,Hirogin Holdings,Banking,Japan,1068,223,103450,1789
+2021,1683,Shanghai Yuyuan Tourist Mart,Retailing,China,6094,523,17164,7251
+2021,1684,Valley Natl Bancorp,Banking,United States of America,1555,391,40761,5650
+2021,1685,Oriental Land,Media,Japan,1980,-351,10353,46959
+2021,1686,Shinsei Bank,Banking,Japan,2710,250,101868,3275
+2021,1687,Covivio,Diversified Financials,France,1179,410,33593,8630
+2021,1688,Voestalpine,Materials,Austria,12669,-232,17530,7985
+2021,1689,Israel Discount Bank,Banking,Israel,3564,284,91556,5009
+2021,1690,Makita,Consumer Durables,Japan,5250,525,7280,12726
+2021,1691,TP ICAP,Diversified Financials,United Kingdom,2318,123,99424,2611
+2021,1692,YPF ,Oil & Gas Operations,Argentina,9467,-982,22876,2507
+2021,1693,Japan Securities,Diversified Financials,Japan,280,36,98412,675
+2021,1694,Kakao,IT Software & Services,South Korea,3523,132,11004,45982
+2021,1695,Agnico Eagle Mines,Materials,Canada,3138,512,9615,15738
+2021,1696,RTL Group,Media,Luxembourg,6859,561,11352,9191
+2021,1697,Uniqa,Insurance,Austria,6901,22,34185,2460
+2021,1698,DocuSign,IT Software & Services,United States of America,1453,-243,2337,45123
+2021,1699,Western Union,Business Services & Supplies,United States of America,4824,744,9496,10623
+2021,1700,C&D International Investment Group,Construction,Hong Kong,6299,340,28047,2278
+2021,1701,PSG Group,Diversified Financials,South Africa,1018,1675,1079,1018
+2021,1702,Arca Continental,"Food, Drink & Tobacco",Mexico,7875,478,12345,9230
+2021,1703,Interactive Brokers Group,Diversified Financials,United States of America,2498,195,95679,6953
+2021,1704,TMB Bank,Banking,Thailand,2949,323,60358,3580
+2021,1705,Gunma Bank,Banking,Japan,1289,176,95153,1422
+2021,1706,National Bank of Greece,Banking,Greece,3288,43,94807,2979
+2021,1707,Westlake Chemical,Chemicals,United States of America,7504,329,13835,12262
+2021,1708,Bank Muscat,Banking,Oman,1552,446,32350,3621
+2021,1709,Iluka Resources,Materials,Australia,715,1660,1950,2407
+2021,1710,Arkema,Chemicals,France,8988,379,13105,9608
+2021,1711,IndusInd Bank,Banking,India,4784,313,44998,8815
+2021,1712,China Resources Cement Holdings,Construction,Hong Kong,5169,1155,8839,7963
+2021,1713,Harbin Bank,Banking,China,4572,100,91545,1401
+2021,1714,Rite Aid,Retailing,United States of America,24043,-91,9335,974
+2021,1715,Stifel Financial,Diversified Financials,United States of America,3828,504,26898,7357
+2021,1716,Daishi Hokuetsu Financial Group,Banking,Japan,1351,90,92659,1015
+2021,1717,Snap-on,Consumer Durables,United States of America,3942,627,6557,12821
+2021,1718,77 Bank,Banking,Japan,942,165,91186,966
+2021,1719,Beijing Capital Development,Construction,China,5644,251,48497,2345
+2021,1720,Aramark,"Hotels, Restaurants & Leisure",United States of America,11320,-689,14506,10068
+2021,1721,Newell Brands,Consumer Durables,United States of America,9385,-770,14700,11382
+2021,1722,Will Semiconductor,Semiconductors,China,2594,294,3137,36388
+2021,1723,Zain,Telecommunications Services,Kuwait,5303,604,16146,8654
+2021,1724,Maroc Telecom,Telecommunications Services,Morocco,3874,571,7136,13703
+2021,1725,Chugoku Bank,Banking,Japan,1062,119,88618,1564
+2021,1726,Horizon Therapeutics Public Limited Company,Drugs & Biotechnology,Ireland,2200,390,6073,20899
+2021,1727,LPL Financial Holdings,Diversified Financials,United States of America,5872,473,6524,11793
+2021,1728,Magazine Luiza,Retailing,Brazil,5656,76,4745,25203
+2021,1729,Zenith Bank,Banking,Nigeria,1699,604,21485,1644
+2021,1730,Piraeus Bank,Banking,Greece,2652,-754,87577,289
+2021,1731,Lotte Chemical,Chemicals,South Korea,10359,134,17846,8781
+2021,1732,Roblox,IT Software & Services,United States of America,924,-253,1848,41758
+2021,1733,American National Group,Insurance,United States of America,3786,468,29197,3044
+2021,1734,Shaw Communications,Media,Canada,4061,554,12550,13963
+2021,1735,Air Lease ,Business Services & Supplies,United States of America,2015,516,25215,5538
+2021,1736,Alpha Bank,Banking,Greece,3646,118,85718,2091
+2021,1737,Novozymes,Drugs & Biotechnology,Denmark,2143,432,3456,18078
+2021,1738,EQT AB,Diversified Financials,Sweden,805,300,1985,33856
+2021,1739,Huaibei Mining Holdings,Capital Goods,China,8624,494,10247,3810
+2021,1740,Medical Properties Trust,Diversified Financials,United States of America,1249,429,16829,12841
+2021,1741,Smith & Nephew,Health Care Equipment & Services,United Kingdom,4552,444,11012,17491
+2021,1742,Bank Negara Indonesia,Banking,Indonesia,5045,226,63440,7610
+2021,1743,Trimble,Technology Hardware & Equipment,United States of America,3148,390,6877,20603
+2021,1744,Amadeus IT Group ,Business Services & Supplies,Spain,2478,-576,14316,31501
+2021,1745,Sino Biopharmaceutical,Drugs & Biotechnology,Hong Kong,3423,404,7219,19491
+2021,1746,RPM International,Chemicals,United States of America,5821,452,5792,12105
+2021,1747,Ingersoll Rand,Capital Goods,United States of America,4910,-33,16059,21124
+2021,1748,Palantir Technologies,IT Software & Services,United States of America,1093,-1166,2691,40946
+2021,1749,Eurobank Ergasias,Banking,Greece,3439,-1383,82869,3397
+2021,1750,Companhia Brasileira de Distribuicao,Food Markets,Brazil,9936,422,11477,1744
+2021,1751,Steris,Health Care Equipment & Services,Ireland,3057,432,6581,17765
+2021,1752,Chang Hwa Bank,Banking,Taiwan,1336,239,82335,6523
+2021,1753,Evergrande Property Services Group,Construction,China,1528,385,2609,20731
+2021,1754,Iyo Bank,Banking,Japan,1117,213,81503,1816
+2021,1755,China Railway Signal & Communication,Technology Hardware & Equipment,China,5828,554,16106,4593
+2021,1756,Domino's Pizza,"Hotels, Restaurants & Leisure",United States of America,4117,491,1567,15321
+2021,1757,Focus Media Information Technology,Media,China,1571,388,2990,20314
+2021,1758,Unicaja Banco,Banking,Spain,1424,88,80197,1516
+2021,1759,Dai Nippon Printing,Business Services & Supplies,Japan,12573,61,16532,5893
+2021,1760,Bilibili,IT Software & Services,China,1747,-438,3649,39285
+2021,1761,Gudang Garam,"Food, Drink & Tobacco",Indonesia,7872,526,5565,4809
+2021,1762,Murphy USA,Retailing,United States of America,11264,386,2737,3854
+2021,1763,WPG Holdings,Trading Companies,Taiwan,20713,276,8327,2832
+2021,1764,Commercial Bank of Qatar ,Banking,Qatar,1953,357,42188,6039
+2021,1765,Match Group,IT Software & Services,United States of America,2391,129,2977,39082
+2021,1766,AECOM Technology,Construction,United States of America,13318,-201,12505,9904
+2021,1767,Ford Otosan,Consumer Durables,Turkey,7036,597,3332,8053
+2021,1768,Reliance Steel,Materials,United States of America,8812,369,8107,9939
+2021,1769,Galaxy Entertainment,"Hotels, Restaurants & Leisure",Hong Kong,1082,-512,11959,38644
+2021,1770,Johnson Matthey,Chemicals,United Kingdom,18779,131,10800,8477
+2021,1771,Sartorius,Health Care Equipment & Services,Germany,2663,259,5780,38504
+2021,1772,Almarai,"Food, Drink & Tobacco",Saudi Arabia,4107,530,8730,13836
+2021,1773,Delivery Hero,Retailing,Germany,1862,-1035,5310,38306
+2021,1774,Samhallsbyggnadsbolaget I Norden,Construction,Sweden,556,957,14640,8195
+2021,1775,Showa Denko,Chemicals,Japan,9120,-715,21343,4572
+2021,1776,AngloGold Ashanti,Materials,South Africa,4422,952,7672,9330
+2021,1777,Goodyear,Consumer Durables,United States of America,12321,-1254,16506,4136
+2021,1778,KT&G,"Food, Drink & Tobacco",South Korea,4493,993,10557,9203
+2021,1779,Credit Bank of Moscow,Banking,Russia,2533,370,38054,2826
+2021,1780,PTT Global Chemical,Chemicals,Thailand,10522,6,16335,8981
+2021,1781,Aier Eye Hospital Group,Health Care Equipment & Services,China,1541,242,2426,37532
+2021,1782,World Fuel Services,Trading Companies,United States of America,20089,110,4500,2166
+2021,1783,Suzuken,Drugs & Biotechnology,Japan,19988,131,11840,3394
+2021,1784,Yonghui Superstores,Food Markets,China,13381,293,7742,9208
+2021,1785,China CSSC Holdings,Capital Goods,China,6299,67,19893,11450
+2021,1786,DGB Financial Group,Banking,South Korea,2961,274,73669,1202
+2021,1787,Nippon Steel Trading,Trading Companies,Japan,19622,122,8251,1190
+2021,1788,BayWa,Trading Companies,Germany,19557,42,11066,1728
+2021,1789,Burlington Stores,Retailing,United States of America,5764,-217,6781,21609
+2021,1790,Shiga Bank,Banking,Japan,777,117,72997,1066
+2021,1791,bioMerieux,Health Care Equipment & Services,France,3555,461,4806,15721
+2021,1792,CPFL Energia,Utilities,Brazil,5990,706,9454,6401
+2021,1793,West Pharmaceutical Services,Drugs & Biotechnology,United States of America,2147,346,2794,23176
+2021,1794,Avantor,Chemicals,United States of America,6394,117,9906,18734
+2021,1795,Yandex NV,IT Software & Services,Netherlands,3004,353,6971,22024
+2021,1796,Franco-Nevada,Materials,Canada,1018,323,5593,26206
+2021,1797,Deutsche Pfandbriefbank,Banking,Germany,1738,114,72044,1564
+2021,1798,Sekisui Chemical,Chemicals,Japan,9950,370,11065,8784
+2021,1799,Lindt & Sprungli,"Food, Drink & Tobacco",Switzerland,4280,343,9218,23383
+2021,1800,Darden Restaurants,"Hotels, Restaurants & Leisure",United States of America,6187,-219,10096,19146
+2021,1801,Ayala Corp,Diversified Financials,Philippines,3904,346,29319,9830
+2021,1802,Algonquin Power & Utilities,Utilities,Canada,1645,777,13224,9657
+2021,1803,Kirkland Lake Gold,Materials,Canada,2457,785,7081,10088
+2021,1804,China Conch Venture Holdings,Utilities,China,960,1106,8307,8652
+2021,1805,EPAM Systems,IT Software & Services,United States of America,2659,327,2721,25026
+2021,1806,Jiangxi Bank,Banking,China,3068,268,70139,2543
+2021,1807,Sichuan Road & Bridge,Construction,China,8345,368,16048,5017
+2021,1808,CoStar Group,IT Software & Services,United States of America,1659,227,6915,35698
+2021,1809,S-Oil,Oil & Gas Operations,South Korea,14264,-675,14444,8260
+2021,1810,Fuyo General Lease,Business Services & Supplies,Japan,6899,250,29106,2044
+2021,1811,Juroku Bank,Banking,Japan,1037,151,69831,715
+2021,1812,Palo Alto Networks,Technology Hardware & Equipment,United States of America,3783,-368,9488,35654
+2021,1813,Swedish Match,"Food, Drink & Tobacco",Sweden,1814,524,1845,13451
+2021,1814,Hyakugo Bank,Banking,Japan,819,110,69659,740
+2021,1815,Okta,IT Software & Services,United States of America,835,-266,3299,35425
+2021,1816,Hulic ,Construction,Japan,3181,596,19559,8060
+2021,1817,Credito Emiliano,Banking,Italy,2163,230,69314,1989
+2021,1818,Sistema,Telecommunications Services,Russia,9559,98,19216,4662
+2021,1819,Angang Steel,Materials,China,14518,289,13463,6173
+2021,1820,Barry Callebaut,"Food, Drink & Tobacco",Switzerland,7132,327,8003,12919
+2021,1821,"Sumitomo Forestry Co.,",Construction,Japan,10488,380,10569,4221
+2021,1822,JD Sports Fashion,Retailing,United Kingdom,7932,289,7088,13253
+2021,1823,A2A,Utilities,Italy,7601,415,14959,5810
+2021,1824,IHI,Capital Goods,Japan,11532,28,16602,2989
+2021,1825,Hokkaido Electric Power,Utilities,Japan,6874,361,19327,872
+2021,1826,First Pacific,Diversified Financials,Hong Kong,7131,202,26944,1452
+2021,1827,President Chain Store,Food Markets,Taiwan,8779,348,7456,10052
+2021,1828,Proximus,Telecommunications Services,Belgium,6205,644,10742,7171
+2021,1829,W.P. Carey,Diversified Financials,United States of America,1218,455,14708,12731
+2021,1830,Tele2,Telecommunications Services,Sweden,2918,798,9182,9703
+2021,1831,Haidilao International Holding,"Hotels, Restaurants & Leisure",China,4170,51,4209,34379
+2021,1832,LT Group,Conglomerates,Philippines,1904,424,28176,3045
+2021,1833,Peloton Interactive,Business Services & Supplies,United States of America,2954,166,3910,34224
+2021,1834,Ulta Beauty,Retailing,United States of America,6152,176,5671,18588
+2021,1835,Invitation Homes,Diversified Financials,United States of America,1709,154,17506,18911
+2021,1836,Manpower,Business Services & Supplies,United States of America,18001,24,9328,6046
+2021,1837,Trade Desk,Media,United States of America,836,242,2754,34059
+2021,1838,Carvana,Retailing,United States of America,5587,-171,3035,21548
+2021,1839,Daou Data,IT Software & Services,South Korea,5810,82,35899,485
+2021,1840,PIK Group,Diversified Financials,Russia,2661,1194,8927,8324
+2021,1841,Avnet,Trading Companies,United States of America,17861,-76,8264,4401
+2021,1842,Braskem,Chemicals,Brazil,11350,-1297,16573,7077
+2021,1843,Swatch Group,Consumer Durables,Switzerland,5961,-54,14590,15763
+2021,1844,Just Group,Insurance,United Kingdom,5957,212,34230,1551
+2021,1845,Bank Pekao,Banking,Poland,2730,283,62319,5272
+2021,1846,Hubei Biocause Pharmaceutical,Chemicals,China,6045,191,33321,3121
+2021,1847,KGHM Polska Miedz,Materials,Poland,5978,461,10790,10512
+2021,1848,Big Lots,Retailing,United States of America,6199,629,4037,2404
+2021,1849,Taiwan Business Bank,Banking,Taiwan,1073,160,63764,2635
+2021,1850,Generac Holdings Inc.,Capital Goods,United States of America,2485,348,3235,20884
+2021,1851,Toho Bank,Banking,Japan,543,21,63710,530
+2021,1852,Ogaki Kyoritsu Bank,Banking,Japan,693,64,63599,796
+2021,1853,Bank of Jiujiang,Banking,China,2856,242,63579,3346
+2021,1854,TrygVesta,Insurance,Denmark,3449,424,9801,15826
+2021,1855,Gjensidige Forsikring,Insurance,Norway,3136,526,13694,11747
+2021,1856,Zillow Group,Business Services & Supplies,United States of America,3340,-162,7487,32395
+2021,1857,Fareast Islami Life Insurance Company,Insurance,Bangladesh,1290,1175,510,34
+2021,1858,Inventec,Technology Hardware & Equipment,Taiwan,17263,256,7622,3431
+2021,1859,Marvell Technology Group,Semiconductors,United States of America,2969,-277,10765,32373
+2021,1860,Ryanair Holdings,Transportation,Ireland,3097,-1508,15517,21622
+2021,1861,Cullen/Frost Bankers,Banking,United States of America,1475,328,42391,7270
+2021,1862,Guangzhou Baiyunshan Pharmaceutical Holdings,Drugs & Biotechnology,China,8904,420,9138,3963
+2021,1863,Cencosud,Retailing,Chile,13969,162,13953,6871
+2021,1864,Abu Dhabi Islamic Bank,Banking,United Arab Emirates,1732,360,34797,4904
+2021,1865,China Resources Beer (Holdings),Food Markets,Hong Kong,4548,298,6694,26764
+2021,1866,Bendigo & Adelaide Bank,Banking,Australia,1575,200,62322,4343
+2021,1867,Core-Mark Holding,Trading Companies,United States of America,16958,63,2060,1973
+2021,1868,Kimco Realty,Diversified Financials,United States of America,1693,996,11614,8548
+2021,1869,Basler Kantonalbank,Banking,Switzerland,704,115,61582,381
+2021,1870,Banca Popolare di Sondrio,Banking,Italy,1148,122,60942,1619
+2021,1871,SBA Communications,Diversified Financials,United States of America,2076,24,9158,31499
+2021,1872,San-In Godo Bank,Banking,Japan,800,84,60838,765
+2021,1873,Nanto Bank,Banking,Japan,679,52,60826,554
+2021,1874,Scentre Group,Diversified Financials,Australia,1489,-2569,29372,11551
+2021,1875,Xinyu Iron & Steel,Capital Goods,China,9746,379,7483,3119
+2021,1876,Shanghai Fosun Pharmaceutical,Drugs & Biotechnology,China,4377,531,12788,12039
+2021,1877,Hanwa,Trading Companies,Japan,16195,-106,7980,1273
+2021,1878,Albemarle,Chemicals,United States of America,3129,376,10451,17745
+2021,1879,Brown & Brown,Insurance,United States of America,2613,465,9101,14047
+2021,1880,Ruchi Soya Industries,"Food, Drink & Tobacco",India,1850,1079,1040,2625
+2021,1881,Offcn Education Technology,Business Services & Supplies,China,1489,309,2254,23827
+2021,1882,Brilliance China Automotive Holdings,Consumer Durables,Hong Kong,485,1077,7571,4740
+2021,1883,Senshu Ikeda Holdings,Banking,Japan,656,63,58625,448
+2021,1884,Airports of Thailand,Transportation,Thailand,551,-206,6930,29969
+2021,1885,HelloFresh,Retailing,Germany,4275,420,1867,15311
+2021,1886,First Heartland Jusan Bank,Banking,Kazakhstan,533,1063,3837,323
+2021,1887,Liberbank,Banking,Spain,940,47,58131,1027
+2021,1888,Ultrapar Participacoes,Oil & Gas Operations,Brazil,15750,173,7097,4091
+2021,1889,CIT Group,Business Services & Supplies,United States of America,3070,-615,58107,5214
+2021,1890,Dassault Aviation,Aerospace & Defense,France,6260,345,16777,9623
+2021,1891,RingCentral,IT Software & Services,United States of America,1184,-83,2185,29445
+2021,1892,Zheshang Development Group,Construction,China,15687,79,2850,920
+2021,1893,Fluor,Construction,United States of America,15668,-435,7310,3164
+2021,1894,Thor Industries,Consumer Durables,United States of America,9271,390,6370,7762
+2021,1895,Scotts Miracle-Gro,Consumer Durables,United States of America,4514,483,4001,13270
+2021,1896,Tokyo Kiraboshi Financial Group,Banking,Japan,867,68,56928,353
+2021,1897,Ramsay Health Care,Health Care Equipment & Services,Australia,8098,173,13425,11858
+2021,1898,Toll Brothers,Construction,United States of America,7310,486,10864,7546
+2021,1899,Teledyne Technologies,Aerospace & Defense,United States of America,3061,402,5085,15909
+2021,1900,JB Financial Group,Banking,South Korea,1921,292,49135,1118
+2021,1901,Taiheiyo Cement,Construction,Japan,8187,429,10331,3130
+2021,1902,Tenneco,Consumer Durables,United States of America,15379,-1521,11852,939
+2021,1903,Harel Insurance Investments & Financial Services,Insurance,Israel,5437,211,35943,2251
+2021,1904,Aareal Bank,Banking,Germany,1220,-103,55645,1704
+2021,1905,Intco Medical Technology,Health Care Equipment & Services,China,1997,1015,1978,7851
+2021,1906,XPeng,Consumer Durables,China,860,-399,6836,28703
+2021,1907,Teleflex,Conglomerates,United States of America,2537,335,7153,20221
+2021,1908,Amdocs,IT Software & Services,United States of America,4213,676,6867,9957
+2021,1909,Builders FirstSource,Construction,United States of America,8559,314,4174,10282
+2021,1910,Zhangzhou Pientzehuang Pharmaceutical,Drugs & Biotechnology,China,936,238,1562,28580
+2021,1911,Afterpay,IT Software & Services,Australia,444,-46,1657,28515
+2021,1912,Aozora Bank,Banking,Japan,1388,191,54172,2570
+2021,1913,PBF Energy,Oil & Gas Operations,United States of America,15116,-1393,10500,1668
+2021,1914,Vietnam Technological & Commercial Joint Stock Bank,Banking,Vietnam,1664,530,19045,6146
+2021,1915,BeiGene,Drugs & Biotechnology,China,309,-1597,5601,28430
+2021,1916,IDEX,Capital Goods,United States of America,2352,378,4414,16739
+2021,1917,Keiyo Bank,Banking,Japan,585,66,53780,520
+2021,1918,Royal Mail,Transportation,United Kingdom,14456,28,12779,7080
+2021,1919,Sun Pharma Industries,Drugs & Biotechnology,India,4474,325,9172,20849
+2021,1920,Orient,Business Services & Supplies,Japan,2198,169,53467,2346
+2021,1921,Tronox,Chemicals,United States of America,2765,969,6568,3054
+2021,1922,Luzerner Kantonalbank,Banking,Switzerland,682,237,53085,4096
+2021,1923,Zhejiang NHU,Chemicals,China,1476,517,4724,11997
+2021,1924,LIC Housing Finance,Business Services & Supplies,India,2664,372,29669,2663
+2021,1925,Unity Software,IT Software & Services,United States of America,772,-282,2671,27996
+2021,1926,Datadog,IT Software & Services,United States of America,603,-25,1890,27688
+2021,1927,Bank Of Gansu,Banking,China,2254,80,52351,2638
+2021,1928,Zhejiang Chint Electrics,Capital Goods,China,4402,563,9657,11076
+2021,1929,FIBI Holdings,Banking,Israel,1483,104,52257,1194
+2021,1930,Metropolitan Bank & Trust,Banking,Philippines,2895,279,51164,4155
+2021,1931,Wintrust Financial,Banking,United States of America,1930,293,45081,4459
+2021,1932,Cattolica Assicurazioni,Insurance,Italy,5756,41,31801,975
+2021,1933,Bank of Greece,Banking,Greece,1324,943,,366
+2021,1934,Dollarama,Retailing,Canada,3007,422,3644,14307
+2021,1935,Hokkoku Bank,Banking,Japan,688,84,51443,649
+2021,1936,Rexel,Trading Companies,France,14355,-298,12190,6342
+2021,1937,Hyakujushi Bank,Banking,Japan,612,38,51288,427
+2021,1938,Bohai Leasing,Business Services & Supplies,China,5050,-483,40206,2165
+2021,1939,Haseko,Construction,Japan,7386,456,8590,4154
+2021,1940,Turkish Airlines,Transportation,Turkey,6609,-795,25214,1992
+2021,1941,Puma,Consumer Durables,Germany,5967,90,5731,16443
+2021,1942,Youngor Group,Consumer Durables,China,1874,925,11060,5580
+2021,1943,Howmet Aerospace,Aerospace & Defense,United States of America,6834,261,11443,14179
+2021,1944,Kiyo Bank ,Banking,Japan,704,85,50782,949
+2021,1945,Otsuka,IT Software & Services,Japan,7833,368,4589,9235
+2021,1946,Vodafone Idea,Telecommunications Services,India,5949,-6591,28754,3413
+2021,1947,Musashino Bank,Banking,Japan,552,61,50238,533
+2021,1948,Sonova Holding,Health Care Equipment & Services,Switzerland,2666,346,5936,18305
+2021,1949,TransUnion ,Business Services & Supplies,United States of America,2716,343,7312,18429
+2021,1950,Zhejiang Dahua Technology,Technology Hardware & Equipment,China,3811,565,5596,10797
+2021,1951,ALFA,Conglomerates,Mexico,13528,183,12856,2995
+2021,1952,Brambles,Business Services & Supplies,Australia,4893,458,7497,11899
+2021,1953,Banque Centrale Populaire,Banking,Morocco,2737,130,49895,5794
+2021,1954,Nuernberger Beteiligungs,Insurance,Germany,4913,88,41135,1107
+2021,1955,Nexstar Media Group,Media,United States of America,4501,811,13404,6662
+2021,1956,Alfa Laval,Capital Goods,Sweden,4505,423,7411,13992
+2021,1957,Indorama Ventures,Chemicals,Thailand,10593,53,15126,8272
+2021,1958,Central Bank of India,Banking,India,3635,-167,49622,1351
+2021,1959,Petronas Chemicals,Chemicals,Malaysia,3418,388,10253,15372
+2021,1960,Zscaler,Business Services & Supplies,United States of America,536,-191,1969,26167
+2021,1961,Symrise,Chemicals,Germany,4013,350,7377,17675
+2021,1962,Barratt Developments,Construction,United Kingdom,4678,520,9648,11019
+2021,1963,Autohome,IT Software & Services,China,1257,496,3629,11964
+2021,1964,Dangote Cement,Construction,Nigeria,2710,721,5123,9111
+2021,1965,RusHydro,Utilities,Russia,5291,641,12854,4763
+2021,1966,China Petroleum Engineering,Oil & Gas Operations,China,10582,145,14920,2508
+2021,1967,Avenue Supermarts,Retailing,India,3101,129,1684,25436
+2021,1968,Open House,Construction,Japan,5658,605,5569,5841
+2021,1969,West Fraser Timber Co.,Materials,Canada,4361,579,4176,10487
+2021,1970,TCF Financial,Banking,United States of America,2264,223,47802,7345
+2021,1971,ALSO Holding,Trading Companies,Switzerland,13573,149,3532,3955
+2021,1972,Bank of Nagoya,Banking,Japan,596,34,47674,482
+2021,1973,Heimstaden AB Pref. Shs,Construction,Sweden,766,481,19642,648
+2021,1974,Sysmex,Health Care Equipment & Services,Japan,2769,297,3804,21645
+2021,1975,Clal Insurance Enterprises ,Insurance,Israel,5509,-156,32021,1187
+2021,1976,Charles River Labs,Drugs & Biotechnology,United States of America,2924,364,5491,16237
+2021,1977,Far Eastern New Century,Capital Goods,Taiwan,7022,274,21957,6025
+2021,1978,Kingboard Holdings,Chemicals,Hong Kong,5610,606,12026,6655
+2021,1979,CenTra,Transportation,Hong Kong,6376,262,25062,1447
+2021,1980,Shenzhen Investment,Construction,Hong Kong,2437,480,19639,3368
+2021,1981,Tongling Nonferrous Metals,Materials,China,13505,124,7435,4680
+2021,1982,Cathay Pacific Airways,Transportation,Hong Kong,6051,-2791,26384,5924
+2021,1983,Slack Technologies,IT Software & Services,United States of America,903,-300,2434,24563
+2021,1984,Aeroports de Paris,Transportation,France,2436,-1333,22721,12072
+2021,1985,Digital China Group,Telecommunications Services,China,13325,90,4693,1784
+2021,1986,Penn National Gaming,"Hotels, Restaurants & Leisure",United States of America,3579,-670,17126,15648
+2021,1987,EFG International,Banking,Switzerland,1563,123,45972,2523
+2021,1988,SEB SA,Consumer Durables,France,7911,343,11342,9428
+2021,1989,Dixons Carphone,Retailing,United Kingdom,13175,-95,9846,2306
+2021,1990,Guangdong Investment,Conglomerates,Hong Kong,2988,582,11556,10181
+2021,1991,Pinnacle Bank,Banking,United States of America,1257,312,35041,7021
+2021,1992,Nanjing Iron & Steel,Materials,China,7657,412,7325,4043
+2021,1993,Rede D'Oro Luiz,Health Care Equipment & Services,Brazil,2720,83,8790,24189
+2021,1994,Origin Energy,Utilities,Australia,8603,-346,17094,5831
+2021,1995,HubSpot,IT Software & Services,United States of America,883,-85,1973,24149
+2021,1996,JTEKT,Materials,Japan,13050,-35,11996,3467
+2021,1997,Insurance Australia Group,Insurance,Australia,5407,-212,24971,9269
+2021,1998,Sumec Corporation,Conglomerates,China,13013,79,7075,1346
+2021,1999,Gold Fields,Materials,South Africa,3888,718,7473,8864
+2021,2000,Paycom,IT Software & Services,United States of America,841,143,2608,23982

@@ -1,0 +1,1995 @@
+Year,Rank,Company,Industry,Country,Sales,Profits,Assets,Market Value,Region
+2019,1,ICBC,Banking,China,175874,45223,4034482,305057,Asia
+2019,2,JPMorgan Chase,Diversified Financials,United States of America,132912,32738,2737188,368502,NorthAmerica
+2019,3,China Construction Bank,Banking,China,150313,38841,3382422,224988,Asia
+2019,4,Agricultural Bank of China,Banking,China,137456,30894,3293105,197045,Asia
+2019,5,Bank of America,Banking,United States of America,111904,28540,2377164,287339,NorthAmerica
+2019,6,Apple,Technology Hardware & Equipment,United States of America,261705,59431,373719,961257,NorthAmerica
+2019,7,Ping An Insurance Group,Insurance,China,151788,16300,1038300,220197,Asia
+2019,8,Bank of China,Banking,China,126677,27500,3097612,142958,Asia
+2019,9,Royal Dutch Shell,Oil & Gas Operations,Netherlands,382626,23329,399194,264939,Europe
+2019,10,Wells Fargo,Banking,United States of America,101456,23117,1887792,214676,NorthAmerica
+2019,11,ExxonMobil,Oil & Gas Operations,United States of America,279209,20840,346196,343431,NorthAmerica
+2019,12,AT&T,Telecommunications Services,United States of America,170805,19370,531864,233325,NorthAmerica
+2019,13,Samsung Electronics,Technology Hardware & Equipment,South Korea,221506,39882,304138,272424,Asia
+2019,14,Citigroup,Diversified Financials,United States of America,99974,17928,1958413,161112,NorthAmerica
+2019,15,Toyota Motor,Consumer Durables,Japan,272144,17241,465625,176602,Asia
+2019,16,Microsoft,IT Software & Services,United States of America,118224,33541,258859,946521,NorthAmerica
+2019,17,Alphabet,IT Software & Services,United States of America,136958,30736,232792,863178,NorthAmerica
+2019,18,Volkswagen Group,Consumer Durables,Germany,278243,13955,553506,91951,Europe
+2019,19,Chevron,Oil & Gas Operations,United States of America,158741,14824,253863,228323,NorthAmerica
+2019,20,Verizon Communications,Telecommunications Services,United States of America,130863,15528,264829,239705,NorthAmerica
+2019,21,HSBC Holdings,Banking,United Kingdom,64294,13664,2558124,175460,Europe
+2019,22,PetroChina,Oil & Gas Operations,China,322842,7991,354306,198651,Asia
+2019,23,Allianz,Insurance,Germany,118843,8803,1060217,102303,Europe
+2019,24,BP,Oil & Gas Operations,United Kingdom,299065,9332,282176,149548,Europe
+2019,25,Total,Oil & Gas Operations,France,184202,11401,256762,149486,Europe
+2019,26,Berkshire Hathaway,Diversified Financials,United States of America,247837,4021,707794,516407,NorthAmerica
+2019,27,China Mobile,Telecommunications Services,Hong Kong,111804,17906,223708,197572,Asia
+2019,28,Amazon,Retailing,United States of America,232887,10073,162648,916050,NorthAmerica
+2019,29,Walmart,Retailing,United States of America,514405,6670,219295,296094,NorthAmerica
+2019,30,Santander,Banking,Spain,89455,9214,1668166,84077,Europe
+2019,31,China Merchants Bank,Banking,China,54867,12259,982526,130355,Asia
+2019,32,UnitedHealth Group,Insurance,United States of America,231367,12617,161197,212778,NorthAmerica
+2019,33,Comcast,Media,United States of America,94507,11731,251684,192037,NorthAmerica
+2019,34,BNP Paribas,Banking,France,101602,8446,2332982,68712,Europe
+2019,35,Sinopec,Oil & Gas Operations,China,399679,9534,233003,105633,Asia
+2019,36,Softbank,Telecommunications Services,Japan,86162,13863,332311,112400,Asia
+2019,37,Daimler,Consumer Durables,Germany,197445,8552,321933,71342,Europe
+2019,37,Johnson & Johnson,Drugs & Biotechnology,United States of America,81575,14679,152954,366184,NorthAmerica
+2019,39,Bank of Communications,Banking,China,64752,11191,1388230,63612,Asia
+2019,40,Gazprom,Oil & Gas Operations,Russia,128430,18916,305935,59861,Europe
+2019,41,RBC,Banking,Canada,46276,9642,1040286,114929,NorthAmerica
+2019,42,Nestlé,"Food, Drink & Tobacco",Switzerland,93433,10356,138989,281294,Europe
+2019,43,Mitsubishi UFJ Financial,Banking,Japan,53664,9041,2799935,65008,Asia
+2019,44,Intel,Semiconductors,United States of America,70848,21053,127963,263127,NorthAmerica
+2019,45,Goldman Sachs Group,Diversified Financials,United States of America,51009,9878,925000,75520,NorthAmerica
+2019,46,TD Bank Group,Banking,Canada,42544,8683,1007010,103836,NorthAmerica
+2019,47,Sberbank,Banking,Russia,51607,13258,449710,78539,Europe
+2019,48,Morgan Stanley,Diversified Financials,United States of America,50870,8509,875964,80169,NorthAmerica
+2019,49,Boeing,Aerospace & Defense,United States of America,101127,10453,117359,214543,NorthAmerica
+2019,50,Petrobras,Oil & Gas Operations,Brazil,95681,7051,222015,91193,SouthAmerica
+2019,51,Nippon Telegraph & Tel,Telecommunications Services,Japan,107501,8740,199607,80173,Asia
+2019,52,Rosneft,Oil & Gas Operations,Russia,112937,8739,191272,72161,Europe
+2019,53,Procter & Gamble,Consumer Durables,United States of America,66912,10795,123687,265293,NorthAmerica
+2019,54,Pfizer,Drugs & Biotechnology,United States of America,53646,11152,159422,218630,NorthAmerica
+2019,55,Industrial Bank,Banking,China,49736,9274,950968,62369,Asia
+2019,56,General Motors,Consumer Durables,United States of America,147049,8084,227339,56802,NorthAmerica
+2019,57,BMW Group,Consumer Durables,Germany,115002,8396,238895,57486,Europe
+2019,58,Itaú Unibanco Holding,Banking,Brazil,53781,6751,383203,80779,SouthAmerica
+2019,59,Alibaba,Retailing,China,51892,10273,133726,480797,Asia
+2019,60,IBM,IT Software & Services,United States of America,78701,8637,130926,124875,NorthAmerica
+2019,60,Novartis,Drugs & Biotechnology,Switzerland,51902,12633,145646,175649,Europe
+2019,60,Postal Savings Bank Of China (PSBC),Banking,China,61032,8002,1386051,48751,Asia
+2019,63,Facebook,IT Software & Services,United States of America,55838,22112,97334,512005,NorthAmerica
+2019,64,Siemens,Conglomerates,Germany,98316,5465,164165,96998,Europe
+2019,65,Shanghai Pudong Development,Banking,China,50023,8450,916091,52138,Asia
+2019,66,Japan Post Holdings,Insurance,Japan,115601,4324,2619650,44521,Asia
+2019,67,Sumitomo Mitsui Financial,Banking,Japan,52466,6557,1841136,50867,Asia
+2019,68,Banco Bradesco,Banking,Brazil,62628,5220,332140,70702,SouthAmerica
+2019,69,Anheuser-Busch InBev,"Food, Drink & Tobacco",Belgium,54620,4330,233841,175653,Europe
+2019,70,Walt Disney,Media,United States of America,59402,10963,99941,238095,NorthAmerica
+2019,71,Reliance Industries,Oil & Gas Operations,India,79687,5649,124554,126409,Asia
+2019,72,CITIC,Trading Companies,Hong Kong,68042,6410,978461,43607,Asia
+2019,73,Sony,Consumer Durables,Japan,76865,7348,190695,60146,Asia
+2019,74,Cisco Systems,Technology Hardware & Equipment,United States of America,50822,12865,102462,248275,NorthAmerica
+2019,74,Tencent Holdings,IT Software & Services,China,47228,11949,105382,472062,Asia
+2019,76,Honda Motor,Consumer Durables,Japan,142646,6620,180934,50545,Asia
+2019,77,Enel,Utilities,Italy,86280,5650,189104,63137,Europe
+2019,78,United Technologies,Conglomerates,United States of America,66485,5269,134211,118140,NorthAmerica
+2019,79,Commonwealth Bank,Banking,Australia,31396,6736,690223,92822,Oceanic
+2019,80,China State Construction Engineering,Construction,China,178801,5779,271367,41005,Asia
+2019,81,DowDuPont,Chemicals,United States of America,85977,3827,188030,87606,NorthAmerica
+2019,82,Equinor,Oil & Gas Operations,Norway,77862,7619,112508,77551,Europe
+2019,83,American Express,Diversified Financials,United States of America,43282,6867,188602,95340,NorthAmerica
+2019,84,MetLife,Insurance,United States of America,66855,5123,692530,43384,NorthAmerica
+2019,85,AXA Group,Insurance,France,139662,2216,1034487,63602,Europe
+2019,86,PepsiCo,"Food, Drink & Tobacco",United States of America,64983,12585,75466,178157,NorthAmerica
+2019,87,Bank of Nova Scotia,Banking,Canada,32366,6447,787545,67077,NorthAmerica
+2019,88,Roche Holding,Drugs & Biotechnology,Switzerland,58085,10729,79648,222048,Europe
+2019,89,ING Group,Diversified Financials,Netherlands,39362,5548,1014008,52699,Europe
+2019,90,Lloyds Banking Group,Banking,United Kingdom,35242,5300,1015821,60895,Europe
+2019,91,Eni,Oil & Gas Operations,Italy,89437,4986,139529,62483,Europe
+2019,92,Oracle,IT Software & Services,United States of America,39620,10751,109438,186330,NorthAmerica
+2019,93,China Citic Bank,Banking,China,45582,6782,883626,42941,Asia
+2019,94,China Evergrande Group,Construction,China,71698,5797,273829,42495,Asia
+2019,95,UBS,Banking,Switzerland,42904,4840,958489,48964,Europe
+2019,96,AIRBUS,Aerospace & Defense,Netherlands,75158,3603,131689,104873,Europe
+2019,97,LukOil,Oil & Gas Operations,Russia,127914,9856,82632,61103,Europe
+2019,98,Prudential Financial,Diversified Financials,United States of America,61266,4024,815078,42397,NorthAmerica
+2019,99,BASF,Chemicals,Germany,76235,5553,103775,76584,Europe
+2019,100,SAIC Motor,Consumer Durables,China,135217,5442,114012,51474,Asia
+2019,101,Westpac Banking Group,Banking,Australia,29080,6148,636908,66036,Oceanic
+2019,102,British American Tobacco,"Food, Drink & Tobacco",United Kingdom,32658,8043,186381,90924,Europe
+2019,103,US Bancorp,Banking,United States of America,25703,7098,475775,81885,NorthAmerica
+2019,104,Credit Agricole,Banking,France,52245,4668,1856926,38353,Europe
+2019,105,China Life Insurance,Insurance,China,98335,1862,474776,114154,Asia
+2019,106,Unilever,Consumer Durables,Netherlands,60146,11077,67967,153638,Europe
+2019,107,Glencore International,Materials,Switzerland,219782,3343,128672,60455,Europe
+2019,108,Mitsubishi,Trading Companies,Japan,127412,5308,153189,42463,Asia
+2019,109,BHP Group,Materials,Australia,42556,6030,102414,138278,Oceanic
+2019,110,Ford Motor,Consumer Durables,United States of America,160338,3677,256540,38101,NorthAmerica
+2019,111,Rio Tinto,Materials,United Kingdom,40533,13782,90949,99964,Europe
+2019,112,Prudential,Insurance,United Kingdom,33285,4014,633617,60200,Europe
+2019,113,AIA Group,Insurance,Hong Kong,39479,3163,226919,122238,Asia
+2019,114,China Minsheng Bank,Banking,China,46698,7676,873155,33875,Asia
+2019,114,Sanofi,Drugs & Biotechnology,France,40658,5095,127356,102042,Europe
+2019,116,Deutsche Telekom,Telecommunications Services,Germany,89255,2557,176488,79386,Europe
+2019,117,Zurich Insurance Group,Insurance,Switzerland,46938,3717,374145,47686,Europe
+2019,118,Brookfield Asset Management,Diversified Financials,Canada,57574,3598,256281,45982,NorthAmerica
+2019,119,Merck & Co.,Drugs & Biotechnology,United States of America,42264,6220,82637,189055,NorthAmerica
+2019,120,ANZ,Banking,Australia,27544,4863,682036,53963,Oceanic
+2019,121,Caterpillar,Capital Goods,United States of America,54722,6147,78509,82510,NorthAmerica
+2019,122,Saudi Basic Industries,Chemicals,Saudi Arabia,45056,5744,85337,99999,Asia
+2019,123,Hon Hai Precision,Technology Hardware & Equipment,Taiwan,175556,4280,110009,41172,Asia
+2019,124,China Vanke,Construction,China,41058,5005,222640,46533,Asia
+2019,125,Mizuho Financial,Banking,Japan,33069,4625,1837801,39799,Asia
+2019,126,CNOOC,Oil & Gas Operations,Hong Kong,33878,7966,98865,83886,Asia
+2019,126,Home Depot,Retailing,United States of America,108203,11121,44003,226790,NorthAmerica
+2019,126,Taiwan Semiconductor,Semiconductors,Taiwan,34203,11644,68000,222396,Asia
+2019,129,Country Garden Holdings,Construction,China,56734,5191,237367,35243,Asia
+2019,130,Capital One Financial,Business Services & Supplies,United States of America,32658,5975,372538,41225,NorthAmerica
+2019,130,Intesa Sanpaolo,Banking,Italy,28130,4778,900483,45877,Europe
+2019,132,Nissan Motor,Consumer Durables,Japan,108668,4395,172845,33599,Asia
+2019,133,Coca-Cola,"Food, Drink & Tobacco",United States of America,31697,6434,83216,202985,NorthAmerica
+2019,134,Bank of Montreal,Banking,Canada,26233,4593,614176,50371,NorthAmerica
+2019,135,BBVA-Banco Bilbao Vizcaya,Banking,Spain,28305,5535,773557,41641,Europe
+2019,136,Walgreens Boots Alliance,Retailing,United States of America,136097,5134,70434,49948,NorthAmerica
+2019,137,Chubb,Insurance,Switzerland,32635,3962,167771,63539,Europe
+2019,138,NAB - National Australia Bank,Banking,Australia,25341,4221,583766,50665,Oceanic
+2019,139,Vale,Materials,Brazil,36781,7017,88167,68274,SouthAmerica
+2019,140,China Pacific Insurance,Insurance,China,54120,2718,191167,47924,Asia
+2019,141,Anthem,Drugs & Biotechnology,United States of America,92095,3750,71571,61643,NorthAmerica
+2019,141,Telefónica,Telecommunications Services,Spain,57749,3720,130373,43277,Europe
+2019,143,Christian Dior,Consumer Durables,France,55243,3037,88332,89566,Europe
+2019,144,Generali Group,Insurance,Italy,92107,2724,588527,30075,Europe
+2019,145,Iberdrola,Utilities,Spain,41381,3556,129219,55653,Europe
+2019,146,PNC Financial Services,Banking,United States of America,20171,5317,392837,60202,NorthAmerica
+2019,147,GlaxoSmithKline,Drugs & Biotechnology,United Kingdom,41097,4831,73953,97632,Europe
+2019,147,Munich Re,Insurance,Germany,62872,2725,311574,36310,Europe
+2019,149,Cigna,Drugs & Biotechnology,United States of America,48610,2637,154640,56571,NorthAmerica
+2019,150,Medtronic,Health Care Equipment & Services,Ireland,30555,4919,88730,112952,Europe
+2019,151,China Everbright Bank,Banking,China,33114,5115,634652,31826,Asia
+2019,152,China Shenhua Energy,Materials,China,38403,6658,85594,57349,Asia
+2019,153,Honeywell International,Conglomerates,United States of America,40294,6742,58560,123138,NorthAmerica
+2019,154,Banco do Brasil,Banking,Brazil,42029,3781,368373,34467,SouthAmerica
+2019,155,PICC,Insurance,China,73856,2033,146366,54008,Asia
+2019,156,UniCredit,Banking,Italy,31080,4482,950493,32042,Europe
+2019,157,CK Hutchison,Conglomerates,Hong Kong,35359,4976,157388,40700,Asia
+2019,157,Société Générale,Banking,France,49456,4014,1496873,24476,Europe
+2019,159,ConocoPhillips,Oil & Gas Operations,United States of America,36372,6257,69980,74582,NorthAmerica
+2019,159,United Parcel Service,Transportation,United States of America,71911,4791,50016,98268,NorthAmerica
+2019,159,VINCI,Construction,France,52088,3519,86144,55821,Europe
+2019,162,Visa,Business Services & Supplies,United States of America,21253,10378,71655,351882,NorthAmerica
+2019,163,Tokio Marine Holdings,Insurance,Japan,47650,3137,212136,35777,Asia
+2019,164,Bayer,Drugs & Biotechnology,Germany,46702,2000,150254,64127,Europe
+2019,165,PTT,Oil & Gas Operations,Thailand,72266,3667,74831,43750,Asia
+2019,166,Manulife,Insurance,Canada,28403,3703,517805,36187,NorthAmerica
+2019,167,AbbVie,Drugs & Biotechnology,United States of America,32753,5657,59352,114662,NorthAmerica
+2019,168,China Telecom,Telecommunications Services,China,57139,3244,96623,42503,Asia
+2019,169,Phillips 66,Oil & Gas Operations,United States of America,111269,5589,54302,43354,NorthAmerica
+2019,170,KDDI,Telecommunications Services,Japan,45757,5322,65232,52502,Asia
+2019,171,Fiat Chrysler Automobiles,Consumer Durables,United Kingdom,133416,4257,110740,25552,Europe
+2019,171,Marathon Petroleum,Oil & Gas Operations,United States of America,96136,2779,92940,40231,NorthAmerica
+2019,173,Costco Wholesale,Retailing,United States of America,147237,3449,42799,108127,NorthAmerica
+2019,174,Enbridge,Oil & Gas Operations,Canada,36123,2224,122203,75318,NorthAmerica
+2019,175,Amgen,Drugs & Biotechnology,United States of America,23768,8394,66416,109313,NorthAmerica
+2019,176,SAP,IT Software & Services,Germany,29149,4823,58862,134852,Europe
+2019,177,Bank of New York Mellon,Banking,United States of America,19538,4022,346132,46353,NorthAmerica
+2019,178,Broadcom,Semiconductors,United States of America,21310,6500,72110,126125,NorthAmerica
+2019,179,SK Hynix,Semiconductors,South Korea,36751,14121,57052,47645,Asia
+2019,180,China Communications Construction,Construction,China,73564,2958,139895,28896,Asia
+2019,181,Lockheed Martin,Aerospace & Defense,United States of America,53762,5046,44876,88875,NorthAmerica
+2019,182,Itochu,Trading Companies,Japan,91605,3991,98739,27460,Asia
+2019,183,Duke Energy,Utilities,United States of America,24521,2666,150567,64862,NorthAmerica
+2019,184,FedEx,Transportation,United States of America,69200,3630,54464,51633,NorthAmerica
+2019,185,Royal Bank of Scotland,Banking,United Kingdom,22209,2789,884178,41272,Europe
+2019,186,Orange,Telecommunications Services,France,48819,2305,112292,43622,Europe
+2019,187,Barclays,Banking,United Kingdom,28183,2129,1443349,37984,Europe
+2019,188,Union Pacific,Transportation,United States of America,22832,5966,59648,125620,NorthAmerica
+2019,189,América Móvil,Telecommunications Services,Mexico,53065,2522,72572,52350,NorthAmerica
+2019,190,Canadian Imperial Bank,Banking,Canada,20151,3929,468017,36839,NorthAmerica
+2019,191,Credit Suisse Group,Banking,Switzerland,34051,2102,779992,34414,Europe
+2019,193,NextEra Energy,Utilities,United States of America,16317,6652,103702,90683,NorthAmerica
+2019,194,Deere & Company,Capital Goods,United States of America,38439,3401,69918,53841,NorthAmerica
+2019,195,ArcelorMittal,Materials,Luxembourg,75963,5137,91249,23977,Europe
+2019,196,Mitsui,Trading Companies,Japan,56609,3547,107797,27651,Asia
+2019,197,Abbott Laboratories,Health Care Equipment & Services,United States of America,30723,2609,67173,129838,NorthAmerica
+2019,198,China Railway Group,Construction,China,110536,2613,137302,24320,Asia
+2019,199,Gilead Sciences,Drugs & Biotechnology,United States of America,22214,5455,63675,80255,NorthAmerica
+2019,200,China Railway Construction,Construction,China,109102,2703,133660,22805,Asia
+2019,201,L'Oréal,Consumer Durables,France,31779,4596,43963,153010,Europe
+2019,202,Exelon,Utilities,United States of America,36444,2009,119666,47670,NorthAmerica
+2019,203,Delta Air Lines,Transportation,United States of America,44940,4086,61841,38101,NorthAmerica
+2019,204,Renault,Consumer Durables,France,67740,3896,131458,20873,Europe
+2019,205,Charter Communications,Media,United States of America,43634,1230,149072,80848,NorthAmerica
+2019,206,Micron Technology,Semiconductors,United States of America,29985,13060,47487,48030,NorthAmerica
+2019,207,Qatar National Bank,Banking,Qatar,16092,3825,242264,46420,Asia
+2019,208,Deutsche Post,Transportation,Germany,72614,2448,59958,43104,Europe
+2019,209,HDFC Bank,Banking,India,15745,2871,169151,89939,Asia
+2019,210,Altria Group,"Food, Drink & Tobacco",United States of America,19627,6955,55638,101809,NorthAmerica
+2019,211,Valero Energy,Oil & Gas Operations,United States of America,117033,3122,50699,36767,NorthAmerica
+2019,212,Philip Morris International,"Food, Drink & Tobacco",United States of America,29453,7692,38042,131450,NorthAmerica
+2019,213,DBS,Banking,Singapore,13638,4133,404192,51561,Asia
+2019,214,BlackRock,Diversified Financials,United States of America,14089,4269,159573,72333,NorthAmerica
+2019,215,Southern Company,Utilities,United States of America,23615,2242,116914,54082,NorthAmerica
+2019,216,3M,Conglomerates,United States of America,32765,5349,36500,126052,NorthAmerica
+2019,217,Schlumberger,Oil & Gas Operations,United States of America,32816,2137,70507,63145,NorthAmerica
+2019,218,Peugeot,Consumer Durables,France,87333,3335,70820,24945,Europe
+2019,219,Linde,Chemicals,United Kingdom,14900,4381,93386,98302,Europe
+2019,220,Oil & Natural Gas,Oil & Gas Operations,India,49917,3429,70565,29647,Asia
+2019,221,Dai-ichi Life Insurance,Insurance,Japan,59070,2857,509385,16918,Asia
+2019,222,Thermo Fisher Scientific,Health Care Equipment & Services,United States of America,24358,2938,56232,103903,NorthAmerica
+2019,223,Aflac,Insurance,United States of America,22185,2919,145597,36634,NorthAmerica
+2019,223,Allstate,Insurance,United States of America,39124,2252,113399,32206,NorthAmerica
+2019,225,Hyundai Motor,Consumer Durables,South Korea,87970,1370,161907,31241,Asia
+2019,226,Travelers,Insurance,United States of America,30283,2504,105146,36386,NorthAmerica
+2019,227,ENGIE,Oil & Gas Operations,France,71488,1219,175704,36155,Europe
+2019,228,Mondelez International,"Food, Drink & Tobacco",United States of America,25938,2500,62729,72418,NorthAmerica
+2019,229,Suncor Energy,Oil & Gas Operations,Canada,29736,2541,65587,52557,NorthAmerica
+2019,230,Hitachi,Conglomerates,Japan,85814,1693,88352,31760,Asia
+2019,231,Nordea Bank,Banking,Finland,14957,3622,630565,33899,Europe
+2019,232,Aviva,Insurance,United Kingdom,37911,2043,533286,21967,Europe
+2019,233,Target,Retailing,United States of America,75355,2938,41290,42990,NorthAmerica
+2019,234,Lowe's,Retailing,United States of America,71310,2307,34641,90528,NorthAmerica
+2019,235,General Dynamics,Aerospace & Defense,United States of America,36193,3345,45408,51069,NorthAmerica
+2019,236,Repsol,Oil & Gas Operations,Spain,58838,2745,69478,25996,Europe
+2019,237,AstraZeneca,Drugs & Biotechnology,United Kingdom,23905,2182,60651,99235,Europe
+2019,238,Eli Lilly,Drugs & Biotechnology,United States of America,24556,3232,43908,119327,NorthAmerica
+2019,239,Continental,Consumer Durables,Germany,52386,3418,47423,34991,Europe
+2019,240,Charles Schwab,Diversified Financials,United States of America,11473,3688,282800,60774,NorthAmerica
+2019,241,National Grid,Utilities,United Kingdom,20045,4442,79241,36321,Europe
+2019,242,Progressive,Insurance,United States of America,33916,2976,48850,43800,NorthAmerica
+2019,243,Tesco,Food Markets,United Kingdom,84268,1743,65237,31865,Europe
+2019,244,Danone,"Food, Drink & Tobacco",France,29082,2755,50501,51234,Europe
+2019,245,Poly Developments & Holdings Group,Construction,China,26966,2857,123293,24837,Asia
+2019,246,Volvo Group,Consumer Durables,Sweden,44920,2861,53538,32779,Europe
+2019,247,HCA Healthcare,Health Care Equipment & Services,United States of America,46677,3787,39207,39586,NorthAmerica
+2019,248,Accenture,IT Software & Services,Ireland,42541,4472,27390,113923,Europe
+2019,249,Central Japan Railway,Transportation,Japan,16799,3906,83319,41815,Asia
+2019,250,East Japan Railway,Transportation,Japan,27130,2652,74041,34732,Asia
+2019,251,China Unicom,Telecommunications Services,Hong Kong,44074,1553,79651,37793,Asia
+2019,252,Schneider Electric,Capital Goods,France,30343,2754,48308,47553,Europe
+2019,253,Midea Group,Consumer Durables,China,39753,3086,37301,52204,Asia
+2019,254,KBC Group,Banking,Belgium,14965,2942,324435,31346,Europe
+2019,255,McDonald's,"Hotels, Restaurants & Leisure",United States of America,21025,5924,32811,148813,NorthAmerica
+2019,256,Denso,Consumer Durables,Japan,48794,2366,51455,34930,Asia
+2019,257,JXTG Holdings,Oil & Gas Operations,Japan,101754,3358,80926,16608,Asia
+2019,258,Fresenius,Health Care Equipment & Services,Germany,39557,2391,64820,30561,Europe
+2019,259,Truist Financial,Banking,United States of America,13237,3241,227683,37695,NorthAmerica
+2019,260,Gree Electric Appliances,Consumer Durables,China,28493,4290,35974,53383,Asia
+2019,261,Anglo American,Materials,United Kingdom,27610,3577,52196,35852,Europe
+2019,262,Møller-Maersk,Transportation,Denmark,39049,3064,56636,28118,Europe
+2019,263,E.ON,Utilities,Germany,35057,3802,64604,23952,Europe
+2019,263,MS&AD Insurance,Insurance,Japan,46230,2096,206562,18020,Asia
+2019,265,Huaxia Bank,Banking,China,19993,3074,379762,20080,Asia
+2019,266,Bristol-Myers Squibb,Drugs & Biotechnology,United States of America,22561,4952,34986,74378,NorthAmerica
+2019,267,China Resources Land,Construction,Hong Kong,18444,3632,95510,29861,Asia
+2019,268,Air Liquide,Chemicals,France,24788,2493,47990,56934,Europe
+2019,269,EDF,Utilities,France,81374,700,323705,43371,Europe
+2019,270,Baoshan Iron & Steel,Materials,China,39950,3555,50849,25648,Asia
+2019,271,Danaher,Conglomerates,United States of America,20078,2418,47833,90729,NorthAmerica
+2019,271,Legal & General Group,Insurance,United Kingdom,17482,2436,621237,22582,Europe
+2019,273,EXOR,Diversified Financials,Netherlands,169051,1589,190077,15884,Europe
+2019,273,Sun Life Financial,Diversified Financials,Canada,23440,2018,195992,24453,NorthAmerica
+2019,275,BT Group,Telecommunications Services,United Kingdom,31467,2693,59982,29633,Europe
+2019,276,KB Financial Group,Banking,South Korea,27421,2782,431212,15916,Asia
+2019,277,Northrop Grumman,Aerospace & Defense,United States of America,30095,3229,37653,47786,NorthAmerica
+2019,278,Seven & I Holdings,Food Markets,Japan,61470,1837,52060,30336,Asia
+2019,279,HP,Technology Hardware & Equipment,United States of America,58661,4192,32490,31467,NorthAmerica
+2019,280,Nike,Consumer Durables,United States of America,38703,4177,22921,224313,NorthAmerica
+2019,281,Shinhan Financial Group,Diversified Financials,South Korea,20111,2832,411902,18685,Asia
+2019,282,ABB,Conglomerates,Switzerland,34293,2169,44441,44509,Europe
+2019,283,Diageo,"Food, Drink & Tobacco",United Kingdom,16722,3920,40875,98004,Europe
+2019,284,Bank of Beijing,Banking,China,17103,3034,368092,20213,Asia
+2019,285,CNP Assurances,Insurance,France,47607,1554,450365,16460,Europe
+2019,286,Japan Tobacco,"Food, Drink & Tobacco",Japan,20064,3492,49778,41213,Asia
+2019,286,Oversea-Chinese Banking,Banking,Singapore,11018,3329,343128,36893,Asia
+2019,288,Indian Oil,Oil & Gas Operations,India,64300,3442,45377,21869,Asia
+2019,289,Inditex,Retailing,Spain,30670,4040,24881,98025,Europe
+2019,290,Dominion Energy,Utilities,United States of America,13455,2447,77914,59891,NorthAmerica
+2019,291,Sumitomo,Trading Companies,Japan,46918,2693,72668,17887,Asia
+2019,292,Occidental Petroleum,Oil & Gas Operations,United States of America,17635,4114,43854,46234,NorthAmerica
+2019,293,Reckitt Benckiser Group,Consumer Durables,United Kingdom,16797,2881,47951,53506,Europe
+2019,294,CRRC,Capital Goods,China,32551,1694,52093,37773,Asia
+2019,295,Cathay Financial,Insurance,Taiwan,28859,1707,299904,18006,Asia
+2019,296,Kroger,Food Markets,United States of America,121162,3076,38701,20581,NorthAmerica
+2019,297,Baidu,IT Software & Services,China,15435,4160,43341,59748,Asia
+2019,298,Panasonic,Consumer Durables,Japan,73821,1898,57074,21273,Asia
+2019,299,Johnson Controls International,Business Services & Supplies,Ireland,29429,2287,48016,33542,Europe
+2019,300,Ecopetrol,Oil & Gas Operations,Colombia,21866,3909,38873,39455,SouthAmerica
+2019,301,Canon,Business Services & Supplies,Japan,35783,2289,44656,30901,Asia
+2019,302,Royal Ahold Delhaize N.V.,Food Markets,Netherlands,74078,2115,38102,28001,Europe
+2019,303,Jardine Matheson,Conglomerates,Bermuda,42527,1732,86258,20223,NorthAmerica
+2019,304,Raytheon Technologies,Aerospace & Defense,United States of America,27058,2909,31864,51138,NorthAmerica
+2019,305,Sunac China Holdings,Construction,China,18931,2486,104383,23560,Asia
+2019,306,United Airlines Holdings,Transportation,United States of America,41860,2274,50639,23330,NorthAmerica
+2019,307,United Overseas Bank,Banking,Singapore,10651,2970,284734,32923,Asia
+2019,308,Nippon Steel,Materials,Japan,54537,2451,70275,16155,Asia
+2019,309,LyondellBasell Industries,Chemicals,United Kingdom,39001,4684,28278,33992,Europe
+2019,310,Qualcomm,Semiconductors,United States of America,21505,2157,34246,96692,NorthAmerica
+2019,311,Safran,Aerospace & Defense,France,24804,1514,46435,56724,Europe
+2019,312,Carnival,"Hotels, Restaurants & Leisure",United States of America,19322,3098,43930,38899,NorthAmerica
+2019,313,SK Holdings,Oil & Gas Operations,South Korea,92231,2047,107059,13134,Asia
+2019,314,State Street,Diversified Financials,United States of America,12488,2598,244626,26491,NorthAmerica
+2019,315,Orix,Business Services & Supplies,Japan,22251,2653,110484,18307,Asia
+2019,316,Celgene,Drugs & Biotechnology,United States of America,15290,4046,35480,65862,NorthAmerica
+2019,317,American Electric,Utilities,United States of America,16167,1924,71554,40948,NorthAmerica
+2019,318,PayPal,Business Services & Supplies,United States of America,15481,2057,43332,125846,NorthAmerica
+2019,319,EOG Resources,Oil & Gas Operations,United States of America,17266,3419,33934,60251,NorthAmerica
+2019,320,Greenland Holdings Group,Construction,China,50907,1738,138285,14119,Asia
+2019,321,LafargeHolcim,Construction,Switzerland,28065,1535,60555,31257,Europe
+2019,322,Henkel,Consumer Durables,Germany,23476,2726,34253,43057,Europe
+2019,323,Posco,Materials,South Korea,59043,1520,70127,18998,Asia
+2019,324,Natixis,Diversified Financials,France,17476,1746,566426,18583,Europe
+2019,325,Mitsubishi Electric,Capital Goods,Japan,41472,2151,37762,29093,Asia
+2019,326,Bridgestone,Consumer Durables,Japan,33050,2641,35216,29808,Asia
+2019,327,Archer Daniels Midland,"Food, Drink & Tobacco",United States of America,64300,1810,40833,23949,NorthAmerica
+2019,328,Sun Hung Kai Properties,Construction,Hong Kong,8762,4770,92714,49302,Asia
+2019,329,Toshiba,Consumer Durables,Japan,34356,7765,39381,17326,Asia
+2019,330,Surgutneftegas,Oil & Gas Operations,Russia,22635,8385,74135,14004,Europe
+2019,331,Poste Italiane,Insurance,Italy,35059,1650,238785,13980,Europe
+2019,332,HDFC,Business Services & Supplies,India,10725,2519,86275,49745,Asia
+2019,333,First Abu Dhabi Bank,Banking,United Arab Emirates,8127,3135,202585,47831,Asia
+2019,334,Mastercard,Business Services & Supplies,United States of America,14950,5859,24860,247132,NorthAmerica
+2019,335,Kinder Morgan,Oil & Gas Operations,United States of America,14244,1632,76292,43891,NorthAmerica
+2019,336,New China Life Insurance,Insurance,China,23382,1222,106542,25642,Asia
+2019,337,DNB,Banking,Norway,9185,2865,304291,31588,Europe
+2019,338,SunTrust Banks,Banking,United States of America,10397,2775,215543,28142,NorthAmerica
+2019,339,Danske Bank,Banking,Denmark,15446,2201,548176,16592,Europe
+2019,339,Discover Financial Services,Business Services & Supplies,United States of America,12847,2720,109957,25169,NorthAmerica
+2019,341,BCE,Telecommunications Services,Canada,18106,2260,41807,40860,NorthAmerica
+2019,342,Canadian Natural Resources,Oil & Gas Operations,Canada,16223,1999,53932,37635,NorthAmerica
+2019,343,CaixaBank,Banking,Spain,12392,2342,441967,19870,Europe
+2019,344,CSX,Transportation,United States of America,12387,3448,38154,63900,NorthAmerica
+2019,345,Longfor Group Holdings,Construction,China,17281,2428,73828,21310,Asia
+2019,346,TC Energy,Oil & Gas Operations,Canada,10257,2856,72426,43249,NorthAmerica
+2019,347,Bank Of Shanghai,Banking,China,11813,2268,284616,20683,Asia
+2019,348,Macquarie Group,Diversified Financials,Australia,11260,1907,148760,30808,Oceanic
+2019,349,Fubon Financial,Insurance,Taiwan,21917,1583,250561,14933,Asia
+2019,350,Marubeni,Trading Companies,Japan,67841,2373,63757,12290,Asia
+2019,351,Starbucks,"Hotels, Restaurants & Leisure",United States of America,25277,3029,19981,94588,NorthAmerica
+2019,352,Fannie Mae,Business Services & Supplies,United States of America,119106,15959,3418318,3127,NorthAmerica
+2019,353,Samsung Life Insurance,Insurance,South Korea,26868,1512,259313,13425,Asia
+2019,354,Tyson Foods,"Food, Drink & Tobacco",United States of America,40006,1944,32335,26329,NorthAmerica
+2019,355,Becton Dickinson,Health Care Equipment & Services,United States of America,17062,1046,52932,61317,NorthAmerica
+2019,356,Automatic Data Processing,Business Services & Supplies,United States of America,13841,1815,38806,70764,NorthAmerica
+2019,357,Humana,Drugs & Biotechnology,United States of America,56912,1683,25658,32647,NorthAmerica
+2019,357,Standard Chartered,Banking,United Kingdom,23975,635,688762,28939,Europe
+2019,359,Imperial Brands,"Food, Drink & Tobacco",United Kingdom,20698,1839,40227,31005,Europe
+2019,360,Richemont,Consumer Durables,Switzerland,14486,2969,33433,42378,Europe
+2019,361,Eaton,Capital Goods,Ireland,21609,2145,31092,36148,Europe
+2019,362,Kering,Consumer Durables,France,16122,2991,24426,72468,Europe
+2019,363,Bank Rakyat Indonesia (BRI),Banking,Indonesia,9370,2272,90188,38823,Asia
+2019,364,Couche Tard,Food Markets,Canada,59671,1954,22247,33683,NorthAmerica
+2019,364,Saudi Telecom,Telecommunications Services,Saudi Arabia,13882,2877,29903,59733,Asia
+2019,366,Stryker,Health Care Equipment & Services,United States of America,13601,3553,27229,67256,NorthAmerica
+2019,367,Freddie Mac,Business Services & Supplies,United States of America,70671,9235,2063060,1671,NorthAmerica
+2019,368,Daiwa House Industry,Construction,Japan,36686,2221,38978,17769,Asia
+2019,368,Heineken,"Food, Drink & Tobacco",Netherlands,26510,1134,49844,28319,Europe
+2019,370,Booking Holdings,Business Services & Supplies,United States of America,14527,3998,22687,83018,NorthAmerica
+2019,370,NN Group,Insurance,Netherlands,22433,1285,255192,14160,Europe
+2019,372,Ameriprise Financial,Diversified Financials,United States of America,12592,2098,137216,19399,NorthAmerica
+2019,373,American Airlines Group,Transportation,United States of America,44541,1412,60580,15434,NorthAmerica
+2019,374,Tata Consultancy Services,IT Software & Services,India,20940,4500,16592,116097,Asia
+2019,375,Mitsui Fudosan,Construction,Japan,17145,1685,60360,22685,Asia
+2019,376,Novo Nordisk,Drugs & Biotechnology,Denmark,17701,6114,16968,116330,Europe
+2019,377,Takeda Pharmaceutical,Drugs & Biotechnology,Japan,16126,1000,52565,56557,Asia
+2019,378,Maybank,Banking,Malaysia,9973,2011,195279,24007,Asia
+2019,379,China Merchants Shekou Industrial Zone Holdings,Construction,China,12083,2277,61643,26819,Asia
+2019,380,Norfolk Southern,Transportation,United States of America,11458,2660,36614,52979,NorthAmerica
+2019,381,Power Construction Corporation of China,Construction,China,41824,1182,98519,13782,Asia
+2019,382,Michelin Group,Consumer Durables,France,25988,1964,33663,23750,Europe
+2019,383,EssilorLuxottica,Health Care Equipment & Services,France,12740,1282,52892,52859,Europe
+2019,384,Etisalat,Telecommunications Services,United Arab Emirates,14263,2391,34097,39350,Asia
+2019,385,CRH,Construction,Ireland,31619,1131,40208,28250,Europe
+2019,386,Lincoln National,Insurance,United States of America,16197,1641,299336,13536,NorthAmerica
+2019,386,Transneft,Oil & Gas Operations,Russia,15599,3571,45980,19267,Europe
+2019,388,Canadian National Railway,Transportation,Canada,11049,3339,30518,67891,NorthAmerica
+2019,389,General Electric,Conglomerates,United States of America,121615,-22367,317688,81435,NorthAmerica
+2019,390,Hyundai Mobis,Capital Goods,South Korea,31939,1716,38601,19407,Asia
+2019,391,Erste Group Bank,Banking,Austria,11479,2025,271516,17022,Europe
+2019,392,Swiss Life Holding,Insurance,Switzerland,19676,1099,216273,15856,Europe
+2019,393,ASML Holding,Semiconductors,Netherlands,12911,2979,24779,85551,Europe
+2019,394,Komatsu,Capital Goods,Japan,24573,2042,31986,23746,Asia
+2019,394,Suzuki Motor,Consumer Durables,Japan,35051,2102,29363,21321,Asia
+2019,394,TJX Cos,Retailing,United States of America,38973,3060,14326,68213,NorthAmerica
+2019,397,Power Corp of Canada,Diversified Financials,Canada,39951,1033,326678,11364,NorthAmerica
+2019,398,Southwest Airlines,Transportation,United States of America,21965,2465,27303,28524,NorthAmerica
+2019,398,Telstra,Telecommunications Services,Australia,18665,2309,30781,28972,Oceanic
+2019,400,ICICI Bank,Banking,India,18743,617,168660,37641,Asia
+2019,401,Freeport-McMoRan,Materials,United States of America,18967,2262,42216,20287,NorthAmerica
+2019,402,Texas Instruments,Semiconductors,United States of America,15784,5537,17137,108420,NorthAmerica
+2019,403,Sompo,Insurance,Japan,31462,1096,109100,14210,Asia
+2019,404,Principal Financial Group,Diversified Financials,United States of America,14254,1547,243036,15360,NorthAmerica
+2019,405,OMV Group,Oil & Gas Operations,Austria,27052,1698,44111,18173,Europe
+2019,406,Shin-Etsu Chemical,Chemicals,Japan,14371,3034,27798,40058,Asia
+2019,407,Anhui Conch Cement,Construction,China,18985,4489,21782,33605,Asia
+2019,408,Hartford Financial Services,Insurance,United States of America,18751,1605,62556,18376,NorthAmerica
+2019,409,SingTel,Telecommunications Services,Singapore,12863,2299,35745,37833,Asia
+2019,410,CVS Health,Retailing,United States of America,194094,-598,198210,68335,NorthAmerica
+2019,411,Marriott International,"Hotels, Restaurants & Leisure",United States of America,20758,1907,23696,45255,NorthAmerica
+2019,412,AmerisourceBergen,Drugs & Biotechnology,United States of America,172866,1190,39268,15293,NorthAmerica
+2019,413,Deutsche Lufthansa,Transportation,Germany,42287,2552,44359,12070,Europe
+2019,414,Tokyo Electric Power,Utilities,Japan,56117,1747,113891,8922,Asia
+2019,415,Standard Bank Group,Banking,South Africa,9005,2127,147860,22891,Africa
+2019,416,Fosun International,Insurance,China,16428,2031,93054,13897,Asia
+2019,416,SEB AB,Banking,Sweden,8024,2659,289596,21228,Europe
+2019,418,Naspers,Media,South Africa,6891,13534,35764,111321,Africa
+2019,419,Kweichow Moutai,"Food, Drink & Tobacco",China,9961,5320,23282,177142,Asia
+2019,420,National Commercial Bank,Banking,Saudi Arabia,6255,2844,120862,47272,Asia
+2019,421,Bank Of Jiangsu,Banking,China,13692,1980,281856,12776,Asia
+2019,422,Biogen,Drugs & Biotechnology,United States of America,12053,4431,25289,44533,NorthAmerica
+2019,423,Suning.com,Retailing,China,36884,2014,29053,19190,Asia
+2019,424,Bouygues,Construction,France,41946,1547,43090,14607,Europe
+2019,425,Wilmar International,"Food, Drink & Tobacco",Singapore,44674,1129,45680,16985,Asia
+2019,426,Xiaomi,Technology Hardware & Equipment,China,26400,2060,21180,35749,Asia
+2019,427,Magna International,Consumer Durables,Canada,40799,2291,25945,18342,NorthAmerica
+2019,428,International Airlines,Transportation,United Kingdom,28801,3404,32047,14377,Europe
+2019,429,Femsa,"Food, Drink & Tobacco",Mexico,25134,1252,29267,34547,NorthAmerica
+2019,430,Adidas,Consumer Durables,Germany,25854,2008,17847,51987,Europe
+2019,431,Netflix,Media,United States of America,15794,1211,25974,157329,NorthAmerica
+2019,432,Philips,Health Care Equipment & Services,Netherlands,21379,1287,29744,36314,Europe
+2019,432,Sumitomo Mitsui Trust,Banking,Japan,12973,1499,520158,13495,Asia
+2019,434,China Yangtze Power,Utilities,China,7745,3429,43669,54729,Asia
+2019,435,Applied Materials,Semiconductors,United States of America,16802,3949,18922,41726,NorthAmerica
+2019,435,Paccar,Capital Goods,United States of America,23501,2195,25482,24775,NorthAmerica
+2019,437,Sysco,Food Markets,United States of America,59646,1477,18194,36451,NorthAmerica
+2019,438,Larsen & Toubro,Construction,India,19981,1264,36112,27526,Asia
+2019,439,Emerson Electric,Capital Goods,United States of America,17739,2276,20429,44566,NorthAmerica
+2019,440,Samsung C&T,Trading Companies,South Korea,28310,1681,38006,16102,Asia
+2019,441,International Paper,Materials,United States of America,23306,2012,33576,17838,NorthAmerica
+2019,442,Halliburton,Oil & Gas Operations,United States of America,23995,1656,25982,27169,NorthAmerica
+2019,443,China Cinda Asset Management,Diversified Financials,China,16192,1851,217860,10654,Asia
+2019,443,Daikin Industries,Capital Goods,Japan,22123,1675,23416,34573,Asia
+2019,445,FirstRand,Diversified Financials,South Africa,7591,2254,110497,27233,Africa
+2019,446,Salesforce.com,IT Software & Services,United States of America,13282,1110,30737,120857,NorthAmerica
+2019,447,KIA Motors,Consumer Durables,South Korea,49222,1050,46412,15004,Asia
+2019,448,CK Asset Holdings,Construction,Hong Kong,6961,5119,60790,31095,Asia
+2019,448,Consolidated Edison,Utilities,United States of America,12332,1382,53920,27336,NorthAmerica
+2019,450,Svenska Handelsbanken,Banking,Sweden,7415,2021,341788,21756,Europe
+2019,450,Swire Pacific,Conglomerates,Hong Kong,10795,3015,55740,18891,Asia
+2019,452,General Mills,"Food, Drink & Tobacco",United States of America,16594,1537,30286,30969,NorthAmerica
+2019,453,CTBC Financial,Banking,Taiwan,16694,1195,187177,12771,Asia
+2019,454,SK Innovation,Oil & Gas Operations,South Korea,49532,1501,32340,14780,Asia
+2019,455,Pernod Ricard,"Food, Drink & Tobacco",France,10724,1713,35185,45945,Europe
+2019,456,Citic Securities,Diversified Financials,China,7725,1431,95130,40829,Asia
+2019,457,New World Development,Construction,Hong Kong,10542,2980,61470,17302,Asia
+2019,458,Waste Management,Business Services & Supplies,United States of America,14914,1925,22965,44923,NorthAmerica
+2019,459,Sempra Energy,Oil & Gas Operations,United States of America,11661,1050,60638,34930,NorthAmerica
+2019,460,Aegon,Insurance,Netherlands,30872,838,425396,10748,Europe
+2019,460,State Bank of India,Banking,India,47523,-948,536689,40012,Asia
+2019,462,American International Group,Insurance,United States of America,47208,-6,491984,40043,NorthAmerica
+2019,463,Toyota Industries,Consumer Durables,Japan,19640,1344,46435,17205,Asia
+2019,464,Vodafone,Telecommunications Services,United Kingdom,53869,-3846,155246,49557,Europe
+2019,465,Sampo,Insurance,Finland,9493,1990,56094,25757,Europe
+2019,466,Subaru,Consumer Durables,Japan,29137,1682,26159,19579,Asia
+2019,467,IntercontinentalExchange,Diversified Financials,United States of America,6276,1988,92791,45179,NorthAmerica
+2019,468,LG Chem,Chemicals,South Korea,25609,1338,25940,24864,Asia
+2019,469,Fifth Third Bank,Banking,United States of America,7428,2171,146069,21206,NorthAmerica
+2019,470,Dell Technologies,Technology Hardware & Equipment,United States of America,90396,-2310,111820,45183,NorthAmerica
+2019,471,SK Telecom,Telecommunications Services,South Korea,15333,2828,37972,15455,Asia
+2019,471,VTB Bank,Banking,Russia,23649,2762,212773,7296,Europe
+2019,473,Banorte,Banking,Mexico,10422,1661,82690,18849,NorthAmerica
+2019,474,Swiss Re,Insurance,Switzerland,37294,402,200512,30447,Europe
+2019,475,Mitsubishi Chemical,Chemicals,Japan,35258,1891,51168,10079,Asia
+2019,476,Centene,Drugs & Biotechnology,United States of America,60116,900,30901,19916,NorthAmerica
+2019,477,BAE Systems,Aerospace & Defense,United Kingdom,22429,1333,32028,20442,Europe
+2019,478,Hana Financial Group,Banking,South Korea,13115,2003,345052,10034,Asia
+2019,479,Fast Retailing,Retailing,Japan,20013,1491,18103,57709,Asia
+2019,480,CNH Industrial,Capital Goods,United Kingdom,29713,1068,46100,15204,Europe
+2019,481,Bank Mandiri,Banking,Indonesia,8007,1757,83615,25921,Asia
+2019,482,HeidelbergCement,Construction,Germany,21323,1348,41888,16263,Europe
+2019,482,Hewlett Packard Enterprise,Technology Hardware & Equipment,United States of America,30629,649,51758,22831,NorthAmerica
+2019,484,Talanx,Insurance,Germany,41557,829,179064,10261,Europe
+2019,485,Cummins,Capital Goods,United States of America,23771,2141,19062,26431,NorthAmerica
+2019,486,Orsted,Oil & Gas Operations,Denmark,11486,2822,26743,31405,Europe
+2019,487,WPP,Media,United Kingdom,20804,1417,43134,15159,Europe
+2019,488,Marsh & McLennan,Insurance,United States of America,14913,1650,21578,47569,NorthAmerica
+2019,489,Grupo ACS,Construction,Spain,43248,1079,39205,14129,Europe
+2019,490,Xcel Energy,Utilities,United States of America,11527,1262,47745,28142,NorthAmerica
+2019,491,Las Vegas Sands,"Hotels, Restaurants & Leisure",United States of America,13796,1539,22547,52721,NorthAmerica
+2019,492,NTPC,Utilities,India,13214,1636,44629,19320,Asia
+2019,493,China Zheshang Bank,Banking,China,12901,1714,239927,10355,Asia
+2019,494,Commerzbank,Banking,Germany,15165,1008,528557,11444,Europe
+2019,495,Toyota Tsusho,Trading Companies,Japan,61031,1142,40246,11558,Asia
+2019,496,Lennar,Construction,United States of America,21446,1784,28750,17099,NorthAmerica
+2019,497,Swedbank,Banking,Sweden,6614,2432,253342,18588,Europe
+2019,498,Compass Group,"Hotels, Restaurants & Leisure",United Kingdom,30866,1512,16447,35470,Europe
+2019,499,Woolworths,Food Markets,Australia,42941,1295,17522,29305,Oceanic
+2019,500,Novatek,Oil & Gas Operations,Russia,13175,2606,17534,52684,Europe
+2019,501,National Bank of Canada,Banking,Canada,8440,1652,200529,15889,NorthAmerica
+2019,502,LG Electronics,Consumer Durables,South Korea,55739,1127,39728,11719,Asia
+2019,503,Thales,Aerospace & Defense,France,18705,1158,29157,25739,Europe
+2019,504,Public Service Enterprise Group,Utilities,United States of America,9880,1438,45326,29729,NorthAmerica
+2019,505,Adobe,IT Software & Services,United States of America,9496,2682,19506,132025,NorthAmerica
+2019,505,China Taiping Insurance,Insurance,Hong Kong,27254,846,94255,11865,Asia
+2019,507,TE Connectivity,Technology Hardware & Equipment,Switzerland,14365,2977,19188,30250,Europe
+2019,508,Mitsubishi Estate,Construction,Japan,11571,1197,53442,22829,Asia
+2019,509,Metallurgical Corp of China,Construction,China,43185,959,63929,10899,Asia
+2019,510,Emirates NBD,Banking,United Arab Emirates,6905,2571,136216,18157,Asia
+2019,510,Kansai Electric Power,Utilities,Japan,29510,889,65062,12625,Asia
+2019,512,Ecolab,Chemicals,United States of America,14668,1429,20075,52829,NorthAmerica
+2019,513,DXC Technology,Business Services & Supplies,United States of America,21767,1543,28871,17325,NorthAmerica
+2019,514,M&T Bank,Banking,United States of America,6608,2040,120025,22732,NorthAmerica
+2019,515,Fujitsu,Technology Hardware & Equipment,Japan,36072,1497,27272,14592,Asia
+2019,516,Constellation Brands,"Food, Drink & Tobacco",United States of America,8116,3436,29232,37284,NorthAmerica
+2019,517,Wesfarmers,Food Markets,Australia,33768,2032,14492,28372,Oceanic
+2019,518,CLP Holdings,Utilities,Hong Kong,11665,1729,29442,28565,Asia
+2019,519,Al Rajhi Bank,Banking,Saudi Arabia,4753,2745,97301,49666,Asia
+2019,520,Asahi Group Holdings,"Food, Drink & Tobacco",Japan,19198,1370,28066,19914,Asia
+2019,521,Illinois Tool Works,Capital Goods,United States of America,14768,2563,14870,51761,NorthAmerica
+2019,522,Fujifilm Holdings,Consumer Durables,Japan,21943,1062,31111,19489,Asia
+2019,523,Saint-Gobain,Construction,France,49283,495,50347,22546,Europe
+2019,524,Cognizant,IT Software & Services,United States of America,16125,2101,15913,41028,NorthAmerica
+2019,524,Tatneft,Oil & Gas Operations,Russia,14876,3372,17316,27238,Europe
+2019,526,DTE Energy,Utilities,United States of America,14189,1118,36288,22574,NorthAmerica
+2019,527,KeyCorp,Banking,United States of America,7329,1866,140305,16816,NorthAmerica
+2019,527,Recruit Holdings,Business Services & Supplies,Japan,20723,1531,15099,47054,Asia
+2019,529,NVIDIA,Semiconductors,United States of America,11716,4142,13292,113362,NorthAmerica
+2019,530,Sasol,Chemicals,South Africa,14809,1250,32844,20994,Africa
+2019,531,JFE Holdings,Materials,Japan,35738,1422,41777,10060,Asia
+2019,532,Bank of Ningbo,Banking,China,7047,1691,162609,17960,Asia
+2019,533,eBay,Business Services & Supplies,United States of America,10754,2530,22819,31476,NorthAmerica
+2019,534,Mitsubishi Heavy Industries,Capital Goods,Japan,37655,734,48032,13851,Asia
+2019,535,Citizens Financial Group,Banking,United States of America,7168,1721,161310,16279,NorthAmerica
+2019,535,Weichai Power,Capital Goods,China,24022,1310,30686,14366,Asia
+2019,537,Nucor,Materials,United States of America,25067,2351,17921,17525,NorthAmerica
+2019,538,Sherwin-Williams,Chemicals,United States of America,17534,1109,19134,41932,NorthAmerica
+2019,539,Formosa Petrochemical,Oil & Gas Operations,Taiwan,25454,1993,13201,35368,Asia
+2019,540,Ally Financial,Banking,United States of America,10680,1263,178869,11924,NorthAmerica
+2019,541,Murata Manufacturing,Technology Hardware & Equipment,Japan,14077,1757,18660,33891,Asia
+2019,542,Northern Trust,Banking,United States of America,6655,1536,132213,20073,NorthAmerica
+2019,543,American Tower,Diversified Financials,United States of America,7440,1236,33010,85260,NorthAmerica
+2019,544,China Fortune Land Development,Construction,China,10382,1595,57755,14482,Asia
+2019,545,CME Group,Diversified Financials,United States of America,4321,1962,77540,63108,NorthAmerica
+2019,546,Samsung Fire & Marine,Insurance,South Korea,18558,973,70463,11198,Asia
+2019,547,Deutsche Bank,Banking,Germany,42269,314,1541123,18074,Europe
+2019,548,Kraft Heinz Company,"Food, Drink & Tobacco",United States of America,26259,-10229,103627,40192,NorthAmerica
+2019,549,Haier Smart Home,Consumer Durables,China,26818,1138,24362,16957,Asia
+2019,550,Associated British Foods,"Food, Drink & Tobacco",United Kingdom,20759,1354,17855,25822,Europe
+2019,551,MTR,Transportation,Hong Kong,6881,2042,35084,37070,Asia
+2019,552,Tata Steel,Materials,India,23192,2641,34334,8970,Asia
+2019,553,Bank Central Asia,Banking,Indonesia,5233,1816,57357,49380,Asia
+2019,554,Bank of Nanjing,Banking,China,8563,1653,176888,11525,Asia
+2019,555,Telenor,Telecommunications Services,Norway,13558,1383,22089,29000,Europe
+2019,556,Colgate-Palmolive,Consumer Durables,United States of America,15544,2400,12161,59628,NorthAmerica
+2019,557,Boston Scientific,Health Care Equipment & Services,United States of America,9823,1671,20999,48820,NorthAmerica
+2019,558,Kimberly-Clark,Consumer Durables,United States of America,18486,1410,14518,42515,NorthAmerica
+2019,559,China National Building,Construction,China,32984,1219,63598,8010,Asia
+2019,560,CBS,Media,United States of America,14514,1960,21859,19628,NorthAmerica
+2019,560,Dollar General,Retailing,United States of America,25625,1589,13296,32021,NorthAmerica
+2019,562,DISH Network,Media,United States of America,13621,1575,30720,16325,NorthAmerica
+2019,563,Keurig Dr Pepper,"Food, Drink & Tobacco",United States of America,9025,808,48918,37449,NorthAmerica
+2019,564,Kubota,Capital Goods,Japan,16754,1255,26393,18044,Asia
+2019,565,Rakuten,Business Services & Supplies,Japan,9973,1288,66946,14452,Asia
+2019,566,EMD Group,Drugs & Biotechnology,Germany,17745,460,42757,45844,Europe
+2019,566,Rogers Communications,Telecommunications Services,Canada,11647,1589,23369,26593,NorthAmerica
+2019,568,PPL,Utilities,United States of America,7785,1825,43396,22329,NorthAmerica
+2019,569,Aisin Seiki,Consumer Durables,Japan,36613,1099,32460,10995,Asia
+2019,571,Aon,Insurance,Ireland,10761,1052,26422,42140,Europe
+2019,572,Sinopharm Group,Drugs & Biotechnology,China,51874,880,34340,11103,Asia
+2019,573,Royal Caribbean Cruises,"Hotels, Restaurants & Leisure",United States of America,9494,1811,27698,25310,NorthAmerica
+2019,574,Norilsk Nickel,Materials,Russia,11603,3016,15273,35886,Europe
+2019,575,Woori Financial Group,Diversified Financials,South Korea,10953,1710,305115,8341,Asia
+2019,576,Kirin Holdings,"Food, Drink & Tobacco",Japan,17480,1483,20996,19630,Asia
+2019,577,NXP Semiconductors,Semiconductors,Netherlands,9407,2208,21530,33064,Europe
+2019,578,Saudi Electricity,Utilities,Saudi Arabia,17081,476,123839,18288,Asia
+2019,191,Synchrony Financial,Business Services & Supplies,United States of America,0,3257,105384,23060,NorthAmerica
+2019,579,Swisscom,Telecommunications Services,Switzerland,11969,1560,22911,24083,Europe
+2019,580,McKesson,Drugs & Biotechnology,United States of America,213518,-316,61011,21887,NorthAmerica
+2019,581,Nidec,Capital Goods,Japan,13912,1269,17161,41441,Asia
+2019,582,Omnicom Group,Media,United States of America,15130,1325,25211,18120,NorthAmerica
+2019,583,Coal India,Materials,India,14379,1860,18318,22535,Asia
+2019,584,RELX,Business Services & Supplies,United Kingdom,9990,1896,17829,43358,Europe
+2019,585,Trane Technologies,Conglomerates,Ireland,15668,1338,17915,27314,Europe
+2019,586,FirstEnergy,Utilities,United States of America,11454,913,40063,21522,NorthAmerica
+2019,587,Anadarko Petroleum,Oil & Gas Operations,United States of America,13078,605,40376,32216,NorthAmerica
+2019,588,Korea Electric Power,Utilities,South Korea,55090,-1194,166024,16289,Asia
+2019,589,Regions Financial,Banking,United States of America,6518,1543,128802,15521,NorthAmerica
+2019,590,Simon Property Group,Diversified Financials,United States of America,5655,2151,30686,55019,NorthAmerica
+2019,591,Corning,Technology Hardware & Equipment,United States of America,11290,1066,27505,27365,NorthAmerica
+2019,591,The Estée Lauder Companies,Consumer Durables,United States of America,14194,1631,12676,61517,NorthAmerica
+2019,593,Henderson Land,Construction,Hong Kong,2838,3975,56340,27967,Asia
+2019,594,Grupo Mexico,Materials,Mexico,10491,1318,26871,24323,NorthAmerica
+2019,595,Allergan,Drugs & Biotechnology,Ireland,15787,-5096,101788,46333,Europe
+2019,595,H&M - Hennes & Mauritz,Retailing,Sweden,24253,1362,13165,29740,Europe
+2019,595,Loews,Insurance,United States of America,14065,636,78316,14958,NorthAmerica
+2019,598,VMware,IT Software & Services,United States of America,8973,2422,14662,77200,NorthAmerica
+2019,599,Best Buy,Retailing,United States of America,42879,1464,13174,19721,NorthAmerica
+2019,600,First Data,Business Services & Supplies,United States of America,9498,1005,38327,23690,NorthAmerica
+2019,601,Air Products & Chemicals,Chemicals,United States of America,8938,1691,19142,43509,NorthAmerica
+2019,602,Astellas Pharma,Drugs & Biotechnology,Japan,11824,1934,17576,26022,Asia
+2019,603,Asahi Kasei,Chemicals,Japan,19417,1316,23671,14094,Asia
+2019,604,Entergy,Utilities,United States of America,11069,863,48275,17801,NorthAmerica
+2019,605,Ageas,Insurance,Belgium,12315,955,115488,10179,Europe
+2019,606,PPG,Chemicals,United States of America,15374,1341,16015,28299,NorthAmerica
+2019,607,Shimao Property Holdings,Construction,Hong Kong,12972,1336,54998,10164,Asia
+2019,608,Sumitomo Electric,Capital Goods,Japan,28701,1163,28379,10735,Asia
+2019,609,Formosa Chemicals,Chemicals,Taiwan,13526,1617,19244,20619,Asia
+2019,610,Atlantia,Transportation,Italy,6873,965,91242,21067,Europe
+2019,611,Kotak Mahindra Bank,Diversified Financials,India,6285,1016,50107,37893,Asia
+2019,612,Tenaga Nasional,Utilities,Malaysia,12488,923,37192,16693,Asia
+2019,613,JD.com,Retailing,China,69805,-361,30465,43634,Asia
+2019,614,Wheelock,Construction,Hong Kong,6187,2200,75693,14479,Asia
+2019,615,Western Digital,Technology Hardware & Equipment,United States of America,19391,841,27939,16110,NorthAmerica
+2019,616,Industrial Bank of Korea,Banking,South Korea,11121,1594,259464,7307,Asia
+2019,617,Baxter International,Health Care Equipment & Services,United States of America,11127,1624,15641,37991,NorthAmerica
+2019,618,Dongfeng Motor Group,Consumer Durables,China,15889,1983,32993,9379,Asia
+2019,619,Nintendo,Consumer Durables,Japan,10829,1568,16600,36573,Asia
+2019,620,Aeon,Food Markets,Japan,77102,214,90277,15189,Asia
+2019,621,Coca-Cola European Partners,"Food, Drink & Tobacco",United Kingdom,13577,1071,20824,24715,Europe
+2019,621,Vonovia,Construction,Germany,4777,2674,56457,25764,Europe
+2019,623,Teck Resources,Materials,Canada,9693,2397,29013,14094,NorthAmerica
+2019,624,Evonik,Chemicals,Germany,17723,1101,24662,14262,Europe
+2019,625,TELUS,Telecommunications Services,Canada,10875,1234,24209,22356,NorthAmerica
+2019,626,RWE Group,Utilities,Germany,24794,395,98259,15828,Europe
+2019,627,Devon Energy,Oil & Gas Operations,United States of America,11739,3052,19566,14705,NorthAmerica
+2019,628,Bharat Petroleum,Oil & Gas Operations,India,36459,1397,18769,11329,Asia
+2019,629,Eversource Energy,Utilities,United States of America,8448,1033,38241,22198,NorthAmerica
+2019,630,Oneok,Oil & Gas Operations,United States of America,12708,1152,18232,28537,NorthAmerica
+2019,631,TD Ameritrade Holding,Diversified Financials,United States of America,5706,1780,37191,30038,NorthAmerica
+2019,632,Siam Commercial Bank,Banking,Thailand,7098,1239,97891,13670,Asia
+2019,633,Edp-energias De Portugal,Utilities,Portugal,18024,613,47586,14074,Europe
+2019,634,Resona Holdings,Banking,Japan,6951,1581,537392,9658,Asia
+2019,635,Sumitomo Realty,Construction,Japan,9081,1000,45458,17317,Asia
+2019,636,Raiffeisen Bank International,Banking,Russia,8833,1426,160173,8880,Europe
+2019,637,Daqin Railway,Transportation,China,10779,2178,19319,18780,Asia
+2019,638,Idemitsu Kosan,Oil & Gas Operations,Japan,39898,1078,27897,9221,Asia
+2019,638,Unibail-Rodamco,Construction,Netherlands,3225,1216,73764,40261,Europe
+2019,640,Parker-Hannifin,Capital Goods,United States of America,14518,1407,15308,24569,NorthAmerica
+2019,641,BOE Technology Group,Technology Hardware & Equipment,China,14525,535,44282,20288,Asia
+2019,642,Nokia,Technology Hardware & Equipment,Finland,26620,-402,46612,32305,Europe
+2019,643,Infosys,IT Software & Services,India,11575,2195,11867,45135,Asia
+2019,644,Public Bank,Banking,Malaysia,5039,1385,101559,21048,Asia
+2019,645,Kao,Consumer Durables,Japan,13654,1392,13316,36228,Asia
+2019,646,Mapfre,Insurance,Spain,25167,624,70198,9168,Europe
+2019,647,Geely Automobile Holdings,Consumer Durables,Hong Kong,16141,1905,13321,20949,Asia
+2019,648,Siam Cement,Chemicals,Thailand,14800,1384,18114,17343,Asia
+2019,649,Nan Ya Plastics,Chemicals,Taiwan,11047,1749,18553,19879,Asia
+2019,650,PKN Orlen,Oil & Gas Operations,Poland,30362,1565,17074,11364,Europe
+2019,651,Naturgy Energy Group,Oil & Gas Operations,Spain,28714,-3353,46447,27534,Europe
+2019,652,Kellogg,"Food, Drink & Tobacco",United States of America,13547,1336,17780,20090,NorthAmerica
+2019,653,WEC Energy Group,Utilities,United States of America,7680,1061,34438,24066,NorthAmerica
+2019,654,CNPC Capital,Capital Goods,China,5407,1094,129835,18895,Asia
+2019,655,Kyocera,Technology Hardware & Equipment,Japan,14908,642,27533,22119,Asia
+2019,656,Telia,Telecommunications Services,Sweden,9604,1202,28039,18669,Europe
+2019,657,Eletrobrás,Utilities,Brazil,6877,3638,46755,11084,SouthAmerica
+2019,658,Guangzhou Automobile Group,Consumer Durables,China,10614,1670,19243,19281,Asia
+2019,659,CIMB Group Holdings,Banking,Malaysia,6398,1384,129241,11659,Asia
+2019,660,Prologis,Diversified Financials,United States of America,2883,1631,38392,46401,NorthAmerica
+2019,661,Absa Group,Banking,South Africa,9663,1050,89589,9868,Africa
+2019,662,Sodexo,Business Services & Supplies,France,24662,749,20171,16851,Europe
+2019,663,Isbank,Banking,Turkey,15258,1487,105459,4637,Asia
+2019,664,Carrefour,Food Markets,France,91923,-663,54160,14655,Europe
+2019,665,Republic Services,Business Services & Supplies,United States of America,10040,1037,21617,25425,NorthAmerica
+2019,666,Publicis Groupe,Media,France,11740,1084,30957,13392,Europe
+2019,667,Porsche Automobil Holding,Consumer Durables,Germany,122,4097,38514,22223,Europe
+2019,668,D.R. Horton,Construction,United States of America,16254,1558,14536,17334,NorthAmerica
+2019,669,Kasikornbank,Banking,Thailand,6002,1190,96901,14513,Asia
+2019,670,Capgemini,IT Software & Services,France,15569,861,18860,20882,Europe
+2019,671,Ross Stores,Retailing,United States of America,14984,1587,6235,36825,NorthAmerica
+2019,672,Deutsche Boerse,Diversified Financials,Germany,3702,972,180249,24159,Europe
+2019,672,Grupo Aval,Diversified Financials,Colombia,11342,985,79962,9067,SouthAmerica
+2019,674,Husky Energy,Oil & Gas Operations,Canada,17052,1124,26612,10892,NorthAmerica
+2019,675,CGN Power,Utilities,China,7586,1315,54852,12629,Asia
+2019,676,West Japan Railway,Transportation,Japan,13746,904,28674,13941,Asia
+2019,677,Legend Holding,Technology Hardware & Equipment,China,54074,668,81312,6457,Asia
+2019,678,Nutrien,Chemicals,Canada,19620,80,45502,32334,NorthAmerica
+2019,679,Activision Blizzard,Consumer Durables,United States of America,7492,1812,17835,34609,NorthAmerica
+2019,680,Toray Industries,Consumer Durables,Japan,21408,902,25348,11311,Asia
+2019,681,Chubu Electric Power,Utilities,Japan,27070,511,50598,10837,Asia
+2019,682,China Tower Corp.,Telecommunications Services,China,10865,400,45933,49357,Asia
+2019,683,Analog Devices,Semiconductors,United States of America,6223,1577,21828,42279,NorthAmerica
+2019,684,Grupa PZU,Insurance,Poland,10397,888,87054,9649,Europe
+2019,685,ViacomCBS,Media,United States of America,12960,1503,22744,12165,NorthAmerica
+2019,686,Fidelity National Information,Business Services & Supplies,United States of America,8423,847,23770,35849,NorthAmerica
+2019,687,Sekisui House,Construction,Japan,19589,1166,22173,10890,Asia
+2019,688,Akzo Nobel,Chemicals,Netherlands,10920,1018,21766,20180,Europe
+2019,689,Huntington Bank,Banking,United States of America,5214,1393,108781,14303,NorthAmerica
+2019,690,WH Group,"Food, Drink & Tobacco",Hong Kong,22605,943,15298,17241,Asia
+2019,691,Molson Coors Brewing,"Food, Drink & Tobacco",United States of America,10770,1117,30110,13282,NorthAmerica
+2019,692,Haitong Securities,Diversified Financials,China,5801,792,83695,21838,Asia
+2019,693,AES,Utilities,United States of America,10742,1200,32521,11738,NorthAmerica
+2019,694,Tesla,Consumer Durables,United States of America,21461,-976,29740,47198,NorthAmerica
+2019,695,Falabella,Retailing,Chile,14404,745,22880,18265,SouthAmerica
+2019,696,Fox,Media,United States of America,10153,2187,13466,24100,NorthAmerica
+2019,696,Veolia Environnement,Utilities,France,30569,440,42974,13090,Europe
+2019,698,Link REIT,Diversified Financials,Hong Kong,1287,5727,27511,24467,Asia
+2019,699,Lenovo Group,Technology Hardware & Equipment,Hong Kong,49966,511,31279,11180,Asia
+2019,700,Atlas Copco,Capital Goods,Sweden,10960,2203,10904,36827,Europe
+2019,701,Suncorp Group,Insurance,Australia,10313,640,69918,12574,Oceanic
+2019,702,All Nippon Airways,Transportation,Japan,18556,885,23594,11990,Asia
+2019,703,T&D Holdings,Insurance,Japan,17622,731,141567,6804,Asia
+2019,704,Lam Research,Semiconductors,United States of America,10866,2902,10768,29721,NorthAmerica
+2019,705,Pioneer Natural Resources,Oil & Gas Operations,United States of America,9379,974,19046,29495,NorthAmerica
+2019,705,Vivendi,Telecommunications Services,France,16436,150,39328,36999,Europe
+2019,707,VF,Consumer Durables,United States of America,13612,1384,10284,37800,NorthAmerica
+2019,708,Solvay,Chemicals,Belgium,13330,1012,25149,12787,Europe
+2019,709,UPM-Kymmene,Materials,Finland,12366,1765,16000,15243,Europe
+2019,710,Uniper,Utilities,Germany,92228,-533,65931,11192,Europe
+2019,711,National Bank of Kuwait,Banking,Kuwait,4388,1220,90151,19863,Asia
+2019,712,Samba Financial Group,Banking,Saudi Arabia,2544,1472,61296,20746,Asia
+2019,713,China Southern Airlines,Transportation,China,21662,463,35993,14833,Asia
+2019,714,Nomura,Diversified Financials,Japan,16732,-712,411184,12981,Asia
+2019,715,Reinsurance Group of America,Insurance,United States of America,12911,716,64535,9482,NorthAmerica
+2019,716,Eiffage,Construction,France,19926,742,34715,9560,Europe
+2019,717,Cardinal Health,Drugs & Biotechnology,United States of America,141935,-38,40462,13709,NorthAmerica
+2019,718,Crown Castle International,Diversified Financials,United States of America,5550,767,37778,50978,NorthAmerica
+2019,719,Ericsson,Technology Hardware & Equipment,Sweden,24143,-368,30314,33351,Europe
+2019,719,Sumitomo Chemical,Chemicals,Japan,19764,1207,29809,7964,Asia
+2019,721,Tokyo Electron,Semiconductors,Japan,11908,2328,10677,26002,Asia
+2019,722,Willis Towers Watson,Insurance,United Kingdom,8485,695,32385,22916,Europe
+2019,723,CBRE Group,Construction,United States of America,21340,1063,13457,17059,NorthAmerica
+2019,724,Essity Ab,Consumer Durables,Sweden,13620,906,17400,19992,Europe
+2019,725,Sandvik,Capital Goods,Sweden,11502,1461,13349,23698,Europe
+2019,726,CSL,Drugs & Biotechnology,Australia,8243,1819,11532,61732,Oceanic
+2019,727,Credicorp,Banking,Peru,5321,1213,52585,18452,SouthAmerica
+2019,728,Riyad Bank,Banking,Saudi Arabia,2830,1257,61285,21520,Asia
+2019,729,London Stock Exchange,Diversified Financials,United Kingdom,2847,640,1073449,22423,Europe
+2019,730,Guotai Junan Securities,Diversified Financials,China,4000,1023,63610,25365,Asia
+2019,731,DSM,Materials,Netherlands,10933,1271,15756,20273,Europe
+2019,732,Bancolombia,Banking,Colombia,7156,899,67779,12513,SouthAmerica
+2019,733,Rolls-Royce Holdings,Aerospace & Defense,United Kingdom,20973,-3202,40573,22492,Europe
+2019,734,Hong Kong Exchanges,Diversified Financials,Hong Kong,2024,1188,32691,44344,Asia
+2019,735,Otsuka Holding,Drugs & Biotechnology,Japan,11698,747,22573,18994,Asia
+2019,736,Stanley Black & Decker,Consumer Durables,United States of America,13982,645,19408,22059,NorthAmerica
+2019,737,BYD,Consumer Durables,China,19235,410,28386,22718,Asia
+2019,738,WestRock,Materials,United States of America,16719,910,30667,9063,NorthAmerica
+2019,739,CarMax,Retailing,United States of America,18173,842,18718,12896,NorthAmerica
+2019,740,Aptiv,Consumer Durables,Ireland,14437,1067,12480,23299,Europe
+2019,741,Axis Bank,Banking,India,9074,71,107915,28601,Asia
+2019,741,CenturyLink,Telecommunications Services,United States of America,23443,-1733,70256,13238,NorthAmerica
+2019,743,Fortive,Technology Hardware & Equipment,United States of America,7194,2914,12906,29652,NorthAmerica
+2019,744,George Weston,Food Markets,Canada,37471,443,32079,11711,NorthAmerica
+2019,744,Koç Holding,Oil & Gas Operations,Turkey,29534,1142,23549,7363,Asia
+2019,746,Huaneng Power International,Utilities,China,25373,235,58762,13735,Asia
+2019,747,Isuzu Motors,Consumer Durables,Japan,19549,1048,18581,10464,Asia
+2019,747,Telkom Indonesia,Telecommunications Services,Indonesia,9370,1326,13750,27230,Asia
+2019,749,China Energy Engineering,Construction,China,33796,692,56715,3643,Asia
+2019,750,Unipol Gruppo,Insurance,Italy,16404,833,87564,3692,Europe
+2019,751,Teva Pharmaceutical,Drugs & Biotechnology,Israel,18829,-2280,60683,15468,Asia
+2019,752,Keyence,Technology Hardware & Equipment,Japan,5304,2064,14670,78654,Asia
+2019,753,Neste,Oil & Gas Operations,Finland,17601,918,9401,27795,Europe
+2019,753,Shanghai International Port,Transportation,China,5693,1553,21027,29343,Asia
+2019,755,Nedbank,Banking,South Africa,7691,1009,72569,9375,Africa
+2019,756,Bangkok Bank,Banking,Thailand,5314,1093,95723,12535,Asia
+2019,757,China Reinsurance Group,Insurance,China,18119,570,47485,8880,Asia
+2019,758,Formosa Plastics,Chemicals,Taiwan,7640,1643,16316,22293,Asia
+2019,759,Telecom Italia,Telecommunications Services,Italy,22380,-1639,75534,12163,Europe
+2019,760,Concho Resources,Oil & Gas Operations,United States of America,4151,2269,26961,23462,NorthAmerica
+2019,761,Covestro,Chemicals,Germany,17243,2151,12882,10896,Europe
+2019,761,Guangzhou R&F,Construction,China,11586,1264,53337,6794,Asia
+2019,763,LG,Chemicals,South Korea,9700,1694,20466,11455,Asia
+2019,764,Liberty Global,Media,United Kingdom,13020,-373,53154,22369,Europe
+2019,764,Raymond James Financial,Diversified Financials,United States of America,7657,986,38544,12579,NorthAmerica
+2019,766,Fairfax Financial,Insurance,Canada,18170,351,64372,13694,NorthAmerica
+2019,767,Rosseti,Utilities,Russia,16262,1448,36670,3309,Europe
+2019,768,China Eastern Airlines,Transportation,China,17320,426,34485,14880,Asia
+2019,769,Tata Motors,Consumer Durables,India,44925,-4065,46402,11639,Asia
+2019,770,AIB Group,Banking,Ireland,3763,1245,104639,12958,Europe
+2019,771,Fortis (Canada),Utilities,Canada,6473,900,39867,16077,NorthAmerica
+2019,772,Woodside Petroleum,Oil & Gas Operations,Australia,5253,1372,27088,23838,Oceanic
+2019,773,China Steel,Materials,Taiwan,13287,811,21945,12577,Asia
+2019,774,First Republic Bank,Banking,United States of America,3733,881,101847,17075,NorthAmerica
+2019,775,ATOS,IT Software & Services,France,14461,743,24665,11341,Europe
+2019,776,Japan Airlines,Transportation,Japan,13294,1158,17629,11844,Asia
+2019,777,Garanti Bank,Banking,Turkey,10254,1378,74545,6144,Asia
+2019,778,Edison International,Utilities,United States of America,12657,-423,56715,20555,NorthAmerica
+2019,778,Galp Energia,Oil & Gas Operations,Portugal,20270,874,14503,13435,Europe
+2019,780,Infineon Technologies,Semiconductors,Germany,9195,1325,12722,27317,Europe
+2019,781,Athene Holding,Insurance,Bermuda,6568,1068,125505,8598,NorthAmerica
+2019,782,Old Mutual,Diversified Financials,South Africa,8232,1112,60738,8261,Africa
+2019,783,AutoZone,Retailing,United States of America,11311,1413,9745,26009,NorthAmerica
+2019,784,Abu Dhabi Commercial Bank,Banking,United Arab Emirates,3895,1270,76183,13591,Asia
+2019,784,Yanzhou Coal Mining,Materials,China,24250,1200,29666,5504,Asia
+2019,786,Macy's,Retailing,United States of America,25740,1107,19863,7731,NorthAmerica
+2019,787,NetEase,IT Software & Services,China,10127,928,12667,34935,Asia
+2019,788,Hermès International,Consumer Durables,France,7039,1657,8537,71501,Europe
+2019,789,Fanuc,Capital Goods,Japan,6218,1579,14520,37498,Asia
+2019,790,Regeneron Pharmaceuticals,Drugs & Biotechnology,United States of America,6711,2444,11735,36427,NorthAmerica
+2019,791,Novolipetsk Steel,Materials,Russia,12062,2242,9944,16229,Europe
+2019,792,Hanwha,Trading Companies,South Korea,44288,426,151952,1890,Asia
+2019,793,Dentsu,Media,Japan,9222,818,33163,11439,Asia
+2019,794,Carlsberg,"Food, Drink & Tobacco",Denmark,9893,840,18030,19285,Europe
+2019,795,Textron,Conglomerates,United States of America,13785,1212,14480,12897,NorthAmerica
+2019,796,Bank of Jinzhou,Banking,China,6907,1415,112960,6943,Asia
+2019,797,SSE,Utilities,United Kingdom,30077,310,32314,14961,Europe
+2019,798,Huatai Securities,Diversified Financials,China,2450,770,53697,24501,Asia
+2019,799,Lotte Chemical,Chemicals,South Korea,15034,1435,18641,8501,Asia
+2019,800,Hikvision,Technology Hardware & Equipment,China,7278,1629,7984,47767,Asia
+2019,800,QBE Insurance Group,Insurance,Australia,12360,503,40214,12084,Oceanic
+2019,802,Shaanxi Coal Industry,Materials,China,8212,1661,17555,13885,Asia
+2019,802,Shanghai Electric Group,Capital Goods,China,15226,459,31888,13245,Asia
+2019,804,Saudi British Bank,Banking,Saudi Arabia,2256,1315,46534,15760,Asia
+2019,805,O'Reilly Automotive,Retailing,United States of America,9536,1324,8109,31313,NorthAmerica
+2019,806,ITC,"Food, Drink & Tobacco",India,6725,1748,9857,53802,Asia
+2019,807,Chunghwa Telecom,Telecommunications Services,Taiwan,7146,1177,15202,27670,Asia
+2019,808,Shenzhen Overseas,Business Services & Supplies,China,5740,1600,42846,10327,Asia
+2019,809,EnBW-Energie Baden,Utilities,Germany,24323,394,48409,9623,Europe
+2019,810,Comerica,Banking,United States of America,3684,1285,70690,12129,NorthAmerica
+2019,811,Inner Mongolia Yili,"Food, Drink & Tobacco",China,11942,973,6934,27895,Asia
+2019,812,Genuine Parts,Trading Companies,United States of America,18735,810,12683,15390,NorthAmerica
+2019,812,PKO Bank Polski,Banking,Poland,4660,1035,86313,12881,Europe
+2019,814,PG&E,Utilities,United States of America,16759,-6837,81507,11079,NorthAmerica
+2019,815,Discovery,Media,United States of America,10545,493,32550,15813,NorthAmerica
+2019,815,Ferguson,Trading Companies,United Kingdom,21571,909,10751,16196,Europe
+2019,817,Huishang Bank,Banking,China,7354,1323,153090,5268,Asia
+2019,818,Sanlam,Diversified Financials,South Africa,5819,877,55943,12402,Africa
+2019,819,Williams,Oil & Gas Operations,United States of America,8686,-155,46420,34316,NorthAmerica
+2019,820,Deutsche Wohnen,Construction,Germany,1724,2162,29032,15956,Europe
+2019,820,S&P Global,Business Services & Supplies,United States of America,6259,1958,9458,53449,NorthAmerica
+2019,820,Wanhua Chemical Group,Chemicals,China,9093,1887,10463,21953,Asia
+2019,823,Fortum,Utilities,Finland,6184,995,25617,18301,Europe
+2019,824,Mega Financial Holding,Diversified Financials,Taiwan,3158,925,115238,12436,Asia
+2019,825,JBS,"Food, Drink & Tobacco",Brazil,49690,7,29451,12304,SouthAmerica
+2019,826,China Coal Energy,Materials,China,15253,534,38548,9131,Asia
+2019,827,Emaar Properties,Construction,United Arab Emirates,7074,1599,30480,9629,Asia
+2019,828,Canadian Pacific Railway,Transportation,Canada,5644,1505,15718,30336,NorthAmerica
+2019,829,Evraz Group,Materials,United Kingdom,12838,2411,9373,12524,Europe
+2019,830,Mitsubishi Motors,Consumer Durables,Japan,22350,966,17118,8553,Asia
+2019,831,Wuliangye Yibin,"Food, Drink & Tobacco",China,5157,2023,12540,59246,Asia
+2019,832,Intuit,IT Software & Services,United States of America,6431,1472,5335,66781,NorthAmerica
+2019,833,LabCorp,Health Care Equipment & Services,United States of America,11333,884,16185,14330,NorthAmerica
+2019,834,PTT Global Chemical,Chemicals,Thailand,16044,1239,14412,9846,Asia
+2019,835,Bank Negara Indonesia,Banking,Indonesia,4899,1055,56229,13081,Asia
+2019,836,Galaxy Entertainment,"Hotels, Restaurants & Leisure",Hong Kong,7044,1723,11161,32362,Asia
+2019,837,Gemdale,Construction,China,6819,1501,38067,8753,Asia
+2019,838,E-Trade Financial,Diversified Financials,United States of America,3119,1095,67518,12536,NorthAmerica
+2019,838,Kuehne & Nagel International,Transportation,Switzerland,21227,787,7991,17171,Europe
+2019,840,Kone,Construction,Finland,10701,992,8841,27892,Europe
+2019,841,Ryanair Holdings,Transportation,Ireland,9131,1341,13555,16095,Europe
+2019,842,Great Wall Motor,Consumer Durables,China,14444,799,16284,12132,Asia
+2019,842,MGM Resorts,"Hotels, Restaurants & Leisure",United States of America,11763,452,31038,14776,NorthAmerica
+2019,844,Tokyo Gas,Oil & Gas Operations,Japan,17045,555,22147,11170,Asia
+2019,845,YPF,Oil & Gas Operations,Argentina,15503,1374,26394,5999,SouthAmerica
+2019,846,Daiwa Securities,Diversified Financials,Japan,6665,788,195317,7588,Asia
+2019,847,ThyssenKrupp Group,Conglomerates,Germany,43315,79,40114,9533,Europe
+2019,847,Vestas Wind Systems,Capital Goods,Denmark,11958,807,13602,17925,Europe
+2019,849,Sabanci Holding,Diversified Financials,Turkey,11733,790,69867,2785,Asia
+2019,850,Mazda Motor,Consumer Durables,Japan,32131,581,25187,7593,Asia
+2019,851,DP World,Transportation,United Arab Emirates,5646,1296,26513,14243,Asia
+2019,852,Bharti Airtel,Telecommunications Services,India,11785,56,38604,19988,Asia
+2019,853,Valeo,Consumer Durables,France,22562,644,21116,8649,Europe
+2019,854,Ameren,Utilities,United States of America,6291,815,27215,17297,NorthAmerica
+2019,855,Secom,Business Services & Supplies,Japan,9097,846,15893,17861,Asia
+2019,856,Brighthouse Financial,Insurance,United States of America,8000,865,207570,4801,NorthAmerica
+2019,857,Hilton,"Hotels, Restaurants & Leisure",United States of America,8906,764,13995,25497,NorthAmerica
+2019,857,Wipro,IT Software & Services,India,8379,1216,11583,24781,Asia
+2019,859,Itaúsa,Conglomerates,Brazil,1584,2634,16312,24684,SouthAmerica
+2019,860,China Huarong Asset Management,Diversified Financials,China,14924,237,249077,8416,Asia
+2019,861,Amphenol,Technology Hardware & Equipment,United States of America,8202,1205,10045,31158,NorthAmerica
+2019,862,Daiichi Sankyo,Drugs & Biotechnology,Japan,8350,602,17259,28737,Asia
+2019,863,JSW Steel,Materials,India,12157,1331,14347,10421,Asia
+2019,864,Schindler Holding,Capital Goods,Switzerland,11116,964,10120,23307,Europe
+2019,865,Power Grid of India,Utilities,India,4645,1272,35955,14651,Asia
+2019,866,Scentre Group,Diversified Financials,Australia,1968,1708,28776,14718,Oceanic
+2019,867,Seagate Technology,Technology Hardware & Equipment,Ireland,11344,1676,8789,14102,Europe
+2019,868,OTP Bank,Banking,Hungary,4378,1177,51992,11950,Europe
+2019,869,Aena,Transportation,Spain,4957,1567,17032,26799,Europe
+2019,869,Akbank,Banking,Turkey,8253,1170,66693,5654,Asia
+2019,871,SVB Financial Group,Banking,United States of America,2672,974,57035,12800,NorthAmerica
+2019,872,Unum,Insurance,United States of America,11615,523,62613,7766,NorthAmerica
+2019,873,Towngas,Oil & Gas Operations,Hong Kong,4985,1188,16948,36205,Asia
+2019,874,Kuwait Finance House,Banking,Kuwait,3236,753,58522,15543,Asia
+2019,875,Hindalco Industries,Materials,India,17816,944,23656,6711,Asia
+2019,875,Seazen Group,Construction,China,8186,1003,49064,7194,Asia
+2019,877,China Resources Pharmaceutical Group,Drugs & Biotechnology,Hong Kong,24203,515,22511,9148,Asia
+2019,877,Eastman Chemical,Chemicals,United States of America,10122,1080,15995,11662,NorthAmerica
+2019,879,HCL Technologies,IT Software & Services,India,8418,1432,7993,21521,Asia
+2019,880,Conagra Brands,"Food, Drink & Tobacco",United States of America,8891,621,22727,14830,NorthAmerica
+2019,881,CP All,Food Markets,Thailand,15731,616,11479,21733,Asia
+2019,881,Stora Enso,Materials,Finland,12370,1195,14688,10086,Europe
+2019,883,Bank Leumi,Banking,Israel,3780,906,123277,10057,Asia
+2019,884,Lear,Consumer Durables,United States of America,21151,1139,11601,9851,NorthAmerica
+2019,885,Kohl's,Retailing,United States of America,20229,800,12469,11482,NorthAmerica
+2019,886,MOL Hungarian Oil,Oil & Gas Operations,Hungary,19117,1114,16433,7381,Europe
+2019,886,Xiamen C&D,Trading Companies,China,39074,523,35073,4089,Asia
+2019,888,S.F. Holding,Business Services & Supplies,China,13710,688,10431,22872,Asia
+2019,889,Zijin Mining Group,Materials,China,15840,625,16441,11655,Asia
+2019,890,CapitaLand,Construction,Singapore,4386,1306,47430,11175,Asia
+2019,891,Steinhoff International,Consumer Durables,Netherlands,14604,1276,24398,544,Europe
+2019,892,Inpex,Oil & Gas Operations,Japan,8426,449,43945,13801,Asia
+2019,893,China National Nuclear Power,Utilities,China,5487,649,46449,14718,Asia
+2019,894,GF Securities,Diversified Financials,China,3085,660,56674,16981,Asia
+2019,895,Zoetis,Drugs & Biotechnology,United States of America,5825,1428,10777,47450,NorthAmerica
+2019,896,Halkbank,Banking,Turkey,8324,919,78040,1329,Asia
+2019,897,Pembina Pipeline,Oil & Gas Operations,Canada,5827,986,19523,19013,NorthAmerica
+2019,898,ASE Technology Holding,Semiconductors,Taiwan,12306,838,17353,10209,Asia
+2019,899,Taisei,Construction,Japan,14487,978,15213,9309,Asia
+2019,899,TDK,Technology Hardware & Equipment,Japan,12493,676,18432,11072,Asia
+2019,901,Shenwan Hongyuan Group,Diversified Financials,China,2247,629,50647,18654,Asia
+2019,901,Weyerhaeuser,Materials,United States of America,7476,748,17249,19632,NorthAmerica
+2019,903,Kajima,Construction,Japan,17243,1012,17733,7300,Asia
+2019,904,Banque Saudi Fransi,Banking,Saudi Arabia,2301,882,50703,13065,Asia
+2019,905,Cheniere Energy,Oil & Gas Operations,United States of America,7972,471,31987,16730,NorthAmerica
+2019,906,STMicroelectronics,Semiconductors,Switzerland,9680,1294,10867,16760,Europe
+2019,907,L3Harris Technologies,Aerospace & Defense,United States of America,10244,771,13518,17027,NorthAmerica
+2019,908,VakifBank,Banking,Turkey,7792,1026,69528,1839,Asia
+2019,909,Randstad N.V.,Business Services & Supplies,Netherlands,28092,831,11361,10131,Europe
+2019,910,South32,Materials,Australia,7857,1419,15120,12497,Oceanic
+2019,911,United Rentals,Business Services & Supplies,United States of America,8430,1088,18586,10716,NorthAmerica
+2019,912,Braskem,Chemicals,Brazil,15863,784,15273,9742,SouthAmerica
+2019,912,Mediobanca,Banking,Italy,3521,1030,84414,9384,Europe
+2019,914,Arrow Electronics,Trading Companies,United States of America,29677,716,17784,7237,NorthAmerica
+2019,914,Marathon Oil,Oil & Gas Operations,United States of America,5902,1096,21321,14445,NorthAmerica
+2019,916,Obayashi,Construction,Japan,18221,870,20214,6914,Asia
+2019,916,RiseSun Real Estate Development,Construction,China,8136,1143,33174,7289,Asia
+2019,918,Hormel Foods,"Food, Drink & Tobacco",United States of America,9575,950,8155,21636,NorthAmerica
+2019,919,Alliance Data Systems,Diversified Financials,United States of America,7791,963,30388,8617,NorthAmerica
+2019,919,Franklin Resources,Diversified Financials,United States of America,5983,1602,13951,17986,NorthAmerica
+2019,921,China Hongqiao Group,Materials,China,13645,808,25741,7049,Asia
+2019,921,Hershey,"Food, Drink & Tobacco",United States of America,7791,1178,7703,23741,NorthAmerica
+2019,923,CMS Energy,Utilities,United States of America,6873,657,24529,15269,NorthAmerica
+2019,924,Aluminum Corp of China,Materials,China,26912,137,29274,10397,Asia
+2019,925,Severstal,Materials,Russia,8563,2055,5969,13556,Europe
+2019,926,Dubai Islamic Bank,Banking,United Arab Emirates,3146,1203,60897,9184,Asia
+2019,927,BAIC Motor,Consumer Durables,China,23008,661,25057,6406,Asia
+2019,928,Julius Baer Group,Banking,Switzerland,4194,751,104381,10327,Europe
+2019,928,Roper Technologies,Conglomerates,United States of America,5191,944,15250,36234,NorthAmerica
+2019,930,Swatch Group,Consumer Durables,Switzerland,8660,863,13858,16260,Europe
+2019,931,Snam,Oil & Gas Operations,Italy,2932,1133,25861,16508,Europe
+2019,932,Norsk Hydro,Materials,Norway,19581,542,18692,9375,Europe
+2019,933,AntarChile,Diversified Financials,Chile,23975,666,24026,6404,SouthAmerica
+2019,933,Suntory Beverage & Food,"Food, Drink & Tobacco",Japan,11719,725,14031,13353,Asia
+2019,935,Fortescue Metals Group,Materials,Australia,6757,856,18086,16462,Oceanic
+2019,936,MTN Group,Telecommunications Services,South Africa,10154,658,17004,13464,Africa
+2019,937,TCL,Technology Hardware & Equipment,China,17045,524,28076,7700,Asia
+2019,938,China Merchants Securities,Diversified Financials,China,2105,665,44414,16735,Asia
+2019,939,Quanta Computer,Technology Hardware & Equipment,Taiwan,34091,501,21455,7599,Asia
+2019,940,KT,Telecommunications Services,South Korea,21317,626,28848,5897,Asia
+2019,941,Shanghai Pharmaceuticals,Drugs & Biotechnology,China,23965,590,18480,8027,Asia
+2019,942,Scor,Insurance,France,16869,380,48289,8097,Europe
+2019,943,Bankia,Banking,Spain,4322,829,234601,8286,Europe
+2019,943,Dollar Tree,Retailing,United States of America,22823,-1591,13667,25886,NorthAmerica
+2019,943,Origin Energy,Utilities,Australia,11201,912,17273,9217,Oceanic
+2019,943,Shengjing Bank,Banking,China,7020,780,143671,3657,Asia
+2019,947,Ball,Materials,United States of America,11633,454,16554,19552,NorthAmerica
+2019,948,China Gezhouba,Construction,China,15038,704,31783,5226,Asia
+2019,949,Yum! Brands,"Hotels, Restaurants & Leisure",United States of America,5688,1542,4130,31606,NorthAmerica
+2019,950,Air France-KLM,Transportation,France,31278,483,33217,5345,Europe
+2019,951,Amadeus IT Group,Business Services & Supplies,Spain,5823,1183,11656,33339,Europe
+2019,952,AGC,Chemicals,Japan,13789,811,20378,7533,Asia
+2019,952,Arch Capital Group,Insurance,Bermuda,5613,755,31243,13126,NorthAmerica
+2019,954,CDW,IT Software & Services,United States of America,16241,643,7168,15419,NorthAmerica
+2019,955,Tenaris,Materials,Luxembourg,7666,876,14251,17309,Europe
+2019,956,Bank of Ireland,Banking,Ireland,5882,731,141372,7189,Europe
+2019,957,Logan Property Holdings,Construction,China,6793,1222,24775,9057,Asia
+2019,958,Arconic,Materials,United States of America,14014,642,18693,9080,NorthAmerica
+2019,959,Bank Hapoalim,Banking,Israel,4144,722,123349,9532,Asia
+2019,960,Beiersdorf,Consumer Durables,Germany,8533,859,10236,23748,Europe
+2019,961,IQVIA,Drugs & Biotechnology,United States of America,10413,259,22549,26285,NorthAmerica
+2019,962,Vertex Pharmaceuticals,Drugs & Biotechnology,United States of America,3042,2096,6246,42991,NorthAmerica
+2019,963,Alstom,Capital Goods,France,9759,981,15868,10216,Europe
+2019,964,AvalonBay Communities,Diversified Financials,United States of America,2278,972,18380,27203,NorthAmerica
+2019,964,CEZ Group,Utilities,Czech Republic,8338,475,32334,12569,Europe
+2019,966,Fiserv,Business Services & Supplies,United States of America,5823,1187,11262,33351,NorthAmerica
+2019,967,Bâloise Group,Insurance,Switzerland,7282,535,81556,8020,Europe
+2019,968,China Grand Automotive Services,Retailing,China,25762,632,19839,6774,Asia
+2019,969,Mylan,Drugs & Biotechnology,United Kingdom,11428,353,32735,13845,Europe
+2019,970,Bank of East Asia,Banking,Hong Kong,3953,740,107218,9434,Asia
+2019,971,Qurate Retail Group,Retailing,United States of America,14070,916,18190,7296,NorthAmerica
+2019,972,Krung Thai Bank,Banking,Thailand,4891,881,84278,8478,Asia
+2019,974,CGI Group,IT Software & Services,Canada,8991,901,9425,19494,NorthAmerica
+2019,975,Cemex,Construction,Mexico,14401,545,28061,7438,NorthAmerica
+2019,976,Altice USA,Media,United States of America,9567,19,34510,16366,NorthAmerica
+2019,977,Cosco Shipping,Transportation,China,18082,180,33230,9884,Asia
+2019,977,Sharp,Consumer Durables,Japan,21453,706,17889,6961,Asia
+2019,979,WW Grainger,Trading Companies,United States of America,11221,776,5873,17136,NorthAmerica
+2019,980,Leonardo,Aerospace & Defense,Italy,14440,600,29172,6861,Europe
+2019,981,Gap,Retailing,United States of America,16580,1003,8049,9843,NorthAmerica
+2019,982,American Financial Group,Insurance,United States of America,6822,530,63963,8964,NorthAmerica
+2019,983,Uni-President,"Food, Drink & Tobacco",Taiwan,14308,578,13246,13100,Asia
+2019,984,Korea Gas,Oil & Gas Operations,South Korea,23791,459,35571,3530,Asia
+2019,985,Cenovus Energy,Oil & Gas Operations,Canada,16081,-2229,26254,12406,NorthAmerica
+2019,986,CenterPoint Energy,Utilities,United States of America,10499,368,27682,15189,NorthAmerica
+2019,986,Motorola Solutions,Aerospace & Defense,United States of America,7344,967,9409,23573,NorthAmerica
+2019,986,SMC,Capital Goods,Japan,5398,1191,12381,27516,Asia
+2019,989,Meituan Dianping,IT Software & Services,China,9803,-17154,17575,40360,Asia
+2019,990,T Rowe Price,Diversified Financials,United States of America,5373,1794,7786,25067,NorthAmerica
+2019,991,Agile Group Holdings,Construction,China,8478,1081,33565,6231,Asia
+2019,992,TUI,Business Services & Supplies,Germany,23242,825,16348,6481,Europe
+2019,993,Expedia Group,Business Services & Supplies,United States of America,11223,406,18033,18522,NorthAmerica
+2019,993,Public Storage,Diversified Financials,United States of America,2906,1705,10928,37917,NorthAmerica
+2019,995,Guangzhou Rural Commercial Bank,Banking,China,5568,989,111174,6014,Asia
+2019,996,Zions Bancorp,Banking,United States of America,3034,884,68941,8805,NorthAmerica
+2019,997,Shiseido,Consumer Durables,Japan,9913,556,9202,29688,Asia
+2019,998,C.H. Robinson,Transportation,United States of America,16631,665,4427,12361,NorthAmerica
+2019,998,WR Berkley,Insurance,United States of America,7737,641,24397,10679,NorthAmerica
+2019,1000,Samsung SDI,Technology Hardware & Equipment,South Korea,8322,637,17342,13380,Asia
+2019,1001,ZTE,Technology Hardware & Equipment,China,12801,-1106,18840,20039,Asia
+2019,1002,Voya Financial,Insurance,United States of America,8637,370,155812,8086,NorthAmerica
+2019,1003,Arab National Bank,Banking,Saudi Arabia,2176,883,47528,10000,Asia
+2019,1004,Centrica,Oil & Gas Operations,United Kingdom,39583,244,28088,7838,Europe
+2019,1005,Financiere de l'Odet,Transportation,France,27163,145,60989,4362,Europe
+2019,1006,Wens Foodstuff Group,"Food, Drink & Tobacco",China,8640,598,7858,30801,Asia
+2019,1007,Electronic Arts,Consumer Durables,United States of America,5316,1417,8857,27904,NorthAmerica
+2019,1008,Bank Of Hangzhou,Banking,China,5212,810,126441,6863,Asia
+2019,1009,GS Holdings,Conglomerates,South Korea,15860,821,20282,4413,Asia
+2019,1009,Pgnig Group,Oil & Gas Operations,Poland,11412,889,14180,9190,Europe
+2019,1011,HollyFrontier,Oil & Gas Operations,United States of America,17720,1094,11062,8084,NorthAmerica
+2019,1012,DSV Panalpina,Transportation,Denmark,12513,633,5946,15451,Europe
+2019,1013,Intuitive Surgical,Health Care Equipment & Services,United States of America,3724,1128,7847,60918,NorthAmerica
+2019,1014,Legrand,Capital Goods,France,7075,910,11782,19271,Europe
+2019,1015,Inner Mongolia Baotou Steel,Materials,China,10205,452,21501,12510,Asia
+2019,1016,En+ Group Plc Sponsored GDR RegS,Materials,United Kingdom,12378,967,21282,4571,Europe
+2019,1017,Sany Heavy Industry,Capital Goods,China,8387,924,10928,16370,Asia
+2019,1018,BDO Unibank,Banking,Philippines,3389,621,57487,11157,Asia
+2019,1019,China Gas Holdings,Utilities,Hong Kong,7767,884,11951,16430,Asia
+2019,1020,Aeroports de Paris,Transportation,France,5283,720,18367,19950,Europe
+2019,1021,Diamondback Energy,Oil & Gas Operations,United States of America,2178,846,21596,17635,NorthAmerica
+2019,1022,Asr Nederland,Insurance,Netherlands,6893,726,66783,6327,Europe
+2019,1023,NEC,Technology Hardware & Equipment,Japan,26329,325,25164,8728,Asia
+2019,1024,Db Insurance,Insurance,South Korea,13141,484,45083,3836,Asia
+2019,1025,JM Smucker,"Food, Drink & Tobacco",United States of America,7717,626,16928,13729,NorthAmerica
+2019,1026,Schaeffler,Consumer Durables,Germany,16801,1039,14613,6345,Europe
+2019,1027,Zimmer Biomet,Health Care Equipment & Services,United States of America,7933,-379,24127,24550,NorthAmerica
+2019,1028,China Jinmao,Construction,Hong Kong,5938,797,39565,7966,Asia
+2019,1028,Hengli Petrochemical,Capital Goods,China,9029,502,18242,13391,Asia
+2019,1030,ALFA,Conglomerates,Mexico,19048,683,18779,5467,NorthAmerica
+2019,1031,Shanghai Construction,Construction,China,25408,420,31449,5193,Asia
+2019,1032,Qatar Islamic Bank,Banking,Qatar,1376,717,42667,10921,Asia
+2019,1033,CJ Cheiljedang,"Food, Drink & Tobacco",South Korea,16965,795,17474,4481,Asia
+2019,1034,Turkish Airlines,Transportation,Turkey,12959,834,20503,3407,Asia
+2019,1035,Thomson Reuters,Business Services & Supplies,Canada,5502,533,17047,30061,NorthAmerica
+2019,1036,Investor AB,Diversified Financials,Sweden,4652,-259,46972,36079,Europe
+2019,1037,Adecco,Business Services & Supplies,United States of America,28163,544,11109,9692,NorthAmerica
+2019,1038,Rockwell Automation,Capital Goods,United States of America,6720,852,5935,22704,NorthAmerica
+2019,1039,Moody's,Business Services & Supplies,United States of America,4443,1310,9526,35696,NorthAmerica
+2019,1040,Datang International Power,Utilities,China,13915,197,41935,8230,Asia
+2019,1041,Accor,"Hotels, Restaurants & Leisure",France,4259,2634,14766,11952,Europe
+2019,1042,IndusInd Bank,Banking,India,3416,559,34022,15336,Asia
+2019,1043,Intact Financial,Insurance,Canada,8037,545,20206,11562,NorthAmerica
+2019,1044,J Sainsbury,Food Markets,United Kingdom,38900,362,29395,6537,Europe
+2019,1044,Thai Beverage,"Food, Drink & Tobacco",Thailand,7944,713,12806,15280,Asia
+2019,1044,Yamaha Motor,Consumer Durables,Japan,15149,845,13065,7591,Asia
+2019,1047,Cintas,Business Services & Supplies,United States of America,6768,834,7434,22345,NorthAmerica
+2019,1048,Beijing Enterprises,Conglomerates,Hong Kong,8646,967,22287,6805,Asia
+2019,1049,Gallagher,Insurance,United States of America,6787,634,16334,14896,NorthAmerica
+2019,1050,Continental Resources,Oil & Gas Operations,United States of America,4734,988,15874,18780,NorthAmerica
+2019,1051,Daito Trust Construction,Construction,Japan,14246,764,7456,10187,Asia
+2019,1052,China Shipbuilding Industry,Capital Goods,China,6483,175,30054,23033,Asia
+2019,1053,Shin Kong Financial,Insurance,Taiwan,13129,323,118697,3433,Asia
+2019,1054,BBMG,Construction,China,12034,503,39075,6217,Asia
+2019,1054,MediaTek,Semiconductors,Taiwan,7895,688,13106,14964,Asia
+2019,1056,Onex,Diversified Financials,Canada,25131,-659,45417,5963,NorthAmerica
+2019,1057,Tokyu,Transportation,Japan,10434,493,21617,9517,Asia
+2019,1058,WellCare Health Plans,Drugs & Biotechnology,United States of America,20414,440,11870,12691,NorthAmerica
+2019,1059,Mitsubishi UFJ Lease,Business Services & Supplies,Japan,7798,626,52042,4567,Asia
+2019,1060,Celanese,Chemicals,United States of America,7155,1207,9313,13448,NorthAmerica
+2019,1060,Hesteel,Materials,China,17119,458,29980,5590,Asia
+2019,1060,Interactive Brokers Group,Diversified Financials,United States of America,2522,172,63526,22793,NorthAmerica
+2019,1060,Sumitomo Metal Mining,Materials,Japan,8612,847,15962,8874,Asia
+2019,1064,Japan Exchange Group,Diversified Financials,Japan,1133,468,501383,8780,Asia
+2019,1064,Mohawk Industries,Consumer Durables,United States of America,9984,858,13099,9543,NorthAmerica
+2019,1066,Sojitz,Trading Companies,Japan,16963,596,21172,4288,Asia
+2019,1067,Investec,Diversified Financials,United Kingdom,5962,716,73206,6315,Europe
+2019,570,Aroundtown,Construction,Luxembourg,0,1912,21766,9060,Europe
+2019,1068,NetApp,Technology Hardware & Equipment,United States of America,6195,1044,8418,19187,NorthAmerica
+2019,1069,Yum China Holdings,"Hotels, Restaurants & Leisure",China,8415,708,4610,17144,Asia
+2019,1070,Melrose Industries,Diversified Financials,United Kingdom,11474,-633,25133,12426,Europe
+2019,1071,Universal Health,Health Care Equipment & Services,United States of America,10772,779,11265,11343,NorthAmerica
+2019,1072,Gecina,Diversified Financials,France,1130,1186,22530,10843,Europe
+2019,1072,Restaurant Brands International,"Hotels, Restaurants & Leisure",Canada,5357,612,20141,17093,NorthAmerica
+2019,1074,Dexia,Banking,Belgium,11049,-559,196545,9,Europe
+2019,1075,Norwegian Cruise Line Holdings,"Hotels, Restaurants & Leisure",United States of America,6055,955,15206,12260,NorthAmerica
+2019,1076,Sika,Chemicals,Switzerland,7240,698,6474,21200,Europe
+2019,1076,Zhejiang Zheneng Electric Power,Utilities,China,8592,660,16107,10081,Asia
+2019,1078,Singapore Airlines,Transportation,Singapore,12055,491,20184,8599,Asia
+2019,1079,Technipfmc,Oil & Gas Operations,United Kingdom,12556,-1922,25004,11006,Europe
+2019,1080,BCI-Banco Credito,Banking,Chile,3642,616,59582,9347,SouthAmerica
+2019,1080,SDIC Power Holdings,Utilities,China,6053,660,32147,8593,Asia
+2019,1082,Dassault Aviation,Aerospace & Defense,France,6039,676,19494,12121,Europe
+2019,1083,First Financial Holding,Banking,Taiwan,2894,575,95494,8542,Asia
+2019,1084,Barrick Gold,Materials,Canada,7259,-1575,22631,23192,NorthAmerica
+2019,1085,Shimizu,Construction,Japan,14671,766,15986,6542,Asia
+2019,1086,Vistra Energy,Utilities,United States of America,10059,-54,26024,12638,NorthAmerica
+2019,1087,Invesco,Diversified Financials,United States of America,5231,856,30978,8650,NorthAmerica
+2019,1088,Mosaic,Chemicals,United States of America,9587,470,20119,10443,NorthAmerica
+2019,1089,Oi,Telecommunications Services,Brazil,6033,6726,16884,2474,SouthAmerica
+2019,1090,Jiangsu Yanghe Brewery,"Food, Drink & Tobacco",China,3064,1236,6566,27418,Asia
+2019,1091,Klepierre,Diversified Financials,France,1382,823,29216,10650,Europe
+2019,1093,Harris,Technology Hardware & Equipment,United States of America,6442,853,9852,19540,NorthAmerica
+2019,1094,Agilent Technologies,Drugs & Biotechnology,United States of America,4987,1140,8952,24185,NorthAmerica
+2019,1095,Altice Europe,Media,Netherlands,16818,-393,51820,3405,Europe
+2019,1096,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Banking,Vietnam,3066,562,46304,10853,Asia
+2019,1096,Kyushu Electric Power,Utilities,Japan,18302,360,42502,4895,Asia
+2019,1098,Markel,Insurance,United States of America,7269,-133,33755,14070,NorthAmerica
+2019,1099,Welltower,Diversified Financials,United States of America,4702,389,30342,29269,NorthAmerica
+2019,1100,Twitter,IT Software & Services,United States of America,3042,1206,10167,26416,NorthAmerica
+2019,1101,Kerry Group,"Food, Drink & Tobacco",Ireland,7795,638,9515,19232,Europe
+2019,1102,Angang Steel,Materials,China,15103,1063,13112,6029,Asia
+2019,1102,Hoya,Technology Hardware & Equipment,Japan,5073,1017,6560,25228,Asia
+2019,1104,Illumina,Drugs & Biotechnology,United States of America,3332,826,6959,46868,NorthAmerica
+2019,1105,Mondi,Materials,United Kingdom,8824,973,9193,10901,Europe
+2019,1105,Steel Dynamics,Materials,United States of America,11822,1258,7704,7571,NorthAmerica
+2019,1107,Bajaj Finserv,Diversified Financials,India,5529,448,24867,17362,Asia
+2019,1108,Boston Properties,Diversified Financials,United States of America,2708,583,20256,20549,NorthAmerica
+2019,1109,Insurance Australia Group,Insurance,Australia,5491,651,20251,12792,Oceanic
+2019,1110,American Water Works,Utilities,United States of America,3440,567,22216,18900,NorthAmerica
+2019,1111,Goodyear,Consumer Durables,United States of America,15475,693,16872,4764,NorthAmerica
+2019,1112,Banco de Sabadell,Banking,Spain,7785,387,254148,6367,Europe
+2019,1113,Knorr-Bremse,Consumer Durables,Germany,7033,743,7113,18088,Europe
+2019,1114,Annaly Capital Management,Diversified Financials,United States of America,1967,54,105788,14415,NorthAmerica
+2019,1115,Helvetia Holding,Insurance,Switzerland,9348,442,59160,6220,Europe
+2019,1116,LG Display,Trading Companies,South Korea,22114,-188,29733,6845,Asia
+2019,1117,Harbin Bank,Banking,China,4820,838,89691,2579,Asia
+2019,1118,Alinma Bank,Banking,Saudi Arabia,1584,671,32344,10569,Asia
+2019,1118,Grupo Inbursa,Banking,Mexico,4050,889,25866,10200,NorthAmerica
+2019,1120,AGL Energy,Utilities,Australia,9485,937,10713,10220,Oceanic
+2019,1121,E.Sun Financial,Banking,Taiwan,2243,566,74431,8427,Asia
+2019,1122,Paychex,Business Services & Supplies,United States of America,3663,1033,10363,29323,NorthAmerica
+2019,1123,AerCap Holdings,Business Services & Supplies,Ireland,4747,1016,43209,7050,Europe
+2019,1124,Rongsheng Petrochemical,Consumer Durables,China,13792,243,17684,12498,Asia
+2019,1125,Bunge,"Food, Drink & Tobacco",United States of America,45745,267,19425,7233,NorthAmerica
+2019,1126,Meiji Holdings,"Food, Drink & Tobacco",Japan,11361,656,9343,11265,Asia
+2019,1127,Bankinter,Banking,Spain,2616,621,87453,7424,Europe
+2019,1128,Westlake Chemical,Chemicals,United States of America,8635,990,11602,9671,NorthAmerica
+2019,1129,Grifols,Drugs & Biotechnology,Spain,5293,704,14263,18481,Europe
+2019,1129,KLA,Semiconductors,United States of America,4302,1421,5605,20327,NorthAmerica
+2019,1131,Monster Beverage,"Food, Drink & Tobacco",United States of America,3807,993,4653,29982,NorthAmerica
+2019,1132,Darden Restaurants,"Hotels, Restaurants & Leisure",United States of America,8415,680,5698,14372,NorthAmerica
+2019,1133,Ferrovial,Transportation,Spain,6768,-564,27986,17253,Europe
+2019,1134,Ovintiv,Oil & Gas Operations,United States of America,5528,1086,15344,10804,NorthAmerica
+2019,1135,Taiwan Cooperative Financial,Banking,Taiwan,2637,518,114139,8090,Asia
+2019,1136,Industries Qatar,Chemicals,Qatar,1590,1381,10180,20769,Asia
+2019,1137,Clorox,Consumer Durables,United States of America,6244,790,5073,19671,NorthAmerica
+2019,1137,Lonza Group,Drugs & Biotechnology,Switzerland,5663,571,14122,21786,Europe
+2019,1139,Hankyu Hanshin Holdings,Transportation,Japan,7201,614,22299,8761,Asia
+2019,1140,Ternium,Materials,Luxembourg,11547,1500,12546,5263,Europe
+2019,1141,Tohoku Electric Power,Utilities,Japan,19683,255,38182,5997,Asia
+2019,1142,BorgWarner,Consumer Durables,United States of America,10532,931,10095,9135,NorthAmerica
+2019,1143,Attijariwafa Bank,Banking,Morocco,4128,608,53260,8732,Africa
+2019,1144,Ulta Beauty,Retailing,United States of America,6717,659,3279,20633,NorthAmerica
+2019,1145,CIFI Holdings Group,Construction,China,6382,843,35111,5563,Asia
+2019,1146,Samsung SDS,IT Software & Services,South Korea,9118,572,7182,15783,Asia
+2019,1147,Molina Healthcare,Drugs & Biotechnology,United States of America,18890,707,7154,7558,NorthAmerica
+2019,1147,Saudi Arabian Mining,Materials,Saudi Arabia,3786,493,26132,18010,Asia
+2019,1149,Interpublic Group,Media,United States of America,9714,619,15620,8764,NorthAmerica
+2019,1150,Skanska,Construction,Sweden,19737,525,13117,7729,Europe
+2019,1151,Amcor,Materials,United Kingdom,9358,658,8868,12726,Europe
+2019,1151,Guosen Securities,Diversified Financials,China,1363,481,29921,16070,Asia
+2019,1151,SGS,Business Services & Supplies,Switzerland,6852,657,6155,19801,Europe
+2019,1154,Tokyo Century,Business Services & Supplies,Japan,9539,510,36376,4843,Asia
+2019,1155,Evergy,Utilities,United States of America,4276,535,27568,14264,NorthAmerica
+2019,1156,PVH,Consumer Durables,United States of America,9657,746,11864,9934,NorthAmerica
+2019,1157,Host Hotels & Resorts,Diversified Financials,United States of America,5524,1087,12090,13993,NorthAmerica
+2019,1158,Saputo,"Food, Drink & Tobacco",Canada,10037,587,7359,13325,NorthAmerica
+2019,1159,Whirlpool,Consumer Durables,United States of America,21037,-183,18347,8847,NorthAmerica
+2019,1160,TransDigm Group,Aerospace & Defense,United States of America,3956,821,12389,24824,NorthAmerica
+2019,1161,Kobe Steel,Materials,Japan,17658,474,21278,2830,Asia
+2019,1162,Voestalpine,Materials,Austria,15792,592,17446,6110,Europe
+2019,1163,Aramark,"Hotels, Restaurants & Leisure",United States of America,16090,526,13739,7795,NorthAmerica
+2019,1163,China Galaxy Securities,Diversified Financials,China,2442,435,36611,15139,Asia
+2019,1165,China International Marine,Capital Goods,China,13972,504,23195,5229,Asia
+2019,1166,CJ Corporation,"Food, Drink & Tobacco",South Korea,26827,251,28437,3085,Asia
+2019,1167,Jeronimo Martins,Food Markets,Portugal,20453,473,7613,9927,Europe
+2019,1167,Terna,Utilities,Italy,2592,834,19618,12077,Europe
+2019,1169,PulteGroup,Construction,United States of America,10188,1011,10173,8433,NorthAmerica
+2019,1170,China Development Financial,Banking,Taiwan,10371,260,88422,4708,Asia
+2019,1170,China Resources Power,Utilities,Hong Kong,9817,504,26595,6908,Asia
+2019,1172,Bank Pekao,Banking,Poland,2589,633,50866,8060,Europe
+2019,1172,Covivio,Diversified Financials,France,1489,884,27950,8839,Europe
+2019,1174,Oriental Land,Media,Japan,4658,780,8761,36539,Asia
+2019,1174,Xilinx,Semiconductors,United States of America,2904,811,5355,34164,NorthAmerica
+2019,1176,Schroders,Diversified Financials,United Kingdom,3539,673,25006,11370,Europe
+2019,1177,Wynn Resorts,"Hotels, Restaurants & Leisure",United States of America,6718,584,13302,15332,NorthAmerica
+2019,1178,Bank of Tianjin,Banking,China,5034,641,96034,3552,Asia
+2019,1179,GD Power Development,Utilities,China,9746,207,39692,8235,Asia
+2019,1180,Equinix,Diversified Financials,United States of America,5095,365,20245,37532,NorthAmerica
+2019,1181,UBI Banca,Banking,Italy,5590,502,143244,3602,Europe
+2019,1182,Cosmo Energy Holdings,Oil & Gas Operations,Japan,25325,482,16237,1707,Asia
+2019,1182,UCB,Drugs & Biotechnology,Belgium,5465,933,12019,14932,Europe
+2019,1184,3i Group,Diversified Financials,United Kingdom,590,2043,10923,13671,Europe
+2019,1184,Yara International,Chemicals,Norway,12949,165,16656,11923,Europe
+2019,1186,GAIL India,Oil & Gas Operations,India,8453,744,9640,11445,Asia
+2019,1186,Givaudan,Consumer Durables,Switzerland,5648,677,9402,23337,Europe
+2019,1188,Hyundai Steel,Materials,South Korea,18882,362,29848,5651,Asia
+2019,1189,Inter Rao,Utilities,Russia,15322,1127,10709,4399,Europe
+2019,1190,Ferrari,Consumer Durables,Italy,4035,926,5546,25179,Europe
+2019,1191,iA Financial Corporation,Insurance,Canada,8085,489,45789,4320,NorthAmerica
+2019,1192,Vienna Insurance Group,Insurance,Austria,11902,307,57188,3634,Europe
+2019,1193,Petronas Chemicals,Chemicals,Malaysia,4851,1234,9042,17246,Asia
+2019,1193,Terumo,Health Care Equipment & Services,Japan,5303,824,10298,21092,Asia
+2019,1195,Newmont Mining,Materials,United States of America,7262,341,20715,17599,NorthAmerica
+2019,1196,Masco,Construction,United States of America,8359,729,5393,11784,NorthAmerica
+2019,1196,Ricoh,Business Services & Supplies,Japan,18440,-924,24263,7282,Asia
+2019,1196,Top Frontier Investment Holdings,Oil & Gas Operations,Philippines,19001,181,32394,1717,Asia
+2019,1199,Punjab National Bank,Banking,India,8936,-1882,119438,4940,Asia
+2019,1200,Edwards Lifesciences,Health Care Equipment & Services,United States of America,3723,722,5324,36889,NorthAmerica
+2019,1200,Pegatron,Technology Hardware & Equipment,Taiwan,44438,369,19011,5157,Asia
+2019,1202,Indorama Ventures,Chemicals,Thailand,10739,786,11646,8379,Asia
+2019,1203,Bank Of Guiyang,Banking,China,3770,776,73310,5005,Asia
+2019,1204,S-Oil,Oil & Gas Operations,South Korea,23138,234,14299,9686,Asia
+2019,1205,Arkema,Chemicals,France,10401,834,11626,8127,Europe
+2019,1206,Airports of Thailand,Transportation,Thailand,1897,783,5787,30858,Asia
+2019,1207,NRG Energy,Utilities,United States of America,10128,597,10628,11438,NorthAmerica
+2019,1208,Dassault Systemes,IT Software & Services,France,4103,672,9115,39203,Europe
+2019,1209,Experian,Business Services & Supplies,Ireland,4834,804,7912,25789,Europe
+2019,1209,US Steel,Materials,United States of America,14193,1115,10982,2846,NorthAmerica
+2019,1211,Advanced Info Service,Telecommunications Services,Thailand,5254,918,8925,17889,Asia
+2019,1212,Expeditors International,Transportation,United States of America,8138,618,3346,13822,NorthAmerica
+2019,1213,Jiangsu Hengrui Medicine,Drugs & Biotechnology,China,2728,642,3450,42029,Asia
+2019,1214,Hess,Oil & Gas Operations,United States of America,6381,-282,21433,19958,NorthAmerica
+2019,1215,HAL Trust,Diversified Financials,Monaco,9858,183,18834,12565,Europe
+2019,1215,LG Household & Health Care,Consumer Durables,South Korea,6131,620,4728,20720,Asia
+2019,1217,Grasim Industries,Construction,India,10156,197,32395,8207,Asia
+2019,1218,Phoenix Group Holdings,Insurance,United Kingdom,-9140,489,283130,6699,Europe
+2019,1219,Assa Abloy,Capital Goods,Sweden,9660,316,12020,25123,Europe
+2019,1220,Charoen Pokphand Foods,"Food, Drink & Tobacco",Thailand,16764,456,19290,4613,Asia
+2019,1220,Worldpay,IT Software & Services,United States of America,3925,13,24889,34617,NorthAmerica
+2019,1222,Yuanta Financial Holding,Diversified Financials,Taiwan,4145,619,74410,6755,Asia
+2019,1223,Concordia Financial Group,Banking,Japan,2768,567,168792,4849,Asia
+2019,1224,SKF Group,Materials,Sweden,9851,837,9832,8698,Europe
+2019,1225,Genworth Financial,Insurance,United States of America,8609,119,100923,1887,NorthAmerica
+2019,1226,Bank of Baroda,Banking,India,8370,-293,112830,6228,Asia
+2019,1227,Jiangxi Copper,Materials,China,32428,372,14995,7226,Asia
+2019,1228,Bank of Changsha,Banking,China,3329,677,76704,5675,Asia
+2019,1228,China Mengniu Dairy,"Food, Drink & Tobacco",Hong Kong,10442,461,9680,14150,Asia
+2019,1230,Grupo Elektra,Retailing,Mexico,5382,766,14085,12673,NorthAmerica
+2019,1230,Healthpeak Properties,Diversified Financials,United States of America,1847,1058,12719,14257,NorthAmerica
+2019,1232,Equity Residential,Diversified Financials,United States of America,2560,400,20394,27771,NorthAmerica
+2019,1233,Shionogi,Drugs & Biotechnology,Japan,3138,1118,6550,17428,Asia
+2019,1234,Foshan Haitian Flavouring and Food,"Food, Drink & Tobacco",China,2546,660,2936,34752,Asia
+2019,1235,Quest Diagnostics,Health Care Equipment & Services,United States of America,7531,733,11003,11540,NorthAmerica
+2019,1236,Ayala Corp,Diversified Financials,Philippines,5247,593,21049,10976,Asia
+2019,1237,China International Capital,Diversified Financials,China,2792,519,40115,9417,Asia
+2019,1237,Magnitogorsk Iron & Steel,Materials,Russia,8203,1316,7249,7723,Europe
+2019,1239,Ashtead Group,Business Services & Supplies,United Kingdom,5679,984,10788,13292,Europe
+2019,1240,Bank Of Chengdu,Banking,China,2783,688,70344,5140,Asia
+2019,1241,Brown-Forman,"Food, Drink & Tobacco",United States of America,3309,786,5163,25212,NorthAmerica
+2019,1242,Hunan Valin Steel,Materials,China,13687,1024,10958,3729,Asia
+2019,1243,Delta Electronics,Technology Hardware & Equipment,Taiwan,7860,603,8522,13561,Asia
+2019,1244,East West Bancorp,Banking,United States of America,1807,704,41113,7212,NorthAmerica
+2019,1244,New Residential Investment,Diversified Financials,United States of America,2367,964,31715,6942,NorthAmerica
+2019,1246,Fastenal,Trading Companies,United States of America,5089,772,3652,20351,NorthAmerica
+2019,1247,Power Finance,Business Services & Supplies,India,4200,907,44187,4513,Asia
+2019,1248,Henry Schein,Health Care Equipment & Services,United States of America,13202,536,8501,9192,NorthAmerica
+2019,1249,FleetCor Technologies,Business Services & Supplies,United States of America,2433,811,11202,21586,NorthAmerica
+2019,1250,Hexagon,Conglomerates,Sweden,4438,862,11070,20263,Europe
+2019,1251,Dai Nippon Printing,Business Services & Supplies,Japan,12746,508,15765,7060,Asia
+2019,1252,Metro Group,Food Markets,Germany,32303,370,17897,6079,Europe
+2019,1253,Globe Life,Insurance,United States of America,4352,713,23096,9789,NorthAmerica
+2019,1253,Goodman Group,Construction,Australia,1386,1109,10021,16487,Oceanic
+2019,1255,Trip.com Group,Business Services & Supplies,China,4674,201,27066,24569,Asia
+2019,1256,China Life Insurance (Taiwan),Insurance,Taiwan,10045,338,55675,3293,Asia
+2019,1257,McCormick,"Food, Drink & Tobacco",United States of America,5403,659,10228,20379,NorthAmerica
+2019,1258,Storebrand,Insurance,Norway,6386,453,66682,4012,Europe
+2019,1259,HNA Technology,Transportation,China,49622,113,17597,1682,Asia
+2019,1260,Apache,Oil & Gas Operations,United States of America,7343,40,21582,13484,NorthAmerica
+2019,1260,Brenntag,Trading Companies,Germany,14806,544,8906,8375,Europe
+2019,1262,RSA Insurance Group,Insurance,United Kingdom,9358,447,22953,7315,Europe
+2019,1263,NVR,Construction,United States of America,7032,797,3166,11186,NorthAmerica
+2019,1263,Skyworks Solutions,Semiconductors,United States of America,3788,1133,4739,15570,NorthAmerica
+2019,1265,China International Travel Service,Business Services & Supplies,China,6284,509,3788,22780,Asia
+2019,1266,Johnson Matthey,Chemicals,United Kingdom,19828,448,6602,8651,Europe
+2019,1267,Hua Nan Financial,Diversified Financials,Taiwan,2331,485,87328,7187,Asia
+2019,1268,Huntington Ingalls Industries,Aerospace & Defense,United States of America,8176,836,6776,9202,NorthAmerica
+2019,1268,Unicharm,Consumer Durables,Japan,6232,556,7250,19423,Asia
+2019,1270,China Molybdenum,Materials,China,3790,712,14742,14375,Asia
+2019,1271,Yango Group,Construction,China,7935,456,38365,4544,Asia
+2019,1272,Wolters Kluwer,Media,Netherlands,5026,775,9769,19055,Europe
+2019,1273,Hyundai Marine & Fire,Insurance,South Korea,11962,336,38669,2703,Asia
+2019,1274,Umicore,Materials,Belgium,16182,374,7010,11776,Europe
+2019,1275,Waste Connections,Business Services & Supplies,Canada,4925,547,12627,23324,NorthAmerica
+2019,1276,Sino-Ocean Group Holding,Construction,China,6597,547,36320,3586,Asia
+2019,1277,AGNC Investment,Diversified Financials,United States of America,1920,129,109241,9697,NorthAmerica
+2019,1277,Signature Bank,Banking,United States of America,1829,615,48546,6963,NorthAmerica
+2019,1279,Cerner,Health Care Equipment & Services,United States of America,5366,630,6709,20341,NorthAmerica
+2019,1279,Huadian Power International,Construction,China,13178,259,32775,6269,Asia
+2019,1281,Power Assets Holdings,Utilities,Hong Kong,198,974,11679,14827,Asia
+2019,1282,Ahli United Bank,Banking,Bahrain,1885,662,35508,7351,Asia
+2019,1282,Qantas Airways,Transportation,Australia,12846,650,13088,6456,Oceanic
+2019,1284,Ametek,Conglomerates,United States of America,4846,778,8662,19678,NorthAmerica
+2019,1285,Cathay Pacific Airways,Transportation,Hong Kong,14170,299,24305,6970,Asia
+2019,1286,LKQ,Consumer Durables,United States of America,11877,485,11393,9681,NorthAmerica
+2019,1287,LARGAN Precision,Technology Hardware & Equipment,Taiwan,1656,808,4316,20139,Asia
+2019,1288,X5 Retail Group,Food Markets,Netherlands,24423,456,8933,7471,Europe
+2019,1289,Canara Bank,Banking,India,7562,-613,96814,3012,Asia
+2019,1289,Digital Realty Trust,Diversified Financials,United States of America,3015,331,23767,25074,NorthAmerica
+2019,1291,Crown Holdings,Materials,United States of America,11719,452,15357,7637,NorthAmerica
+2019,1292,Bausch Health Companies,Drugs & Biotechnology,Canada,8380,-4260,32492,8119,NorthAmerica
+2019,1292,Doosan,Trading Companies,South Korea,16512,-66,25883,1721,Asia
+2019,1294,Transurban Group,Transportation,Australia,2778,206,23374,25236,Oceanic
+2019,1295,Mitsui Chemicals,Chemicals,Japan,13432,621,13486,4931,Asia
+2019,1296,Maanshan Iron & Steel,Materials,China,12279,907,11197,4034,Asia
+2019,1297,Jacobs Engineering,Construction,United States of America,15318,299,12945,10733,NorthAmerica
+2019,1298,Partners Group Holding,Diversified Financials,Switzerland,1530,786,2992,19917,Europe
+2019,1299,AVIC Capita,Diversified Financials,China,2334,478,43740,8675,Asia
+2019,1300,Focus Media Information Technology,Media,China,2100,1055,2687,14748,Asia
+2019,1300,Koito Manufacturing,Consumer Durables,Japan,7388,787,6450,9812,Asia
+2019,1302,Check Point Software,IT Software & Services,Israel,1916,821,5828,18744,Asia
+2019,1302,Quinenco,Conglomerates,Chile,8542,307,60138,4541,SouthAmerica
+2019,1304,Leidos,Aerospace & Defense,United States of America,10194,581,8992,9372,NorthAmerica
+2019,1305,Dover,Conglomerates,United States of America,7079,545,8366,14199,NorthAmerica
+2019,1306,Grupo Bimbo,"Food, Drink & Tobacco",Mexico,14985,301,13371,10071,NorthAmerica
+2019,1307,Sino Biopharmaceutical,Drugs & Biotechnology,Hong Kong,3155,1326,7251,12468,Asia
+2019,1308,Everest Re Group,Insurance,Bermuda,7383,103,24794,10495,NorthAmerica
+2019,1308,Jinke Property Group,Construction,China,6019,587,33602,6275,Asia
+2019,1310,Bombardier,Aerospace & Defense,Canada,16234,232,24958,5000,NorthAmerica
+2019,1311,L Brands,Retailing,United States of America,13237,644,8090,7067,NorthAmerica
+2019,1312,Wuestenrot & Wuerttembergische,Diversified Financials,Germany,7523,253,82012,1975,Europe
+2019,1313,DaVita,Health Care Equipment & Services,United States of America,11405,159,19320,8691,NorthAmerica
+2019,1314,Ventas,Diversified Financials,United States of America,3746,363,22585,21095,NorthAmerica
+2019,1315,Coca-Cola HBC,"Food, Drink & Tobacco",Switzerland,7854,528,7835,12871,Europe
+2019,1316,Tenet Healthcare,Health Care Equipment & Services,United States of America,18313,111,22409,2410,NorthAmerica
+2019,1317,Metro,Food Markets,Canada,12235,484,8001,9441,NorthAmerica
+2019,1318,Bluescope Steel,Materials,Australia,9296,1308,7882,5166,Oceanic
+2019,1318,Korea Shipbuilding & Offshore Engineering,Capital Goods,South Korea,11922,-474,22163,7525,Asia
+2019,1320,Techtronic Industries,Consumer Durables,Hong Kong,7021,552,6349,13555,Asia
+2019,1321,Fukuoka Financial Group,Banking,Japan,2148,451,191215,4406,Asia
+2019,1321,Tractor Supply,Retailing,United States of America,7911,532,3187,12485,NorthAmerica
+2019,1323,National Oilwell Varco,Oil & Gas Operations,United States of America,8455,-31,19796,10409,NorthAmerica
+2019,1324,Shanxi Taigang Stainless,Materials,China,11041,998,10293,4333,Asia
+2019,1325,Shinsei Bank,Banking,Japan,2610,520,86913,3374,Asia
+2019,1326,Lotte Shopping,Retailing,South Korea,16213,-660,23534,4451,Asia
+2019,1327,Alrosa,Materials,Russia,4743,1425,5927,11027,Europe
+2019,1327,Fidelity National Financial,Insurance,United States of America,7592,628,9411,10716,NorthAmerica
+2019,1329,RTL Group,Media,Luxembourg,7674,788,9516,8990,Europe
+2019,1330,Manpower,Business Services & Supplies,United States of America,21991,557,8520,5826,NorthAmerica
+2019,1330,Navient,Diversified Financials,United States of America,5667,395,104176,2966,NorthAmerica
+2019,1332,Banco BPM,Banking,Italy,6098,-70,183435,3622,Europe
+2019,1333,Chow Tai Fook Jewellery,Consumer Durables,Hong Kong,8185,543,7405,11166,Asia
+2019,1334,Bank of India,Banking,India,6842,-925,94322,3844,Asia
+2019,1335,Liberty Expedia Holdings,Business Services & Supplies,United States of America,11449,-128,32434,2555,NorthAmerica
+2019,1335,Shenzhou International Group Holdings,Consumer Durables,Hong Kong,3157,686,4013,20023,Asia
+2019,1337,Bunzl,Trading Companies,United Kingdom,12107,435,7145,10296,Europe
+2019,1337,US Foods,Food Markets,United States of America,24175,407,9186,7750,NorthAmerica
+2019,1339,Chugoku Electric Power,Utilities,Japan,12388,105,29084,4107,Asia
+2019,1340,Contemporary Amperex Technology,Capital Goods,China,4135,564,9271,27427,Asia
+2019,1341,Emera,Utilities,Canada,4881,576,23659,8915,NorthAmerica
+2019,1341,KION Group,Capital Goods,Germany,9433,472,14825,8061,Europe
+2019,1343,Daishi Hokuetsu Financial Group,Banking,Japan,891,512,80665,1373,Asia
+2019,1344,RHB Bank,Banking,Malaysia,2781,571,58842,5634,Asia
+2019,1345,Nordstrom,Retailing,United States of America,15860,564,7886,6796,NorthAmerica
+2019,1346,Yamato Holdings,Transportation,Japan,14710,398,11086,9522,Asia
+2019,1347,Chesapeake Energy,Oil & Gas Operations,United States of America,10265,866,11766,4752,NorthAmerica
+2019,1348,NARI Technology Development,Capital Goods,China,5173,718,7157,14842,Asia
+2019,1348,Santos,Oil & Gas Operations,Australia,3764,643,17336,10749,Oceanic
+2019,1350,Eisai,Drugs & Biotechnology,Japan,5680,577,9351,16295,Asia
+2019,1351,Electric Power Development,Utilities,Japan,7982,494,25498,4187,Asia
+2019,1352,Targa Resources,Oil & Gas Operations,United States of America,10555,2,17619,9146,NorthAmerica
+2019,1353,Keppel,Conglomerates,Singapore,4421,699,19520,9009,Asia
+2019,1354,Advance Auto Parts,Retailing,United States of America,9581,424,9041,12571,NorthAmerica
+2019,1355,Bank of Chongqing,Banking,China,3468,531,65597,2053,Asia
+2019,1355,Popular,Banking,Puerto Rico,2660,618,47605,5487,NorthAmerica
+2019,1357,Zhongsheng Group Holdings,Retailing,China,16257,551,8327,6660,Asia
+2019,1358,IHS Markit,Business Services & Supplies,United Kingdom,4124,411,16383,21990,Europe
+2019,1359,Campbell Soup,"Food, Drink & Tobacco",United States of America,9751,-164,14024,11861,NorthAmerica
+2019,1360,Microchip Technology,Semiconductors,United States of America,5022,328,18156,23391,NorthAmerica
+2019,1361,Coloplast,Health Care Equipment & Services,Denmark,2662,617,1856,21927,Europe
+2019,1362,STRABAG,Construction,Austria,17641,456,13348,3542,Europe
+2019,1363,Chiba Bank,Banking,Japan,1896,442,134973,4503,Asia
+2019,1364,Colruyt,Food Markets,Belgium,10904,476,4791,9578,Europe
+2019,1365,Brambles,Business Services & Supplies,Australia,5706,635,8033,13537,Oceanic
+2019,1365,Hydro One,Utilities,Canada,4797,614,19360,9569,NorthAmerica
+2019,1365,Verisk Analytics,Insurance,United States of America,2395,599,5900,22563,NorthAmerica
+2019,1368,Oji Holdings,Materials,Japan,14063,410,18066,5890,Asia
+2019,1369,Greentown China Holdings,Construction,China,9004,80,40748,2111,Asia
+2019,1370,Magnit,Food Markets,Russia,19691,539,8816,5726,Europe
+2019,1371,Osaka Gas,Oil & Gas Operations,Japan,12045,102,18525,7637,Asia
+2019,1371,Segro,Diversified Financials,United Kingdom,457,1417,11677,9445,Europe
+2019,1373,Alleghany,Insurance,United States of America,7085,40,25641,9354,NorthAmerica
+2019,1373,Olam International,"Food, Drink & Tobacco",Singapore,22589,237,17202,4483,Asia
+2019,1375,Bohai Leasing,Business Services & Supplies,China,5674,488,42722,4584,Asia
+2019,1376,Jones Lang LaSalle,Construction,United States of America,16318,484,10026,7149,NorthAmerica
+2019,1377,Smith & Nephew,Health Care Equipment & Services,United Kingdom,4904,666,8059,16410,Europe
+2019,1378,J.B. Hunt Transport Services,Transportation,United States of America,8756,491,5324,10571,NorthAmerica
+2019,1378,Medipal Holdings,Drugs & Biotechnology,Japan,28780,311,15370,4907,Asia
+2019,1380,360 Security Technology,IT Software & Services,China,1949,534,4287,25392,Asia
+2019,1381,Coty,Consumer Durables,United States of America,9066,-1231,21271,8459,NorthAmerica
+2019,1382,VeriSign,IT Software & Services,United States of America,1215,582,1915,22288,NorthAmerica
+2019,1383,St. James's Place,Insurance,United Kingdom,-1630,231,120666,7686,Europe
+2019,1384,Barratt Developments,Construction,United Kingdom,6692,972,8543,8118,Europe
+2019,1384,BPER Banca,Banking,Italy,2866,474,80746,2262,Europe
+2019,1386,Maxim Integrated Products,Semiconductors,United States of America,2497,717,3889,16341,NorthAmerica
+2019,1386,Meritz Financial Group,Insurance,South Korea,8066,272,46535,1643,Asia
+2019,1388,Red Eléctrica,Utilities,Spain,2299,831,12962,11118,Europe
+2019,1389,NEXON,IT Software & Services,Japan,2297,975,5924,12469,Asia
+2019,1390,Packaging Corp of America,Materials,United States of America,7015,732,6570,9110,NorthAmerica
+2019,1391,Shanghai International Airport,Transportation,China,1404,639,4505,18416,Asia
+2019,1392,Wuchan Zhongda Group,Trading Companies,China,45379,362,12544,3886,Asia
+2019,1393,Hainan Airlines,Transportation,China,10229,199,27311,6655,Asia
+2019,1394,Cincinnati Financial,Insurance,United States of America,5407,287,22133,14127,NorthAmerica
+2019,1395,Garmin,Technology Hardware & Equipment,Switzerland,3347,694,5383,16394,Europe
+2019,1396,Canadian Tire,Retailing,Canada,10847,534,12657,6937,NorthAmerica
+2019,1397,Nine Dragons Paper Holdings,Materials,Hong Kong,8730,882,11926,4659,Asia
+2019,1398,Nippon Yusen,Transportation,Japan,17540,-48,18499,2722,Asia
+2019,1399,Kintetsu,Transportation,Japan,11087,314,17530,8198,Asia
+2019,1399,Verbund,Utilities,Austria,3360,511,13380,17164,Europe
+2019,1401,Anta Sports Products,Consumer Durables,China,3631,620,3550,18928,Asia
+2019,1402,IAC/InterActiveCorp,Retailing,United States of America,4263,627,6875,18432,NorthAmerica
+2019,1403,Global Payments,Business Services & Supplies,United States of America,3366,452,13231,22047,NorthAmerica
+2019,1404,Penske Automotive,Retailing,United States of America,22785,471,11022,3861,NorthAmerica
+2019,1404,Showa Denko,Chemicals,Japan,8983,1010,9805,5463,Asia
+2019,1406,Shizuoka Bank,Banking,Japan,2018,431,107010,4426,Asia
+2019,1407,Persimmon,Construction,United Kingdom,4984,1182,5924,9713,Europe
+2019,1408,Alfresa Holdings,Drugs & Biotechnology,Japan,23820,410,12627,5541,Asia
+2019,1409,Live Nation Entertainment,Media,United States of America,10788,-18,8497,13782,NorthAmerica
+2019,1410,XPO Logistics,Transportation,United States of America,17279,393,12270,7210,NorthAmerica
+2019,1411,Lixil Group,Construction,Japan,15906,163,19038,4252,Asia
+2019,1412,Bank of Zhengzhou,Banking,China,3549,474,67894,4551,Asia
+2019,1412,OMRON,Technology Hardware & Equipment,Japan,7884,500,6681,10983,Asia
+2019,1414,DCC,Conglomerates,Ireland,20475,324,8519,8813,Europe
+2019,1415,Sun Art Retail Group,Food Markets,Hong Kong,15090,397,8998,8524,Asia
+2019,1416,Beijing Capital Development,Construction,China,5430,479,42444,3870,Asia
+2019,1417,Advanced Micro Devices,Semiconductors,United States of America,6475,337,4556,29938,NorthAmerica
+2019,1417,Nitori Holdings,Retailing,Japan,5504,617,5563,13280,Asia
+2019,1419,Arca Continental,"Food, Drink & Tobacco",Mexico,8263,452,12079,10041,NorthAmerica
+2019,1420,Masraf Al Rayan,Banking,Qatar,969,585,26720,7514,Asia
+2019,1421,BNK Financial Group,Banking,South Korea,3955,437,88541,2038,Asia
+2019,1422,Assurant,Insurance,United States of America,8001,251,41089,5751,NorthAmerica
+2019,1423,NASDAQ,Diversified Financials,United States of America,4396,458,15700,14886,NorthAmerica
+2019,1424,Bawag Group,Banking,Austria,1878,513,51097,5037,Europe
+2019,1424,Shanghai Commercial & Savings Bank,Banking,Taiwan,1743,455,61568,6439,Asia
+2019,1426,Iida Group Holdings,Construction,Japan,12123,599,11705,4926,Asia
+2019,1427,Mirae Asset Daewoo,Diversified Financials,South Korea,3406,415,105830,4755,Asia
+2019,1428,Far East Horizon,Business Services & Supplies,Hong Kong,3909,595,38739,4265,Asia
+2019,1429,CSN,Materials,Brazil,6282,1388,12211,5338,SouthAmerica
+2019,1430,Bank Of Gansu,Banking,China,2597,526,47864,2837,Asia
+2019,1430,People's United Financial,Banking,United States of America,1908,468,47877,6806,NorthAmerica
+2019,1432,E-mart,Retailing,South Korea,15492,397,15015,4276,Asia
+2019,1433,Kerry Properties,Construction,Hong Kong,3063,957,21737,6363,Asia
+2019,1434,ENN Energy Holdings,Oil & Gas Operations,China,9145,431,10766,10789,Asia
+2019,1435,Next,Retailing,Brazil,5524,783,3698,10315,SouthAmerica
+2019,1435,Tech Data,Trading Companies,United States of America,37239,341,12987,3888,NorthAmerica
+2019,1435,Wm Morrison Supermarkets,Food Markets,United Kingdom,23509,323,13044,6891,Europe
+2019,1438,Hong Leong Financial,Business Services & Supplies,Malaysia,2261,482,58229,5236,Asia
+2019,1439,Arab Bank,Banking,Jordan,2283,611,36000,5414,Asia
+2019,1440,Sekisui Chemical,Chemicals,Japan,10366,554,9336,7447,Asia
+2019,1441,Korea Investment Holdings,Diversified Financials,South Korea,2254,481,57361,3616,Asia
+2019,1442,Flex,Technology Hardware & Equipment,Singapore,26490,138,13975,5845,Asia
+2019,1442,Naver,IT Software & Services,South Korea,5077,590,8856,15171,Asia
+2019,1442,Orient Securities,Diversified Financials,China,2360,187,33044,11250,Asia
+2019,1445,Union Bank of India,Banking,India,5960,-809,75718,1528,Asia
+2019,1446,Korean Air,Transportation,South Korea,11831,-175,22925,2996,Asia
+2019,1446,Mebuki Financial Group,Banking,Japan,2165,381,157157,3020,Asia
+2019,1448,Gudang Garam,"Food, Drink & Tobacco",Indonesia,6729,547,4805,10838,Asia
+2019,1449,American Equity Investment,Insurance,United States of America,2361,458,63065,2584,NorthAmerica
+2019,1450,Spirit AeroSystems,Aerospace & Defense,United States of America,7222,617,5686,9040,NorthAmerica
+2019,1451,Ooredoo Q.P.S.C,Telecommunications Services,Qatar,8219,430,23426,5718,Asia
+2019,1452,Yonghui Superstores,Food Markets,China,10357,221,5524,13002,Asia
+2019,1453,First Horizon National,Banking,United States of America,2268,545,40959,4670,NorthAmerica
+2019,1455,Electrolux Group,Consumer Durables,Sweden,14266,437,10976,7408,Europe
+2019,1455,Synopsys,IT Software & Services,United States of America,3172,590,6344,17359,NorthAmerica
+2019,1457,Mitsubishi Materials,Materials,Japan,15619,33,17812,3599,Asia
+2019,1458,Church & Dwight,Consumer Durables,United States of America,4146,569,6069,18157,NorthAmerica
+2019,1459,Xylem,Capital Goods,United States of America,5207,549,7222,14915,NorthAmerica
+2019,1460,Total System Services,Business Services & Supplies,United States of America,4028,576,7469,17836,NorthAmerica
+2019,1461,China Merchants Port Holdings,Transportation,Hong Kong,1296,924,17873,6935,Asia
+2019,1462,Tapestry,Retailing,United States of America,5988,729,7119,9439,NorthAmerica
+2019,1463,Compal Electronics,Technology Hardware & Equipment,Taiwan,32092,296,13007,2769,Asia
+2019,1464,Red Hat,IT Software & Services,United States of America,3362,434,5588,32160,NorthAmerica
+2019,1465,Proximus,Telecommunications Services,Belgium,6804,605,9912,9604,Europe
+2019,1465,Waters,Health Care Equipment & Services,United States of America,2420,594,3727,16952,NorthAmerica
+2019,1467,Sistema,Telecommunications Services,Russia,12460,-731,21124,1374,Europe
+2019,1468,Mashreq Bank,Banking,United Arab Emirates,2651,561,38096,3673,Asia
+2019,1469,Pinnacle West,Utilities,United States of America,3665,511,17664,10562,NorthAmerica
+2019,1470,Vornado Realty,Diversified Financials,United States of America,2370,449,17181,12782,NorthAmerica
+2019,1471,Xiamen International Trade Group,Trading Companies,China,30542,250,12994,2541,Asia
+2019,1472,Reliance Steel,Materials,United States of America,11535,634,8045,6051,NorthAmerica
+2019,1473,Abu Dhabi Islamic Bank,Banking,United Arab Emirates,1909,592,34084,4796,Asia
+2019,1474,AECOM Technology,Construction,United States of America,20282,77,14768,5118,NorthAmerica
+2019,1475,Bank Audi,Banking,Lebanon,3498,498,47233,1953,Asia
+2019,1476,Kawasaki Heavy Industries,Conglomerates,Japan,14274,233,18241,4049,Asia
+2019,1476,Toppan Printing,Business Services & Supplies,Japan,13195,239,19310,5123,Asia
+2019,1478,Boliden,Materials,Sweden,6029,827,6624,8426,Europe
+2019,1478,Cielo,Business Services & Supplies,Brazil,3196,914,21302,5672,SouthAmerica
+2019,1480,Lululemon Athletica,Retailing,Canada,3288,484,2085,22522,NorthAmerica
+2019,1481,Empresas CMPC,Materials,Chile,6274,502,14983,8543,SouthAmerica
+2019,1481,Nitto Denko,Chemicals,Japan,7473,613,8401,8400,Asia
+2019,1483,Huntsman,Chemicals,United States of America,9379,764,7953,5789,NorthAmerica
+2019,1484,Antofagasta,Materials,United Kingdom,4747,498,14103,12941,Europe
+2019,1485,Beijing Shougang,Materials,China,9784,396,19844,3542,Asia
+2019,1486,B3,Diversified Financials,Brazil,1322,571,10101,16544,SouthAmerica
+2019,1486,Realty Income,Diversified Financials,United States of America,1345,364,15260,20819,NorthAmerica
+2019,1488,Bandai Namco Holdings,Consumer Durables,Japan,6554,604,5180,9636,Asia
+2019,1489,Xinyu Iron & Steel,Capital Goods,China,8391,869,5437,3186,Asia
+2019,1490,Alliant Energy,Utilities,United States of America,3535,522,15981,10865,NorthAmerica
+2019,1490,Sinotruk Hong Kong,Capital Goods,China,9384,660,8984,6588,Asia
+2019,1492,Geberit,Construction,Switzerland,3148,610,3552,15146,Europe
+2019,1493,KT&G,"Food, Drink & Tobacco",South Korea,4063,819,9101,11327,Asia
+2019,1494,Spotify Technology,IT Software & Services,Luxembourg,6194,-92,4957,24806,Europe
+2019,1495,Yandex NV,IT Software & Services,Netherlands,2025,759,3504,12125,Europe
+2019,1496,Alexion Pharmaceuticals,Drugs & Biotechnology,United States of America,4133,78,13932,28264,NorthAmerica
+2019,1496,Micro Focus International,IT Software & Services,United Kingdom,3170,523,16781,10271,Europe
+2019,1496,Mitsui OSK Lines,Transportation,Japan,12268,-512,19794,2942,Asia
+2019,1499,Cattolica Assicurazioni,Insurance,Italy,7148,126,39052,1609,Europe
+2019,1500,Hyundai Engineering,Construction,South Korea,15203,347,16181,5019,Asia
+2019,1501,Chang Hwa Bank,Banking,Taiwan,1641,419,67730,5793,Asia
+2019,1502,China Communications Services,Telecommunications Services,China,16047,441,11787,6127,Asia
+2019,1503,Bajaj Auto,Consumer Durables,India,4323,686,3665,12781,Asia
+2019,1504,Kingfisher,Retailing,United Kingdom,15489,289,13154,7259,Europe
+2019,1505,CIT Group,Business Services & Supplies,United States of America,3171,463,48537,5003,NorthAmerica
+2019,1506,Nippon Express,Transportation,Japan,19243,118,14325,5127,Asia
+2019,1507,Dexus,Diversified Financials,Australia,640,1089,10357,9180,Oceanic
+2019,1508,El Puerto de Liverpool,Retailing,Mexico,7045,608,8867,8545,NorthAmerica
+2019,1508,Israel Discount Bank,Banking,Israel,2652,419,64006,4346,Asia
+2019,1508,Maroc Telecom,Telecommunications Services,Morocco,3838,640,6489,13435,Africa
+2019,1511,MSCI,Business Services & Supplies,United States of America,1434,508,3388,18665,NorthAmerica
+2019,1512,Mettler-Toledo International,Conglomerates,United States of America,2936,513,2619,18100,NorthAmerica
+2019,1513,Taishin Financial Holdings,Diversified Financials,Taiwan,1839,429,58135,4806,Asia
+2019,1513,Xerox,Business Services & Supplies,United States of America,9830,361,14874,7897,NorthAmerica
+2019,1515,Western Union,Business Services & Supplies,United States of America,5573,852,8997,8417,NorthAmerica
+2019,1516,Hang Lung Group,Construction,Hong Kong,1278,674,25366,4044,Asia
+2019,1517,SEB SA,Consumer Durables,France,8037,494,8090,9061,Europe
+2019,1518,Cencosud,Retailing,Chile,15710,298,15632,5987,SouthAmerica
+2019,1519,ICA Gruppen,Food Markets,Sweden,13258,417,9097,7421,Europe
+2019,1520,Jyske Bank,Banking,Denmark,2424,376,91904,3405,Europe
+2019,1521,KPN,Telecommunications Services,Netherlands,6646,319,13920,13076,Europe
+2019,1522,Ceconomy,Retailing,Germany,25537,-250,12545,2165,Europe
+2019,1522,Halyk Bank,Banking,Kazakhstan,3006,718,23513,3347,Asia
+2019,1524,Kaisa Group Holdings,Construction,China,5818,420,33358,2617,Asia
+2019,1525,Jiangxi Bank,Banking,China,3237,416,61047,4876,Asia
+2019,1526,Zhongyuan Bank,Banking,China,4294,373,90369,5783,Asia
+2019,1528,Banca MPS,Banking,Italy,4000,329,149159,1733,Europe
+2019,1529,Lindt & Sprungli,"Food, Drink & Tobacco",Switzerland,4407,496,7473,18601,Europe
+2019,1530,Dangote Cement,Construction,Nigeria,2493,1076,4662,8959,Africa
+2019,1531,Epiroc,Capital Goods,Sweden,4400,624,4078,13174,Europe
+2019,1531,Jefferies Financial,Conglomerates,United States of America,4999,412,48959,5871,NorthAmerica
+2019,1533,Caesars Entertainment,"Hotels, Restaurants & Leisure",United States of America,8391,303,25775,6407,NorthAmerica
+2019,1534,Chemours,Chemicals,United States of America,6638,995,7362,6533,NorthAmerica
+2019,1535,Blom Bank,Banking,Lebanon,2454,506,36765,1752,Asia
+2019,1536,Daelim Industrial,Construction,South Korea,9981,587,11502,3181,Asia
+2019,1536,HELLA,Consumer Durables,Germany,8471,750,7073,6151,Europe
+2019,1538,Haseko,Construction,Japan,8045,815,6632,3543,Asia
+2019,1539,ON Semiconductor Corp.,Semiconductors,United States of America,5878,627,7588,9319,NorthAmerica
+2019,1540,AMP,Diversified Financials,Australia,4885,21,102276,4770,Oceanic
+2019,1541,Jabil Circuit,Technology Hardware & Equipment,United States of America,23782,176,12477,4761,NorthAmerica
+2019,1541,Noble Energy,Oil & Gas Operations,United States of America,4461,-66,21618,13110,NorthAmerica
+2019,1543,Tech Mahindra,IT Software & Services,India,4954,641,4672,11335,Asia
+2019,1543,World Fuel Services,Trading Companies,United States of America,39625,128,5677,2067,NorthAmerica
+2019,1545,AutoNation,Retailing,United States of America,21413,396,10815,3407,NorthAmerica
+2019,1546,CPFL Energia,Utilities,Brazil,8221,544,11196,7387,SouthAmerica
+2019,1547,KWG Group Holdings,Construction,Hong Kong,1129,613,26878,3795,Asia
+2019,1548,GS Engineering,Construction,South Korea,11939,528,10784,2693,Asia
+2019,1549,Pearson,Media,United Kingdom,5506,784,10068,8574,Europe
+2019,1550,Starwood Property Trust,Diversified Financials,United States of America,1113,382,68262,6314,NorthAmerica
+2019,1551,General Insurance Corporation Of India,Insurance,India,6767,488,17836,6587,Asia
+2019,1552,Hokuhoku Financial Group,Banking,Japan,1546,171,120881,1388,Asia
+2019,1552,Taylor Wimpey,Construction,United Kingdom,5443,876,6694,8108,Europe
+2019,1554,Community Health Systems,Health Care Equipment & Services,United States of America,14155,-788,15859,385,NorthAmerica
+2019,1555,SG Holdings,Transportation,Japan,10352,396,6737,8828,Asia
+2019,1556,Vulcan Materials,Construction,United States of America,4383,516,10045,16218,NorthAmerica
+2019,1557,Samsung Electro-Mechanics,Technology Hardware & Equipment,South Korea,7445,596,7748,7608,Asia
+2019,1558,Guangzhou Baiyunshan Pharmaceutical Holdings,Drugs & Biotechnology,China,6286,532,7498,9893,Asia
+2019,1559,News Corp,Media,United States of America,9937,-1303,16227,7324,NorthAmerica
+2019,1559,Tahoe Group,Construction,China,4580,490,36796,3623,Asia
+2019,1561,Qingdao Rural Commercial Bank,Banking,China,1944,366,42842,7548,Asia
+2019,1561,SBI Holdings,Diversified Financials,Japan,2703,443,45702,5008,Asia
+2019,1563,Almarai,"Food, Drink & Tobacco",Saudi Arabia,3691,523,8660,15440,Asia
+2019,1564,Frontier Communications,Telecommunications Services,United States of America,8611,-643,24816,270,NorthAmerica
+2019,1565,New York Community Bancorp,Banking,United States of America,1800,418,51983,5318,NorthAmerica
+2019,1565,Xiamen Xiangyu,Transportation,China,35127,159,8949,1783,Asia
+2019,1567,UGI,Oil & Gas Operations,United States of America,7733,417,12368,9142,NorthAmerica
+2019,1568,Mowi ASA,"Food, Drink & Tobacco",Norway,4501,669,5882,11375,Europe
+2019,1569,MTU Aero Engines AG,Aerospace & Defense,Germany,5388,527,8216,11913,Europe
+2019,1570,NiSource,Oil & Gas Operations,United States of America,5115,-51,23307,10279,NorthAmerica
+2019,1571,LEG Immobilien AG,Construction,Germany,890,995,12930,7378,Europe
+2019,1572,Hopson Development Holdings,Construction,Hong Kong,1737,737,20961,2553,Asia
+2019,1573,ServiceNow,IT Software & Services,United States of America,2609,-27,3879,42851,NorthAmerica
+2019,1574,IHI,Capital Goods,Japan,13638,295,15651,3643,Asia
+2019,1575,Workday,IT Software & Services,United States of America,2829,-418,5521,41698,NorthAmerica
+2019,1576,Alcoa,Materials,United States of America,13120,-122,15956,4946,NorthAmerica
+2019,1576,Old Dominion Freight Line,Transportation,United States of America,4044,606,3545,12593,NorthAmerica
+2019,1578,Air Canada,Transportation,Canada,13937,129,14055,6564,NorthAmerica
+2019,1579,Wistron,Technology Hardware & Equipment,Taiwan,29499,163,11032,2348,Asia
+2019,1580,Citrix Systems,IT Software & Services,United States of America,2974,576,5136,13187,NorthAmerica
+2019,1580,Tiffany & Co.,Retailing,United States of America,4442,586,5333,13006,NorthAmerica
+2019,1582,EMS-Chemie Holding,Chemicals,Switzerland,2369,531,2189,14377,Europe
+2019,1583,Banco Comercial Portugues,Banking,Portugal,3199,353,86791,4234,Europe
+2019,1584,Avery Dennison,Materials,United States of America,7159,467,5178,9520,NorthAmerica
+2019,1584,Hertz Global Holdings,Business Services & Supplies,United States of America,9504,-225,21382,1457,NorthAmerica
+2019,1586,First Quantum Minerals,Materials,Canada,4075,444,23537,8213,NorthAmerica
+2019,1587,Symantec,IT Software & Services,United States of America,4764,-38,16456,15597,NorthAmerica
+2019,1588,Times Property Holdings,Construction,China,5160,654,18797,3436,Asia
+2019,1589,Nishi-nippon Financial Holdings,Banking,Japan,1266,209,97048,1276,Asia
+2019,1590,Kyushu Financial Group,Banking,Japan,1493,154,95202,1844,Asia
+2019,1591,China Resources Gas Group,Oil & Gas Operations,Hong Kong,5878,535,9380,9912,Asia
+2019,1592,Pan Pacific International Holdings,Retailing,Japan,8983,374,9478,9959,Asia
+2019,1593,Yamaguchi Financial,Banking,Japan,1393,211,93487,1951,Asia
+2019,1594,NSK,Materials,Japan,9238,616,9850,5185,Asia
+2019,1595,Hachijuni Bank,Banking,Japan,1360,172,91357,2083,Asia
+2019,1596,Ajinomoto,"Food, Drink & Tobacco",Japan,10294,255,12680,8409,Asia
+2019,1597,Olympus,Technology Hardware & Equipment,Japan,7203,141,8409,14196,Asia
+2019,1598,Kansas City Southern,Transportation,United States of America,2779,586,9638,12576,NorthAmerica
+2019,1599,Gjensidige Forsikring,Insurance,Norway,3459,457,17997,9365,Europe
+2019,1600,Renesas Electronics,Semiconductors,Japan,6857,494,8821,9186,Asia
+2019,1601,Caltex Australia,Oil & Gas Operations,Australia,16029,418,4736,5103,Oceanic
+2019,1602,Luzhou Lao Jiao,"Food, Drink & Tobacco",China,1657,504,2872,15106,Asia
+2019,1602,Match Group,IT Software & Services,United States of America,1730,478,2053,16456,NorthAmerica
+2019,1602,SS&C Technologies,IT Software & Services,United States of America,3421,103,16108,16224,NorthAmerica
+2019,1605,Autodesk,IT Software & Services,United States of America,2578,-81,4729,37145,NorthAmerica
+2019,1606,Sun Pharma Industries,Drugs & Biotechnology,India,4220,484,9762,15988,Asia
+2019,1607,North Pacific Bank,Banking,Japan,1239,94,87532,980,Asia
+2019,1607,Uniqa,Insurance,Austria,6698,287,32433,3282,Europe
+2019,1609,Pirelli,Consumer Durables,Italy,6128,509,14897,7241,Europe
+2019,1610,Alexandria Real Estate Equities,Diversified Financials,United States of America,1243,371,14465,15663,NorthAmerica
+2019,1610,Banco Davivienda,Banking,Colombia,3757,470,34095,5653,SouthAmerica
+2019,1610,Csc Financial,Diversified Financials,China,2481,469,28414,6803,Asia
+2019,1613,PBF Energy,Oil & Gas Operations,United States of America,27186,128,8005,3936,NorthAmerica
+2019,1614,Luxshare Precision Industry,Technology Hardware & Equipment,China,5393,411,5308,15986,Asia
+2019,1615,Minebea,Materials,Japan,8359,533,7098,7101,Asia
+2019,1615,Rajesh Exports,Consumer Durables,India,27054,204,3940,2832,Asia
+2019,1617,Bank of Kyoto,Banking,Japan,998,175,85158,3233,Asia
+2019,1618,Align Technology,Health Care Equipment & Services,United States of America,1966,400,2052,22518,NorthAmerica
+2019,1619,PGE Polska Grupa Energetyczna,Utilities,Poland,7181,415,20205,4710,Europe
+2019,1620,Hiroshima Bank,Banking,Japan,1061,205,81665,1603,Asia
+2019,1620,Zhejiang Longsheng Group,Chemicals,China,2861,621,7605,11266,Asia
+2019,1622,Fastighets Balder,Construction,Sweden,772,1070,14438,5793,Europe
+2019,1622,INTL FCStone,Diversified Financials,United States of America,26256,79,8711,757,NorthAmerica
+2019,1622,Latam Airlines,Transportation,Chile,9896,190,17567,6528,SouthAmerica
+2019,1625,BOK Financial,Banking,United States of America,1850,442,38168,6235,NorthAmerica
+2019,1626,Quilter,Diversified Financials,United Kingdom,-3125,264,81037,3696,Europe
+2019,1627,Essex Property Trust,Diversified Financials,United States of America,1417,390,12384,18281,NorthAmerica
+2019,1628,Cullen/Frost Bankers,Banking,United States of America,1397,452,32293,6458,NorthAmerica
+2019,1628,Guangdong Investment,Conglomerates,Hong Kong,1640,584,8682,12084,Asia
+2019,1630,China Resources Cement Holdings,Construction,Hong Kong,4949,1018,7728,7492,Asia
+2019,1631,Shimano,Consumer Durables,Japan,3151,488,4596,14980,Asia
+2019,1632,Ares Capital,Diversified Financials,United States of America,1768,858,12895,7396,NorthAmerica
+2019,1633,77 Bank,Banking,Japan,886,137,77315,1044,Asia
+2019,1634,Kangmei Pharmaceutical,Drugs & Biotechnology,China,4915,733,11890,8292,Asia
+2019,1635,Banque Cantonale Vaudoise,Banking,Switzerland,1168,357,48552,6813,Europe
+2019,1635,Chugoku Bank,Banking,Japan,1093,156,76060,1875,Asia
+2019,1637,Tosoh,Chemicals,Japan,7847,690,7943,5248,Asia
+2019,1637,Ultrapar Participacoes,Oil & Gas Operations,Brazil,24806,315,7869,6225,SouthAmerica
+2019,1639,LG Uplus,Telecommunications Services,South Korea,11018,438,12493,5530,Asia
+2019,1639,Metropolitan Bank & Trust,Banking,Philippines,2280,418,42673,5996,Asia
+2019,1641,Newell Brands,Consumer Durables,United States of America,9838,-7750,17716,6410,NorthAmerica
+2019,1642,Chongqing Changan Auto,Consumer Durables,China,11572,387,13755,6237,Asia
+2019,1643,Petro Rabigh,Oil & Gas Operations,Saudi Arabia,10931,178,17086,4789,Asia
+2019,1643,Tingyi Holding,"Food, Drink & Tobacco",China,9205,376,7720,9114,Asia
+2019,1645,SLM,Business Services & Supplies,United States of America,2010,519,27614,4324,NorthAmerica
+2019,1646,National Bank of Greece,Banking,Greece,1986,-96,74413,2005,Europe
+2019,1647,Merlin Properties SOCIMI S.A,Diversified Financials,Spain,624,1009,14372,6276,Europe
+2019,1648,SYNNEX,Trading Companies,United States of America,20751,360,10761,5494,NorthAmerica
+2019,1649,Copart,Business Services & Supplies,United States of America,1874,483,2297,14847,NorthAmerica
+2019,1649,Gunma Bank,Banking,Japan,1357,235,73636,1705,Asia
+2019,1651,Bank Muscat,Banking,Oman,1541,469,31921,3215,Asia
+2019,1651,Toll Brothers,Construction,United States of America,7331,728,10036,5724,NorthAmerica
+2019,1653,Acciona,Construction,Spain,8860,386,17076,5953,Europe
+2019,1653,GPT Group,Diversified Financials,Australia,563,1084,10404,7563,Oceanic
+2019,1655,Shenzhen Mindray Bio-Medical Electronics,Health Care Equipment & Services,China,1631,383,2376,23026,Asia
+2019,1656,Mr. Cooper Group,Insurance,United States of America,1790,804,16973,779,NorthAmerica
+2019,1657,Burlington Stores,Retailing,United States of America,6668,415,3079,10893,NorthAmerica
+2019,1657,Piraeus Bank,Banking,Greece,2894,-186,70738,873,Europe
+2019,1659,Yunnan Baiyao Group,Drugs & Biotechnology,China,4010,500,4425,13988,Asia
+2019,1660,Companhia Brasileira de Distribuicao,Food Markets,Brazil,13508,326,13636,6335,SouthAmerica
+2019,1661,Erdemir,Materials,Turkey,5570,1154,7854,5412,Asia
+2019,1662,Avis Budget Group,Business Services & Supplies,United States of America,9124,165,19234,2686,NorthAmerica
+2019,1663,Frasers Property Limited,Diversified Financials,Singapore,3485,550,24086,4026,Asia
+2019,1663,Whitbread,"Hotels, Restaurants & Leisure",United Kingdom,3638,589,6535,11319,Europe
+2019,1665,Invitation Homes,Diversified Financials,United States of America,1742,-55,18063,12712,NorthAmerica
+2019,1666,Alpha Bank,Banking,Greece,3810,62,69740,2551,Europe
+2019,1666,Hyundai Glovis,Transportation,South Korea,15325,397,7786,4832,Asia
+2019,1668,Novozymes,Drugs & Biotechnology,Denmark,2278,511,3017,13226,Europe
+2019,1669,Mizrahi Tefahot Bank,Banking,Israel,2201,335,69010,5038,Asia
+2019,1670,Wärtsilä,Capital Goods,Finland,6104,455,6926,10322,Europe
+2019,1671,Foot Locker,Retailing,United States of America,7939,541,3820,6943,NorthAmerica
+2019,1672,Alaska Air Group,Transportation,United States of America,8264,437,11524,7623,NorthAmerica
+2019,1673,Square,IT Software & Services,United States of America,3298,-38,3281,29689,NorthAmerica
+2019,1674,Iyo Bank,Banking,Japan,1055,177,66906,1714,Asia
+2019,1675,Nippon Steel Trading,Trading Companies,Japan,22075,210,8986,1342,Asia
+2019,1676,China Longyuan Power,Utilities,China,3996,607,21339,5501,Asia
+2019,1676,Eurobank Ergasias,Banking,Greece,2188,178,66284,1818,Europe
+2019,1676,Ralph Lauren,Retailing,United States of America,6337,441,6092,10310,NorthAmerica
+2019,1679,Deutsche Pfandbriefbank,Banking,Germany,2193,211,66039,1861,Europe
+2019,1680,Safaricom,Telecommunications Services,Kenya,2380,593,2001,11010,Africa
+2019,1681,New Hope Liuhe,"Food, Drink & Tobacco",China,10416,258,6983,8885,Asia
+2019,1681,Unicaja Banco,Banking,Spain,1994,180,65736,1843,Europe
+2019,1683,Rite Aid,Retailing,United States of America,21640,-422,7591,525,NorthAmerica
+2019,1684,Far Eastern New Century,Capital Goods,Taiwan,7583,399,18401,5519,Asia
+2019,1684,Industrivarden,Diversified Financials,Sweden,624,607,11438,10058,Europe
+2019,1686,W.P. Carey,Diversified Financials,United States of America,902,392,14183,13031,NorthAmerica
+2019,1687,Steel Authority of India,Materials,India,8929,-44,19085,3416,Asia
+2019,1688,Everbright Securities,Diversified Financials,China,1529,28,29972,8360,Asia
+2019,1689,Wayfair,Retailing,United States of America,6779,-504,1891,13318,NorthAmerica
+2019,1690,Jiangsu Zhongnan Construction Group,Construction,China,6114,224,31780,4908,Asia
+2019,1690,Mercuries & Associates,Insurance,Taiwan,5582,11,37838,443,Asia
+2019,1690,Snap-on,Consumer Durables,United States of America,4059,695,5491,9347,NorthAmerica
+2019,1693,Liuzhou Iron & Steel,Materials,China,7117,697,3634,2897,Asia
+2019,1693,Suzuken,Drugs & Biotechnology,Japan,19116,255,11118,5156,Asia
+2019,1695,China Aviation Oil,Oil & Gas Operations,Singapore,20626,94,1654,914,Asia
+2019,1695,China National Chemical,Construction,China,12245,292,14132,5010,Asia
+2019,1695,Nielsen,Media,United States of America,6515,-712,15179,9325,NorthAmerica
+2019,1698,Sterling Bancorp,Banking,United States of America,1302,447,31421,4307,NorthAmerica
+2019,1699,Pinduoduo,Retailing,China,1955,-1562,6290,27374,Asia
+2019,1700,DGB Financial Group,Banking,South Korea,2989,343,58251,1254,Asia
+2019,1701,Commercial Bank of Qatar,Banking,Qatar,2114,398,39541,5279,Asia
+2019,1702,Avnet,Trading Companies,United States of America,19993,-141,9235,5056,NorthAmerica
+2019,1703,Viva Energy Group,Chemicals,Australia,12204,433,3738,3282,Oceanic
+2019,1704,Kingboard Holdings,Chemicals,Hong Kong,5868,775,12061,3838,Asia
+2019,1704,Moscow Exchange,Diversified Financials,Russia,643,314,58850,3246,Europe
+2019,1706,Adani Ports & Special Economic Zone,Transportation,India,1611,531,6972,11649,Asia
+2019,1707,Great Eagle Holdings,"Hotels, Restaurants & Leisure",Hong Kong,1316,741,16403,3416,Asia
+2019,1708,Cabot Oil & Gas,Oil & Gas Operations,United States of America,2144,557,4424,11063,NorthAmerica
+2019,1709,BayWa,Trading Companies,Germany,19614,38,8587,1081,Europe
+2019,1710,Juroku Bank,Banking,Japan,930,82,57383,772,Asia
+2019,1711,Synovus Financial,Banking,United States of America,1630,428,32714,5739,NorthAmerica
+2019,1712,Hyakugo Bank,Banking,Japan,767,85,57206,819,Asia
+2019,1713,Fluor,Construction,United States of America,19167,225,9066,5731,NorthAmerica
+2019,1714,Virgin Money UK,Banking,United Kingdom,1715,-234,56669,4056,Europe
+2019,1715,FinecoBank,Banking,Italy,1078,285,28304,8303,Europe
+2019,1716,Commercial Bank For Investment & Development Of Vietnam,Banking,Vietnam,4528,322,56609,5127,Asia
+2019,1717,Empire,Food Markets,Canada,19030,258,7101,6043,NorthAmerica
+2019,1717,Hakuhodo DY Holdings,Media,Japan,12957,410,7431,5875,Asia
+2019,1719,Rexel,Trading Companies,France,15764,178,11826,3856,Europe
+2019,1720,JG Summit Holdings,Conglomerates,Philippines,5338,440,14703,8489,Asia
+2019,1721,Inner Mongolia Yitai Coal,Materials,China,5703,630,13772,3863,Asia
+2019,1722,Hengan International Group,Consumer Durables,China,3104,576,6649,10471,Asia
+2019,1722,ResMed,Health Care Equipment & Services,United States of America,2455,450,3860,14218,NorthAmerica
+2019,1724,Wendel,Diversified Financials,France,9897,54,16206,6118,Europe
+2019,1725,Fuyao Glass Industry Group,Consumer Durables,China,3031,622,5024,9753,Asia
+2019,1726,Seiko Epson,Business Services & Supplies,Japan,9939,482,9390,5588,Asia
+2019,1727,Shiga Bank,Banking,Japan,829,122,54593,1229,Asia
+2019,1728,Banco de Chile,Banking,Chile,3974,235,51815,6316,SouthAmerica
+2019,1729,Banca Mediolanum,Insurance,Italy,3883,302,54084,5530,Europe
+2019,1729,Hanwa,Trading Companies,Japan,18497,153,8677,1209,Asia
+2019,1731,Atmos Energy,Oil & Gas Operations,United States of America,3104,446,12616,11593,NorthAmerica
+2019,1732,IDBI Bank,Banking,India,4619,-1262,53915,4842,Asia
+2019,1733,Arista Networks,Technology Hardware & Equipment,United States of America,2151,328,3082,24490,NorthAmerica
+2019,1733,Burelle,Consumer Durables,France,8551,532,7477,1901,Europe
+2019,1735,Martin Marietta Materials,Construction,United States of America,4244,469,9716,13219,NorthAmerica
+2019,1736,Metalurgica Gerdau,Materials,Brazil,12625,219,13248,1783,SouthAmerica
+2019,1737,Atlassian,IT Software & Services,United Kingdom,1119,-426,2875,24415,Europe
+2019,1738,Shopify,IT Software & Services,Canada,1073,-65,2259,24366,NorthAmerica
+2019,1739,Performance Food Group,Food Markets,United States of America,18099,169,4196,4308,NorthAmerica
+2019,1740,Toho Bank,Banking,Japan,644,45,52744,662,Asia
+2019,1741,First Citizens Bank,Banking,United States of America,1619,400,35409,5006,NorthAmerica
+2019,1741,Taiwan Business Bank,Banking,Taiwan,1151,253,52674,2467,Asia
+2019,1741,WPG Holdings,Trading Companies,Taiwan,18078,247,6379,2186,Asia
+2019,1744,Advanz Pharma,Drugs & Biotechnology,Canada,536,1483,1831,837,NorthAmerica
+2019,1744,Tokyu Fudosan,Construction,Japan,7621,271,21317,3958,Asia
+2019,1746,First Pacific,Diversified Financials,Hong Kong,7742,132,20902,1714,Asia
+2019,1747,Ogaki Kyoritsu Bank,Banking,Japan,737,69,52550,910,Asia
+2019,1747,Vingroup,Construction,Vietnam,5345,140,12415,14143,Asia
+2019,1749,Ansys,IT Software & Services,United States of America,1294,419,3266,15650,NorthAmerica
+2019,1749,SinoPac Financial,Banking,Taiwan,1678,313,52215,4240,Asia
+2019,1751,San-In Godo Bank,Banking,Japan,833,104,52176,1055,Asia
+2019,1751,Wirecard,Business Services & Supplies,Germany,2275,406,6034,16686,Europe
+2019,1753,Nanto Bank,Banking,Japan,600,87,52118,613,Asia
+2019,1754,Universal Entertainment,Consumer Durables,Japan,844,1459,4655,2553,Asia
+2019,1755,Mirvac Group,Diversified Financials,Australia,1938,950,9931,7322,Oceanic
+2019,1756,Grupo Bolivar,Business Services & Supplies,Colombia,5014,359,38395,1287,SouthAmerica
+2019,1757,Constellation Software,IT Software & Services,Canada,3062,381,2935,18726,NorthAmerica
+2019,1758,Albemarle,Chemicals,United States of America,3375,694,7582,8743,NorthAmerica
+2019,1759,Bank of Xi'an,Banking,China,1361,315,34328,7205,Asia
+2019,1760,Adient,Consumer Durables,Ireland,17393,-1486,10358,2423,Europe
+2019,1760,Zain,Telecommunications Services,Kuwait,4361,650,14779,6816,Asia
+2019,1762,IDEXX Laboratories,Health Care Equipment & Services,United States of America,2213,377,1537,18800,NorthAmerica
+2019,1762,Sansteel Minguang,Materials,China,5433,983,4110,4631,Asia
+2019,1764,RMB Holdings,Diversified Financials,South Africa,4,741,3572,8326,Africa
+2019,1765,Bendigo & Adelaide Bank,Banking,Australia,1719,303,50466,3523,Oceanic
+2019,1766,Aozora Bank,Banking,Japan,1356,355,45990,2869,Asia
+2019,1766,Red Star Macalline Group,Construction,China,2088,688,16164,6145,Asia
+2019,1768,Central Bank of India,Banking,India,4155,-797,50291,1645,Asia
+2019,1769,Founder Securities,Diversified Financials,China,953,100,21607,9504,Asia
+2019,1769,Vietin Bank,Banking,Vietnam,3655,235,50202,3370,Asia
+2019,1771,Senshu Ikeda Holdings,Banking,Japan,740,47,50094,701,Asia
+2019,1772,Syndicate Bank,Banking,India,3808,-483,49921,1449,Asia
+2019,1773,Celltrion,Drugs & Biotechnology,South Korea,892,243,3252,22748,Asia
+2019,1773,Inventec,Technology Hardware & Equipment,Taiwan,16810,216,6696,2850,Asia
+2019,1773,Orient,Business Services & Supplies,Japan,2084,298,49421,1780,Asia
+2019,1776,Credito Emiliano,Banking,Italy,2270,220,49348,1937,Europe
+2019,1776,SDIC Capital,Consumer Durables,China,1987,254,22643,9091,Asia
+2019,1778,Indiabulls Housing Finance,Business Services & Supplies,India,2451,601,18442,4932,Asia
+2019,1778,Tokyo Kiraboshi Financial Group,Banking,Japan,698,15,49288,445,Asia
+2019,1780,Aareal Bank,Banking,Germany,1419,245,48798,2082,Europe
+2019,1781,Sembcorp Industries,Utilities,Singapore,8663,242,17110,3567,Asia
+2019,1782,China Zhongwang Holdings,Materials,China,3836,624,17376,4019,Asia
+2019,1783,PacWest Bancorp,Banking,United States of America,1330,455,26324,4713,NorthAmerica
+2019,1784,Palo Alto Networks,Technology Hardware & Equipment,United States of America,2592,-90,5708,22481,NorthAmerica
+2019,1785,NH Investment & Securities,Diversified Financials,South Korea,1434,328,48100,3750,Asia
+2019,1785,SBA Communications,Diversified Financials,United States of America,1866,47,7214,22409,NorthAmerica
+2019,1787,Hyatt Hotels,"Hotels, Restaurants & Leisure",United States of America,4454,769,7643,8022,NorthAmerica
+2019,1787,Tenneco,Consumer Durables,United States of America,11763,55,13232,2039,NorthAmerica
+2019,1789,Core-Mark Holding,Trading Companies,United States of America,16395,46,1685,1667,NorthAmerica
+2019,1790,Vodafone Idea,Telecommunications Services,India,4596,-1561,32807,7148,Asia
+2019,1791,MercadoLibre,IT Software & Services,Argentina,1440,-37,2240,22240,SouthAmerica
+2019,1792,Adyen,IT Software & Services,Netherlands,1950,155,2127,22237,Europe
+2019,1793,Hanesbrands,Consumer Durables,United States of America,6804,553,7256,6828,NorthAmerica
+2019,1794,Longi Green Energy Technology,Semiconductors,China,3065,461,5644,12515,Asia
+2019,1795,Barry Callebaut,"Food, Drink & Tobacco",Switzerland,7120,365,6074,9949,Europe
+2019,1796,Axiata Group,Telecommunications Services,Malaysia,5919,-1248,15462,8936,Asia
+2019,1796,Banca Popolare di Sondrio,Banking,Italy,1274,131,47016,1302,Europe
+2019,1796,Liberty Broadband,Telecommunications Services,United States of America,22,70,12154,17385,NorthAmerica
+2019,1799,Suzano Papel e Celulose,Materials,Brazil,3675,87,13915,14022,SouthAmerica
+2019,1800,China Oriental Group,Materials,Hong Kong,6186,730,4313,2363,Asia
+2019,1800,Sinotrans Ltd.,Transportation,China,11655,409,9546,3170,Asia
+2019,1802,Berry Global Group,Materials,United States of America,8065,421,8972,7496,NorthAmerica
+2019,1803,President Chain Store,Food Markets,Taiwan,8121,338,4154,9473,Asia
+2019,1804,Juniper Networks,Technology Hardware & Equipment,United States of America,4648,567,9363,9768,NorthAmerica
+2019,1805,Canadian Utilities,Utilities,Canada,3377,489,15975,7604,NorthAmerica
+2019,1805,CSPC Pharmaceutical Group,Drugs & Biotechnology,Hong Kong,2683,466,3370,12194,Asia
+2019,1807,Broadridge Financial,Business Services & Supplies,United States of America,4404,443,3358,13048,NorthAmerica
+2019,1808,Chipotle Mexican Grill,"Hotels, Restaurants & Leisure",United States of America,4865,177,2404,19408,NorthAmerica
+2019,1809,Navistar International,Capital Goods,United States of America,10778,424,7037,3442,NorthAmerica
+2019,1810,Bank of Qingdao,Banking,China,2281,306,45618,4104,Asia
+2019,1811,China Railway Signal & Communication,Technology Hardware & Equipment,China,6019,534,11605,7115,Asia
+2019,1812,Liberbank,Banking,Spain,905,130,45451,1445,Europe
+2019,1812,Nuernberger Beteiligungs,Insurance,Germany,5137,69,35064,922,Europe
+2019,1812,Sofina,Diversified Financials,Belgium,145,1016,7601,6762,Europe
+2019,1816,Muyuan Foodstuff,"Food, Drink & Tobacco",China,2020,79,4347,20899,Asia
+2019,1817,Bank of Jiujiang,Banking,China,2274,268,45388,3253,Asia
+2019,1818,China Development Bank Financial Leasing,Banking,China,2156,378,34675,2836,Asia
+2019,1819,United Utilities,Utilities,United Kingdom,2387,497,16805,7278,Europe
+2019,1820,JTEKT,Materials,Japan,13745,327,11613,4509,Asia
+2019,1820,Keiyo Bank,Banking,Japan,592,103,44744,790,Asia
+2019,1822,Basler Kantonalbank,Banking,Switzerland,691,194,44665,391,Europe
+2019,1823,Japan Securities,Diversified Financials,Japan,233,34,44629,481,Asia
+2019,1824,Commercial International Bank,Banking,Egypt,2378,538,19111,6182,Africa
+2019,1825,Alfa Laval,Capital Goods,Sweden,4674,519,6566,10380,Europe
+2019,1826,China Merchants Expressway Network & Technology Holdings,Transportation,China,1015,591,12247,8164,Asia
+2019,1827,Hyakujushi Bank,Banking,Japan,646,61,44217,602,Asia
+2019,1828,Commerce Bank,Banking,United States of America,1404,426,25033,6521,NorthAmerica
+2019,1828,Dali Foods Group,"Food, Drink & Tobacco",China,3165,564,2657,9548,Asia
+2019,1830,Financial Street Holdings,Construction,China,2939,494,21633,3981,Asia
+2019,1830,Hokkoku Bank,Banking,Japan,582,70,44042,857,Asia
+2019,1832,Asian Paints,Chemicals,India,2748,317,2061,20269,Asia
+2019,1833,Haidilao International Holding,"Hotels, Restaurants & Leisure",China,2556,247,1740,20267,Asia
+2019,1834,Old Republic International,Insurance,United States of America,6315,370,19608,6377,NorthAmerica
+2019,1834,Oshkosh,Capital Goods,United States of America,7923,525,5030,5747,NorthAmerica
+2019,1836,Cemig,Utilities,Brazil,6090,465,15443,6057,SouthAmerica
+2019,1837,Credit Bank of Moscow,Banking,Russia,2451,395,30933,2522,Europe
+2019,1837,Fangda Carbon New Material,Construction,China,1848,937,2188,6837,Asia
+2019,1837,Yamada Denki,Retailing,Japan,14387,99,11051,3816,Asia
+2019,1840,Hengyi Petrochemical,Chemicals,China,12822,297,8684,6698,Asia
+2019,1840,Xinhu Zhongbao,Construction,China,2112,514,20020,4963,Asia
+2019,1842,Jaccs,Business Services & Supplies,Japan,1295,70,42770,555,Asia
+2019,1842,Zalando,Retailing,Germany,6356,61,3697,11623,Europe
+2019,1844,Informa plc,Media,United Kingdom,3160,277,13966,12990,Europe
+2019,1845,Garrett Motion,Consumer Durables,Switzerland,3375,1178,2104,1392,Europe
+2019,1846,Medical Properties Trust,Diversified Financials,United States of America,785,1013,8844,6570,NorthAmerica
+2019,1847,Nanya Technology,Semiconductors,Taiwan,2532,1170,5940,6144,Asia
+2019,1848,Sydney Airport,Transportation,Australia,1178,451,9190,12025,Oceanic
+2019,1849,Kiyo Bank,Banking,Japan,652,96,42175,936,Asia
+2019,1850,International Flavors & Fragrances,Consumer Durables,United States of America,3978,336,12889,14502,NorthAmerica
+2019,1850,JB Financial Group,Banking,South Korea,2166,208,41925,961,Asia
+2019,1852,Smurfit Kappa Group,Materials,Ireland,10554,-762,10852,7330,Europe
+2019,1853,Fraport,Transportation,Germany,4104,559,13289,7558,Europe
+2019,1854,Piramal Enterprises,Drugs & Biotechnology,India,1830,725,12013,7059,Asia
+2019,1855,Banque Centrale Populaire,Banking,Morocco,2409,313,41422,5038,Africa
+2019,1856,FMC,Chemicals,United States of America,4728,493,9974,10522,NorthAmerica
+2019,1856,Konica Minolta Business Solutions,Technology Hardware & Equipment,Japan,9585,429,11036,4894,Asia
+2019,1858,Sonova Holding,Health Care Equipment & Services,Switzerland,2761,427,4335,12903,Europe
+2019,1859,F.N.B.,Banking,United States of America,1445,373,33102,3657,NorthAmerica
+2019,1860,Fibra Uno,Diversified Financials,Mexico,986,893,12329,5792,NorthAmerica
+2019,1860,Lotte,"Food, Drink & Tobacco",South Korea,6607,168,21701,3214,Asia
+2019,1860,Musashino Bank,Banking,Japan,545,7,40997,654,Asia
+2019,1863,Migdal Insurance,Insurance,Israel,4399,153,40984,1094,Asia
+2019,1864,Chimera Investment,Diversified Financials,United States of America,1289,412,27709,3533,NorthAmerica
+2019,1865,Sabesp,Utilities,Brazil,4399,775,11240,7157,SouthAmerica
+2019,1865,Shanghai Ganglian E-Commerce Holdings,IT Software & Services,China,14388,17,1642,1846,Asia
+2019,1867,EFG International,Banking,Switzerland,1559,72,40739,2169,Europe
+2019,1868,Cleveland-cliffs,Materials,United States of America,1968,1128,4152,2723,NorthAmerica
+2019,1869,Saudi Arabian Fertilizers,Chemicals,Saudi Arabia,1029,464,2534,11278,Asia
+2019,1869,Splunk,IT Software & Services,United States of America,1803,-276,4500,19222,NorthAmerica
+2019,1871,Lendlease Group,Construction,Australia,11687,286,12290,5133,Oceanic
+2019,1871,Murphy USA,Retailing,United States of America,14363,214,2373,2629,NorthAmerica
+2019,1873,Yageo Corporation,Technology Hardware & Equipment,Taiwan,2559,1122,3994,4552,Asia
+2019,1874,Bureau Veritas,Business Services & Supplies,France,5657,392,6969,10782,Europe
+2019,1875,Saipem,Oil & Gas Operations,Italy,10059,-557,13469,5228,Europe
+2019,1876,"United Natural Foods,",Food Markets,United States of America,14258,-276,7398,658,NorthAmerica
+2019,1877,Luzerner Kantonalbank,Banking,Switzerland,619,203,39728,3973,Europe
+2019,1878,AU Optronics,Technology Hardware & Equipment,Taiwan,10202,337,13333,3526,Asia
+2019,1879,Marks & Spencer,Retailing,United Kingdom,14166,39,9672,5968,Europe
+2019,1880,Dixons Carphone,Retailing,United Kingdom,14161,-462,9062,2255,Europe
+2019,1881,Shoprite Holdings,Food Markets,South Africa,10966,343,4713,7026,Africa
+2019,1882,Unisplendour,Technology Hardware & Equipment,China,7264,257,7073,9641,Asia
+2019,1882,Veeva Systems,IT Software & Services,United States of America,862,230,1654,18718,NorthAmerica
+2019,1884,Allahabad Bank,Banking,India,3021,-710,38909,1544,Asia
+2019,1885,Credit Acceptance,Business Services & Supplies,United States of America,1286,574,6375,8926,NorthAmerica
+2019,1886,Banco BBVA Peru,Banking,Peru,1777,447,22194,6349,SouthAmerica
+2019,1886,Indian Bank,Banking,India,3030,203,38788,1838,Asia
+2019,1888,China Agri-Industries,Chemicals,Hong Kong,13885,172,9013,1770,Asia
+2019,1889,Owens Corning,Construction,United States of America,7057,545,9771,5948,NorthAmerica
+2019,1890,LiveRamp Holdings,Business Services & Supplies,United States of America,617,1079,1928,3832,NorthAmerica
+2019,1890,Royal Mail,Transportation,United Kingdom,13811,128,9195,3368,Europe
+2019,1892,Cadence Design,IT Software & Services,United States of America,2138,346,2469,17819,NorthAmerica
+2019,1892,Makita,Consumer Durables,Japan,4428,508,5923,9984,Asia
+2019,1894,Nanjing Iron & Steel,Materials,China,6535,606,6042,2785,Asia
+2019,1895,United Aircraft,Aerospace & Defense,Russia,7682,-23,17184,5069,Europe
+2019,1896,Extra Space Storage,Diversified Financials,United States of America,1205,415,7848,12824,NorthAmerica
+2019,1897,Ipsen,Drugs & Biotechnology,France,2625,460,3861,10983,Europe
+2019,1897,Zebra Technologies,Technology Hardware & Equipment,United States of America,4205,421,4339,12553,NorthAmerica
+2019,1899,H Lundbeck,Drugs & Biotechnology,Denmark,2868,618,3525,8296,Europe
+2019,1900,Andhra Bank,Banking,India,3305,-522,37735,707,Asia
+2019,1901,Bank of Queensland,Banking,Australia,1674,234,37713,2618,Oceanic
+2019,1902,Air Lease,Business Services & Supplies,United States of America,1680,511,18482,4200,NorthAmerica
+2019,1902,Ronshine China Holdings,Construction,China,5188,330,29632,2340,Asia
+2019,1904,AmBank Group,Banking,Malaysia,1945,322,37325,3262,Asia
+2019,1904,Prysmian,Capital Goods,Italy,11984,153,11595,4830,Europe
+2019,1904,VEON,Telecommunications Services,Netherlands,9067,-693,14097,4128,Europe
+2019,1907,San ju San Financial Group,Banking,Japan,265,37,37161,352,Asia
+2019,1907,Zhejiang Chint Electrics,Capital Goods,China,4040,560,7096,8851,Asia
+2019,1909,Autoliv,Consumer Durables,Sweden,9250,190,6722,7566,Europe
+2019,1909,Sensata Technologies Holding,Technology Hardware & Equipment,United States of America,3505,599,6798,8413,NorthAmerica
+2019,1911,CoStar Group,IT Software & Services,United States of America,1192,238,3313,17560,NorthAmerica
+2019,1912,EasyJet,Transportation,United Kingdom,7928,481,9122,6277,Europe
+2019,1913,Sears Holdings,Retailing,United States of America,13191,-1700,6677,79,NorthAmerica
+2019,1914,Western Alliance Bancorp.,Banking,United States of America,1072,436,23170,4665,NorthAmerica
+2019,1915,Meritz Securities,Diversified Financials,South Korea,1533,389,28068,2489,Asia
+2019,1916,Cimarex Energy,Oil & Gas Operations,United States of America,2339,781,6062,7028,NorthAmerica
+2019,1916,VICI Properties,Diversified Financials,United States of America,898,524,11333,8873,NorthAmerica
+2019,1918,FIBI Holdings,Banking,Israel,1131,98,35895,1051,Asia
+2019,1919,Oriental Bank of Commerce,Banking,India,2851,-281,35874,2082,Asia
+2019,1920,BJ's Wholesale Club,Retailing,United States of America,13007,127,3239,3934,NorthAmerica
+2019,1921,Bank of Nagoya,Banking,Japan,567,47,35668,602,Asia
+2019,1922,Grupo De Inversiones Suramericana,Diversified Financials,Colombia,4027,421,21886,6510,SouthAmerica
+2019,1923,CPI Property Group,Construction,Luxembourg,720,744,9441,7142,Europe
+2019,1924,IBERIABANK,Banking,United States of America,1364,367,30833,4133,NorthAmerica
+2019,1925,Tsim Sha Tsui Properties,Construction,Hong Kong,1521,458,20790,6151,Asia
+2019,1926,China Petroleum Engineering,Oil & Gas Operations,China,8892,102,13982,4088,Asia
+2019,1926,Nomura Research Institute,IT Software & Services,Japan,4500,450,5334,10911,Asia
+2019,1928,Nippon Paint,Chemicals,Japan,5641,310,8531,12225,Asia
+2019,1928,Thomas Cook Group,Business Services & Supplies,United Kingdom,12882,-219,8566,488,Europe
+2019,1928,Tomony Holdings,Banking,Japan,622,102,35105,593,Asia
+2019,1931,Isetan Mitsukoshi Holdings,Retailing,Japan,11036,17,12023,3635,Asia
+2019,1932,Toyota Boshoku,Consumer Durables,Japan,12796,283,6410,3016,Asia
+2019,1932,Want Want China,"Food, Drink & Tobacco",China,3139,491,4015,9854,Asia
+2019,1934,F5 Networks,IT Software & Services,United States of America,2182,496,2892,9713,NorthAmerica
+2019,1934,Innolux,Technology Hardware & Equipment,Taiwan,9265,74,13401,3243,Asia
+2019,1934,Vipshop Holdings,Retailing,China,12767,323,6345,4615,Asia
+2019,1937,Keysight Technologies,Technology Hardware & Equipment,United States of America,4047,185,5978,16889,NorthAmerica
+2019,1938,iQIYI,IT Software & Services,China,3766,-1355,6519,16864,Asia
+2019,1938,Tongling Nonferrous Metals,Materials,China,12740,107,6844,4176,Asia
+2019,1940,Laurentian Bank of Canada,Banking,Canada,1414,157,34356,1318,NorthAmerica
+2019,1940,Ramsay Health Care,Health Care Equipment & Services,Australia,7391,308,8651,8919,Oceanic
+2019,1942,Hero Motocorp,Consumer Durables,India,4945,577,2903,7890,Asia
+2019,1942,Samsung Securities,Diversified Financials,South Korea,1379,304,34353,2886,Asia
+2019,1942,SK Networks,Trading Companies,South Korea,12709,7,6963,1283,Asia
+2019,1942,Yuexiu Property,Construction,Hong Kong,3967,412,24589,3749,Asia
+2019,1946,Synnex Technology Intl,Trading Companies,Taiwan,12708,219,4799,2055,Asia
+2019,1947,Li & Fung,Trading Companies,Hong Kong,12701,103,5341,1546,Asia
+2019,1948,Jointown Pharmaceutical Group,Health Care Equipment & Services,China,12695,193,8848,4327,Asia
+2019,1949,Kuwait Projects,Diversified Financials,Kuwait,2438,70,34152,1045,Asia
+2019,1949,Land Securities Group,Diversified Financials,United Kingdom,1121,-234,18675,8774,Europe
+2019,1949,Lyft,IT Software & Services,United States of America,2157,-911,3760,16684,NorthAmerica
+2019,1952,Corporation Bank,Banking,India,3094,-628,34105,2416,Asia
+2019,1953,Sunny Optical Technology Group,Technology Hardware & Equipment,China,3914,376,3328,13918,Asia
+2019,1954,Delek Group,Oil & Gas Operations,Israel,2261,144,34001,2180,Asia
+2019,1955,Sichuan Changhong Electric,Consumer Durables,China,12481,50,10415,2485,Asia
+2019,1955,Wintrust Financial,Banking,United States of America,1593,350,32359,4259,NorthAmerica
+2019,1957,Indian Overseas Bank,Banking,India,3240,-783,33883,1362,Asia
+2019,1957,RusHydro,Utilities,Russia,5734,497,13555,3493,Europe
+2019,1959,AAC Technologies Holdings,Technology Hardware & Equipment,China,2737,573,4350,8361,Asia
+2019,1959,Associated Banc-Corp,Banking,United States of America,1512,332,33791,3666,NorthAmerica
+2019,1961,Burberry Group,Consumer Durables,United Kingdom,3615,447,2786,10743,Europe
+2019,1961,Catcher Technology,Technology Hardware & Equipment,Taiwan,3164,928,8366,6295,Asia
+2019,1961,Zenith Bank,Banking,Nigeria,1673,534,16384,1825,Africa
+2019,1964,Grupo Carso,Conglomerates,Mexico,5004,491,7002,8860,NorthAmerica
+2019,1965,Marvell Technology Group,Semiconductors,Bermuda,2866,-179,10017,16379,NorthAmerica
+2019,1965,St. Galler Kantonalbank,Banking,Switzerland,592,162,33624,2653,Europe
+2019,1967,Lundbergs,Diversified Financials,Sweden,2498,412,15311,8211,Europe
+2019,1967,Sumec Corporation,Capital Goods,China,12375,69,6222,1427,Asia
+2019,1969,Berkeley Group Holdings,Construction,United Kingdom,3690,878,6091,6440,Europe
+2019,1969,Inchcape,Retailing,United Kingdom,12370,64,6032,3429,Europe
+2019,1971,Asustek Computer,Technology Hardware & Equipment,Taiwan,11746,140,11132,5684,Asia
+2019,1972,Digital China Group,Telecommunications Services,China,12358,77,3785,1525,Asia
+2019,1973,ISS,Business Services & Supplies,Denmark,12348,45,7630,5842,Europe
+2019,1974,AVIC International Holdings,Aerospace & Defense,China,8194,-85,14753,809,Asia
+2019,1975,Newmont Corporation,Materials,Canada,3028,-4226,16967,9375,NorthAmerica
+2019,1976,Booz Allen Hamilton Holding,Business Services & Supplies,United States of America,6560,412,3798,7976,NorthAmerica
+2019,1978,Canadian Apartment Properties Real Estate Investment Trust,Diversified Financials,Canada,535,939,7938,5527,NorthAmerica
+2019,1978,Kesko,Food Markets,Finland,12249,254,4919,5647,Europe
+2019,1978,Securitas,Business Services & Supplies,Sweden,11662,347,6256,6289,Europe
+2019,1981,Bid,Diversified Financials,South Africa,9379,252,4440,7207,Africa
+2019,1982,Lanxess,Chemicals,Germany,9374,402,10283,5633,Europe
+2019,1982,Nippon Paper Industries,Materials,Japan,9649,-351,12773,2280,Asia
+2019,1984,CBOE Global Markets,Diversified Financials,United States of America,2769,422,5321,11311,NorthAmerica
+2019,1985,Saras,Oil & Gas Operations,Italy,12114,166,3384,1749,Europe
+2019,1986,Daily Mail & General Trust,Media,United Kingdom,1917,927,3512,1988,Europe
+2019,1986,"Mitsubishi Gas Chemical Company,",Chemicals,Japan,6016,605,7324,3111,Asia
+2019,1988,Thanachart Capital,Banking,Thailand,2093,243,32584,1952,Asia
+2019,1989,Korea Zinc,Materials,South Korea,6255,479,6476,7104,Asia
+2019,1990,Bank OZK,Banking,United States of America,1242,415,23006,3992,NorthAmerica
+2019,1990,Grupa LOTOS,Oil & Gas Operations,Poland,8336,439,5916,4075,Europe
+2019,1990,Snap,IT Software & Services,United States of America,1180,-1256,2714,15910,NorthAmerica
+2019,1990,Taiwan Cement,Construction,Taiwan,4132,702,11194,6890,Asia
+2019,1990,TP ICAP,Diversified Financials,United Kingdom,2367,43,32493,2072,Europe
+2019,1995,IDEX,Capital Goods,United States of America,2484,411,3474,11712,NorthAmerica
+2019,1996,Thai Oil,Oil & Gas Operations,Thailand,12044,314,8260,4615,Asia
+2019,1997,Bed Bath & Beyond,Retailing,United States of America,12029,-137,6619,2302,NorthAmerica
+2019,1997,Incyte,Drugs & Biotechnology,United States of America,1882,109,2646,15847,NorthAmerica
+2019,1999,Fuyo General Lease,Business Services & Supplies,Japan,5574,209,23179,1530,Asia
+2019,1999,JC Penney,Retailing,United States of America,12019,-255,7873,402,NorthAmerica
