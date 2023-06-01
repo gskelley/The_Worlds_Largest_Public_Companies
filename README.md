@@ -2,7 +2,7 @@
 The Forbes Global 2000 releases the annual ranking of the top 2000 public companies in the world, distributed by Forbes magazine. "The Global 2000" annual ranking is determined by a weighted evaluation of four key criteria: sales, profit, assets, and market value.
 
 ## OBJECTIVE 
-Conduct predictive analysis on the performance of top-performing industries over the past two years to identify successful operational strategies and provide recommendations for optimizing business performance and competitiveness. 
+Evaluate the performance of top-performing industries from 2008 to 2022 to identify successful operational strategies using key performance indicators (KPIs) and gain insights into the impact of COVID-19 on business operations.
 
 ## DATA
 The is an open sources dataset that can be accessed [here](https://data.world/aroissues/forbes-global-2000-2008-2019/workspace/intro). The dataset contains the following information: 
